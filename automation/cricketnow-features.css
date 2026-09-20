@@ -20,3 +20,7 @@
 .cn-news-card p { margin: 0 0 .7rem; color: var(--text-secondary, #abb4a3); line-height: 1.5; }
 .cn-news-card a { color: #d9ff7d; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
 @media (max-width: 640px) { .cn-news-card { grid-template-columns: 1fr; } .cn-news-card img { width: 100%; height: 180px; } }
+.cn-news-route #root main > *:not(.cn-news-page) { display: none; }
+.cn-news-route .cn-news-page { margin-top: 28px; }
+.cn-news-page h2 { text-wrap: balance; }
+.cn-news-page .cn-muted { max-width: 760px; }

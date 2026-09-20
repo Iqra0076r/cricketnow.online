@@ -135,10 +135,13 @@
   function addRankingsNav() { var nav = document.querySelector('nav'); if (!nav) return; ['/rankings','/cricket/live','/cricket/upcoming','/cricket/completed','/latest-cricket-news/','/countries/','/series-archive/'].forEach(function (href) { nav.querySelectorAll('a[href="' + href + '"]').forEach(function (a) { a.remove(); }); }); if (!nav.querySelector('a[href="/news"]')) { var link = document.createElement('a'); link.href = '/news'; link.textContent = 'News'; link.className = 'cn-news-link'; nav.appendChild(link); } }
   function addNewsPage() {
     if (location.pathname.replace(/\/$/, '') !== '/news' || document.querySelector('.cn-news-page')) return;
+    document.body.classList.add('cn-news-route');
     function applyNewsMeta() {
       document.title = 'Latest Cricket News from BBC Sport | CricketNow';
+      var descriptionText = 'Read the latest cricket news and headlines from BBC Sport, refreshed every two hours.';
       var description = document.querySelector('meta[name="description"]');
-      if (description) description.setAttribute('content', 'Read the latest cricket news and headlines from BBC Sport, refreshed every two hours.');
+      if (description) description.setAttribute('content', descriptionText);
+      [['meta[property="og:title"]', 'Latest Cricket News from BBC Sport | CricketNow'], ['meta[property="og:description"]', descriptionText], ['meta[property="og:url"]', location.origin + '/news'], ['meta[property="og:image"]', location.origin + '/media/hero-captains-today.png'], ['meta[name="twitter:title"]', 'Latest Cricket News from BBC Sport | CricketNow'], ['meta[name="twitter:description"]', descriptionText], ['meta[name="twitter:image"]', location.origin + '/media/hero-captains-today.png']].forEach(function (entry) { var node = document.querySelector(entry[0]); if (node) node.setAttribute('content', entry[1]); });
       var canonical = document.querySelector('link[rel="canonical"]');
       if (canonical) canonical.setAttribute('href', location.origin + '/news');
     }
@@ -146,11 +149,22 @@
     window.setTimeout(applyNewsMeta, 500);
     window.setTimeout(applyNewsMeta, 1500);
     var section = shell('Latest cricket news', '<p class="cn-muted">BBC Sport cricket headlines, refreshed every two hours. Open the original BBC article to read the full story.</p><div class="cn-news-meta" aria-live="polite">Loading BBC Sport headlines…</div><div class="cn-news-grid" aria-live="polite"></div>', 'cn-news-page');
-    document.body.appendChild(section);
+    section.setAttribute('aria-labelledby', 'cn-news-heading');
+    section.querySelector('h2').id = 'cn-news-heading';
+    var target = document.querySelector('#root main') || document.body;
+    target.appendChild(section);
+    var schema = document.createElement('script');
+    schema.type = 'application/ld+json';
+    schema.id = 'cn-news-schema';
+    document.head.appendChild(schema);
+    function updateSchema(items) {
+      schema.textContent = JSON.stringify({ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Latest Cricket News from BBC Sport', description: 'Latest cricket news and headlines from BBC Sport, refreshed every two hours.', url: location.origin + '/news', isPartOf: { '@type': 'WebSite', name: 'CricketNow', url: location.origin + '/' }, itemListElement: items.slice(0, 20).map(function (item, index) { return { '@type': 'ListItem', position: index + 1, name: item.title, url: item.link }; }) });
+    }
     function render(data) {
       var grid = section.querySelector('.cn-news-grid');
       var meta = section.querySelector('.cn-news-meta');
       var items = data && Array.isArray(data.items) ? data.items : [];
+      updateSchema(items);
       meta.textContent = items.length ? 'Source: BBC Sport Cricket RSS · Updated ' + new Date(data.updatedAt).toLocaleString() : 'BBC Sport headlines are temporarily unavailable.';
       grid.innerHTML = items.map(function (item) { return '<article class="cn-news-card">' + (item.image ? '<img loading="lazy" src="' + esc(item.image) + '" alt="" />' : '') + '<div><span class="cn-eyebrow">BBC SPORT · ' + esc(item.published || '') + '</span><h3>' + esc(item.title) + '</h3><p>' + esc(item.description || '') + '</p><a href="' + esc(item.link) + '" target="_blank" rel="noopener noreferrer">Read on BBC Sport</a></div></article>'; }).join('') || '<p class="cn-muted">No BBC Sport cricket stories are available right now.</p>';
     }
