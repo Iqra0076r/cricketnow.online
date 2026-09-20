@@ -1,0 +1,67 @@
+{
+  "project": "Cricket World public-structure reconstruction",
+  "source_site": "https://www.cricketworld.com/",
+  "purpose": "Reconstruct the publicly observable information architecture and content contracts without copying proprietary source code, article bodies, branding, or protected media endpoints.",
+  "observed_at": "2026-09-20",
+  "runtime_assumption": "Existing site or compatible static frontend; preserve current deployment and add adapters rather than replacing the application.",
+  "safe_boundaries": {
+    "allowed": [
+      "Public route and navigation mapping",
+      "Public headings, labels, competition names, team names, score fields, dates, statuses, and links",
+      "Publicly visible image metadata and article-card metadata where rights are available",
+      "Public YouTube or social links that the publisher intentionally exposes",
+      "Licensed score and streaming provider adapters supplied by the site owner"
+    ],
+    "excluded": [
+      "Exact third-party source-code copying",
+      "Article-body or bulk copyrighted-content reproduction",
+      "Cloudflare, login, paywall, DRM, or robots bypass",
+      "Hidden stream URLs, tokenized media URLs, or undocumented provider endpoints",
+      "Unlicensed score or streaming feeds"
+    ]
+  },
+  "global_navigation": [
+    {"label": "Live Scores", "path": "/cricket/live"},
+    {"label": "Series", "path": "/series-archive/"},
+    {"label": "Live", "path": "/cricket/live"},
+    {"label": "Betting", "path": "/betting/"},
+    {"label": "Predictions", "path": "/predictions/"},
+    {"label": "News", "path": "/latest-cricket-news/"},
+    {"label": "Photos", "path": "/cricket-photos/"},
+    {"label": "TV", "path": "/cricket-tv/"},
+    {"label": "Countries", "path": "/countries/"},
+    {"label": "Features", "path": "/features/"},
+    {"label": "Club", "path": "/club-cricket/"},
+    {"label": "Search", "path": "/search/"}
+  ],
+  "routes": {
+    "home": {"path": "/", "sections": ["live-score strip", "feature lead", "live streaming and highlights", "predictions", "rankings/statistics", "latest news", "country taxonomy"]},
+    "live": {"path": "/cricket/live", "groupsBy": "competition", "matchStates": ["Live", "Starts Soon", "Not covered live"], "cardFields": ["competition", "matchNumber", "date", "time", "venue", "teams", "score", "overs", "wickets", "inningsState", "matchLink"]},
+    "upcoming": {"path": "/cricket/upcoming", "groupsBy": "series and date", "cardFields": ["series", "date", "weekday", "time", "venue", "matchNumber", "teams", "status", "startsAt", "matchLink"]},
+    "completed": {"path": "/cricket/completed", "groupsBy": "series and chronological date", "cardFields": ["series", "date", "venue", "round", "time", "teams", "scores", "overs", "result", "status", "scorecardLink"]},
+    "news": {"path": "/latest-cricket-news/", "sections": ["latest news", "Cricket World Live", "live streaming and highlights", "match predictions and previews"], "cardFields": ["category", "competition", "headline", "relativeTime", "liveBadge", "thumbnail", "destination"]},
+    "country": {"examplePath": "/england/", "sections": ["country heading", "lead news", "upcoming fixtures", "completed fixtures", "upcoming domestic", "completed domestic", "county cricket", "club cricket", "recent articles", "country taxonomy"], "cardFields": ["competition", "date", "teams", "scores", "status", "articleLink", "scorecardLink"]},
+    "streamingScores": {"path": "/live-cricket-streaming-scores/", "sections": ["breadcrumb", "coverage introduction", "live or archived match entries"], "cardFields": ["competition", "teams", "stage", "date", "headline", "matchLink"], "providerFields": ["scoreFeedId", "commentaryFeedId", "streamEntitlement", "rightsRegion", "expiresAt"]},
+    "match": {"patterns": ["/cricket/{teams}/match/live/{id}", "/cricket/{teams}/match/scorecard/{id}"], "visibleModules": ["match status", "scorecard", "commentary", "match facts", "player statistics", "related news", "streaming CTA when rights permit"]},
+    "series": {"pattern": "/cricket/series/{series-slug}/fixtures/{series-id}", "visibleModules": ["series title", "fixtures", "results", "teams", "archive links"]},
+    "team": {"pattern": "/cricket/teams/{team}/fixtures/{id}", "visibleModules": ["team fixtures", "team results", "domestic fixtures", "news", "country links"]}
+  },
+  "taxonomy": {
+    "formats": ["International Test", "ODI", "T20I", "Domestic T20", "T10", "first-class", "women's cricket", "youth cricket"],
+    "competitionsObserved": ["County Championship Division One", "County Championship Division Two", "CSA 4-Day Series Division I", "CSA 3-Day Series Division II", "CSA T20 Challenge", "ECS Hungary", "DP World ILT20 Development Tournament Kuwait", "Uttarakhand Premier League", "World Championship of Legends", "Asian Games Women's", "Women's Caribbean Premier League", "Metro Bank One Day Cup", "The Ashes", "Vitality Blast", "The Hundred", "PSL", "IPL", "BBL", "European cricket"],
+    "countriesObserved": ["Afghanistan", "Australia", "Bangladesh", "England", "India", "Ireland", "New Zealand", "Pakistan", "Scotland", "South Africa", "Sri Lanka", "West Indies", "Zimbabwe", "Canada", "Kenya", "Namibia", "Nepal", "Netherlands", "Oman", "Papua New Guinea", "United Arab Emirates", "Uganda", "USA"],
+    "regionsObserved": ["Asia", "Europe", "Rest of the World"]
+  },
+  "data_contracts": {
+    "match": {"id": "string", "competition": "string", "seriesId": "string|null", "status": "enum:live|starts_soon|not_covered|scheduled|completed|drawn|abandoned", "date": "ISO date", "time": "string|null", "venue": "string|null", "teams": [{"name": "string", "shortName": "string|null", "score": "string|null", "overs": "string|null", "wickets": "integer|null", "declared": "boolean|null", "batting": "boolean|null"}], "stateSummary": "string|null", "matchUrl": "string", "scorecardUrl": "string|null", "providerRef": "string|null"},
+    "articleCard": {"id": "string", "category": "string|null", "competition": "string|null", "headline": "string", "publishedAt": "ISO timestamp|null", "relativeTime": "string|null", "live": "boolean", "thumbnailUrl": "string|null", "destination": "string"},
+    "providerAdapter": {"name": "string", "kind": "licensed-score|licensed-stream|public-social", "baseUrl": "string", "credentialEnv": "string|null", "refreshSeconds": "integer|null", "rightsRegion": "string|null", "notes": "string"}
+  },
+  "provider_policy": {
+    "scoreSource": "Not publicly identified in the audit. Configure a licensed provider adapter; do not infer or scrape an undocumented endpoint.",
+    "streamSource": "No public playable stream endpoint was exposed in the inspected pages. Use only owner-authorized embeds or licensed stream-provider URLs.",
+    "commentarySource": "Represent commentary as a provider field on match detail pages; source it only from an authorized feed.",
+    "socialSources": ["https://www.youtube.com/cricketworldmedia", "https://www.facebook.com/cricketworld", "https://twitter.com/Cricket_World", "https://www.instagram.com/cricketworld"]
+  },
+  "implementation_order": ["route shell and navigation", "match and article data adapters", "live/upcoming/completed listings", "news and country hubs", "series/team/match detail templates", "licensed score and stream integrations", "search, sitemap, accessibility, analytics, and performance QA"]
+}

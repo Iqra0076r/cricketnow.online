@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "date": "2026-09-20",
+  "timezone": "Asia/Karachi",
+  "updatedAt": "2026-09-20T17:13:00+05:00",
+  "rankingSnapshot": "2026-09-15 to 2026-09-18",
+  "rankingSources": {
+    "teams": {
+      "test": "https://www.icc-cricket.com/rankings/team-rankings/mens/test",
+      "odi": "https://www.icc-cricket.com/rankings/team-rankings/mens/odi",
+      "t20i": "https://www.icc-cricket.com/rankings/team-rankings/mens/t20i"
+    },
+    "players": {
+      "batting": "https://www.icc-cricket.com/rankings/batting/mens/t20i",
+      "bowling": "https://www.icc-cricket.com/rankings/bowling/mens/t20i",
+      "allrounder": "https://www.icc-cricket.com/rankings/allrounder/mens/t20i"
+    }
+  },
+  "liveMatch": null,
+  "upcomingMatch": null,
+  "matches": [],
+  "posters": [
+    "/media/generated-ongoing-match.png",
+    "/media/generated-live-match.png",
+    "/media/generated-upcoming-match.png"
+  ],
+  "notes": "Today’s update adds captain-focused hero and live-match artwork, with no official team logos or exact likeness claims. The daily production workflow must refresh these visuals for verified current matches, preserve text-safe space, optimize image delivery, and retain fallback artwork if generation fails."
+}
