@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-20T19:00:41.685246+00:00",
+  "updatedAt": "2026-09-20T22:05:21.677293+00:00",
   "items": [
     {
       "title": "Middlesex beat Leicestershire to win One-Day Cup",
@@ -33,6 +33,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 16:28:22 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Middlesex win One Day Cup final after Horley ton",
+      "description": "Saskia Horley hits a century and takes four wickets as Middlesex beat Glamorgan in the One Day Cup League Two final in Bristol.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2zw799778o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:36:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2zw799778o#0",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 17:05:35 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "One over, two wickets, no runs - Robinson starts with a bang",
-      "description": "England's Ollie Robinson starts the Pakistan innings by taking two wickets in a maiden over in what has been a dominant series for the bowler.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cq5xjweejlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:24:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq5xjweejlyo#4",
       "source": "BBC Sport"
     }
   ]
