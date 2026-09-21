@@ -1,22 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-21T09:28:45.532737+00:00",
+  "updatedAt": "2026-09-21T16:07:34.299752+00:00",
   "items": [
+    {
+      "title": "Carse needs time away, says 'good mate' Brook",
+      "description": "England white-ball captain Harry Brook says his \"very good mate\" Brydon Carse needs time away from international cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 15:10:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Lancashire director of cricket Chilton to leave",
+      "description": "Lancashire director of cricket Mark Chilton and women's director David Thorley are both to leave the county.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 15:52:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Relegated Hampshire need a 'reset' - Domingo",
+      "description": "Hampshire head coach Russell Domingo admits the club needs to address a host of factors following their relegation to Division Two.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd68p7lpzdvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:55:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd68p7lpzdvo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Middlesex beat Leicestershire to win One-Day Cup",
       "description": "Middlesex claim their first silverware in a decade as they beat Leicestershire in a thrilling One-Day Cup final.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 18:00:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'Beat the Aussies' - new England coach Fleming's key aim",
-      "description": "New Test coach Stephen Fleming says he shares English cricket’s “obsession” with the Ashes and arrives with the goal to “beat the Aussies”.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 07:27:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo#0",
       "source": "BBC Sport"
     },
     {
@@ -28,19 +44,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England crush Sri Lanka to top T20 world rankings",
-      "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:28:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Middlesex win One Day Cup final after Horley ton",
-      "description": "Saskia Horley hits a century and takes four wickets as Middlesex beat Glamorgan in the One Day Cup League Two final in Bristol.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2zw799778o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 16:36:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2zw799778o#0",
+      "title": "'Beat the Aussies' - new England coach Fleming's key aim",
+      "description": "New Test coach Stephen Fleming says he shares English cricket’s “obsession” with the Ashes and arrives with the goal to “beat the Aussies”.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 07:27:30 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo#0",
       "source": "BBC Sport"
     },
     {
@@ -52,11 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Inglis century helps Australia complete Zimbabwe ODI clean sweep - scorecard",
-      "description": "Latest scorecard from the third and final one-day international between Zimbabwe and Australia in Harare.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977#0",
+      "title": "England crush Sri Lanka to top T20 world rankings",
+      "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:28:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do#1",
       "source": "BBC Sport"
     },
     {
@@ -64,47 +72,31 @@
       "description": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 20:59:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Blaze win One-Day Cup in last-ball thriller",
-      "description": "Emma Jones seals the Blaze's treble success with a dramatic last-ball boundary to win a thrilling One-Day Cup final and shatter Hampshire's hopes of silverware.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 17:36:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo#1",
+      "title": "Inglis century helps Australia complete Zimbabwe ODI clean sweep - scorecard",
+      "description": "Latest scorecard from the third and final one-day international between Zimbabwe and Australia in Harare.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Somerset title hopes fade after defeat by Yorkshire",
-      "description": "Somerset's hopes of a first-ever County Championship title are dented with a heavy defeat at Yorkshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:09:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo#1",
+      "title": "'One of the worst adverts for county game' - Lehmann",
+      "description": "Northamptonshire head coach Darren Lehmann says one of the worst advertisements for the county game was on show after his side's draw with Derbyshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ye7q6ne21o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 09:41:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ye7q6ne21o#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Notts' title chances dented by loss to Sussex",
-      "description": "Nottinghamshire's hopes of a successful title defence are all but over after a loss by seven wickets to Sussex at Hove.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw62m61mzel9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:54:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw62m61mzel9o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hampshire relegated as Leicestershire keep survival hopes alive",
-      "description": "Hampshire are relegated from Division One as Leicestershire chase a target of 334 to keep their own survival hopes alive.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 13:28:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northants frustrated by rain in Derbyshire draw",
-      "description": "Northamptonshire's promotion hopes are dented as rain denies them the chance to close out victory against Derbyshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962j71xg1y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:02:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962j71xg1y7o#1",
+      "title": "Bears plan to 'stay in the moment - Westwood",
+      "description": "Warwickshire coach Ian Westwood says the title-chasing Bears plan to \"stay in the moment\" going into the County Championship finale.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:14:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo#1",
       "source": "BBC Sport"
     },
     {
@@ -148,6 +140,46 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Blaze win One-Day Cup in last-ball thriller",
+      "description": "Emma Jones seals the Blaze's treble success with a dramatic last-ball boundary to win a thrilling One-Day Cup final and shatter Hampshire's hopes of silverware.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 17:36:49 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Somerset title hopes fade after defeat by Yorkshire",
+      "description": "Somerset's hopes of a first-ever County Championship title are dented with a heavy defeat at Yorkshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 11:09:34 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bowler Hayes makes permanent Gloucestershire move",
+      "description": "Gloucestershire sign Nottinghamshire seamer James Hayes on a permanent deal after a successful loan spell.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cje3rpg6p2z0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:23:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cje3rpg6p2z0o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Notts' title chances dented by loss to Sussex",
+      "description": "Nottinghamshire's hopes of a successful title defence are all but over after a loss by seven wickets to Sussex at Hove.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw62m61mzel9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 12:54:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw62m61mzel9o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Hampshire relegated as Leicestershire keep survival hopes alive",
+      "description": "Hampshire are relegated from Division One as Leicestershire chase a target of 334 to keep their own survival hopes alive.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 13:28:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Glamorgan beat Surrey to seal Divison One status",
       "description": "Glamorgan ensure Division One survival by completing the double over Surrey with their first win at The Oval since 2014.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvj64dgg7ggno?at_medium=RSS&at_campaign=rss",
@@ -156,43 +188,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Rain arrives with Middlesex needing one Glos wicket",
-      "description": "Rain prevents Middlesex taking the one wicket they needed to beat Gloucestershire in Bristol.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv62kg112j31o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 16:34:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv62kg112j31o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Carse assault investigation dropped by police",
-      "description": "England fast bowler Brydon Carse will face no further police action after an investigation into an alleged assault in Derby last month is dropped.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crwyz98z3406o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:02:35 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crwyz98z3406o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England's Gibson to stay at Somerset through 2028",
-      "description": "England all-rounder Dani Gibson signs a two-year contract extension to stay with Somerset to the end of the 2028 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqde041l2302o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:01:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqde041l2302o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
-      "description": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 09:31:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to England’s series win over Sri Lanka with T20 World Cup winner Dawid Malan.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pb68mn?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pb68mn#3",
+      "title": "Northants frustrated by rain in Derbyshire draw",
+      "description": "Northamptonshire's promotion hopes are dented as rain denies them the chance to close out victory against Derbyshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962j71xg1y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 17:02:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962j71xg1y7o#3",
       "source": "BBC Sport"
     },
     {
