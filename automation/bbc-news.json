@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-21T21:31:00.137887+00:00",
+  "updatedAt": "2026-09-22T00:27:46.351132+00:00",
   "items": [
     {
       "title": "Carse needs time away, says 'good mate' Brook",
@@ -17,6 +17,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 15:52:33 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Mark Chapman is joined by Sir Alastair Cook, Matt Prior and Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pbt66b?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 21:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pbt66b#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "England steamroll Sri Lanka to complete a 3-0 series clean sweep and return to number one in the T20 world rankings.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 17:20:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o#1",
       "source": "BBC Sport"
     },
     {
@@ -65,14 +73,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 16:28:22 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England beat Sri Lanka by six wickets to take T20 series win",
-      "description": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 20:59:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo#1",
       "source": "BBC Sport"
     },
     {
@@ -97,6 +97,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 11:14:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England beat Sri Lanka by six wickets to take T20 series win",
+      "description": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 20:59:49 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo#2",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 11:24:16 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'We'll celebrate' - Root praises team for ignoring 'chaos' in series win",
-      "description": "England captain Joe Root says he's \"proud\" of his squad after they beat Pakistan on day four of the third Test to seal a 3-0 series win against Pakistan at Edgbaston.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cvgy7827vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 14:09:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cvgy7827vzgo#2",
       "source": "BBC Sport"
     },
     {
@@ -196,51 +196,51 @@
       "source": "BBC Sport"
     },
     {
-      "title": "'What a start!' - England lose Duckett and Gay in first over",
-      "description": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 10:34:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o#4",
+      "title": "McCullum - I want to be challenged by Pietersen",
+      "description": "We hear from England white ball coach Brendon McCullum.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9mwnl?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 22:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p9mwnl#6",
       "source": "BBC Sport"
     },
     {
-      "title": "Razaullah steals the show as Pakistan fight back to frustrate England",
-      "description": "Shan Masood, Babar Azam and debutant Razaullah all reach half-centuries as Pakistan produce a spirited fight back to score 449 in their second innings on day three, setting England 130 to win the third and final Test, and complete a 3-0 series win at Edgbaston.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c8xkv541lxvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 19:00:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c8xkv541lxvo#4",
+      "title": "T20 Cricket",
+      "description": "England begin their World Cup build-up as the series starts in Southampton",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031n7v?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:40:08 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031n7v#6",
       "source": "BBC Sport"
     },
     {
-      "title": "'He's a star' - Razaullah shines brightest to leave England flustered",
-      "description": "After picking up four wickets in England's first innings, 21-year-old Razaullah steals the show at Edgbaston with the bat, scoring 81 off 63 balls to help Pakistan set England a target of 130 to win the third and final Test of the series.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cj06733y5v6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 18:53:28 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cj06733y5v6o#4",
+      "title": "Cox and Root guide England to clean sweep",
+      "description": "An early scare but Joe Root and Jordan Cox see England home to win the 3rd Test.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9b90f?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 14:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p9b90f#6",
       "source": "BBC Sport"
     },
     {
-      "title": "Diving duo - Lawrence and Cox produce brilliant catches for England",
-      "description": "Dan Lawrence and Jordan Cox both produce brilliant, diving catches to dismiss Shan Masood and Babar Azam respectively, with both batters having caused problems for England on day three of the third Test at Edgbaston.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyzr2dr977o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 13:57:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cwyzr2dr977o#4",
+      "title": "Test Match Special Podcast",
+      "description": "England are chasing 130 to win the third Test after a hard day in the field.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9794b?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:08:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p9794b#6",
       "source": "BBC Sport"
     },
     {
-      "title": "Calm, classy but no century - brilliant Masood frustrates England",
-      "description": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at Edgbaston.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 14:05:20 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro#4",
+      "title": "Cricket: Today at the Test",
+      "description": "Day 3 highlights from the third Test match between England and Pakistan at Edgbaston.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031c44?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:00:04 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031c44#6",
       "source": "BBC Sport"
     },
     {
-      "title": "England march to early win over Pakistan held up by rain",
-      "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 17:05:35 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo#4",
+      "title": "Submit your question",
+      "description": "Let us answer your cricket data questions",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 15:25:30 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o#7",
       "source": "BBC Sport"
     }
   ]
