@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-22T20:43:23.827795+00:00",
+  "updatedAt": "2026-09-22T23:56:37.206297+00:00",
   "items": [
     {
       "title": "Jacks stars as England grind out win over Sri Lanka",
@@ -41,6 +41,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 17:25:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "ODI Cricket",
+      "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7t?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 22:51:05 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7t#0",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 27 Aug 2026 15:25:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o#7",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Which England player has had the most Test team-mates?",
-      "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 11:27:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro#8",
       "source": "BBC Sport"
     }
   ]
