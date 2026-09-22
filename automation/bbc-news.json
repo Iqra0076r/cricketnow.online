@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-22T12:59:11.353454+00:00",
+  "updatedAt": "2026-09-22T17:51:28.836535+00:00",
   "items": [
+    {
+      "title": "Dream debut - Colombage takes three wickets to stifle England",
+      "description": "Sachindu Colombage enjoys a debut to remember as he removes Joe Root, Jos Buttler and Jamie Overton to finish with figures of 3-44 in the first One Day International between England and Sri Lanka at Chester-le-Street.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 15:32:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England fast bowler Wood retires from internationals",
       "description": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
@@ -15,7 +23,7 @@
       "title": "India avoid shock defeat by Japan after controversial wide",
       "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 11:31:55 GMT",
+      "published": "Tue, 22 Sep 2026 17:25:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#0",
       "source": "BBC Sport"
     },
@@ -48,7 +56,7 @@
       "description": "England white-ball captain Harry Brook says his \"very good mate\" Brydon Carse needs time away from international cricket.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 15:10:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "England steamroll Sri Lanka to complete a 3-0 series clean sweep and return to number one in the T20 world rankings.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 17:20:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cge4qr13r7do?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 12 Sep 2026 12:56:12 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cge4qr13r7do#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
-      "description": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 11:24:16 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o#2",
       "source": "BBC Sport"
     },
     {
