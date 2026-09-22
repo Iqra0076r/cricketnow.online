@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-22T00:27:46.351132+00:00",
+  "updatedAt": "2026-09-22T07:08:08.233469+00:00",
   "items": [
     {
       "title": "Carse needs time away, says 'good mate' Brook",
@@ -12,11 +12,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Japan v India one-off T20 reduced to five-over game - scorecard",
+      "description": "Latest scorecard from the one-off Twenty20 international between Japan and India in Sano.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244561?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244561#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Lancashire director of cricket Chilton to leave",
       "description": "Lancashire director of cricket Mark Chilton and women's director David Thorley are both to leave the county.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 15:52:33 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sri Lanka v India - Asian Games women's final",
+      "description": "Latest scorecard from the Asian Games women's final between Sri Lanka and India in Nisshin, Japan.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244074?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244074#0",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Read what England's new Test coach Stephen Fleming had to say about Bazball, Ben Stokes, the team's discipline issues and his own philosophy.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 07:26:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,7 @@
       "description": "New Test coach Stephen Fleming says he shares English cricket’s “obsession” with the Ashes and arrives with the goal to “beat the Aussies”.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 07:27:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6d08r79rvlgo#1",
       "source": "BBC Sport"
     },
     {
@@ -65,22 +81,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 19 Sep 2026 17:20:26 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England crush Sri Lanka to top T20 world rankings",
-      "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 16:28:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Inglis century helps Australia complete Zimbabwe ODI clean sweep - scorecard",
-      "description": "Latest scorecard from the third and final one-day international between Zimbabwe and Australia in Harare.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977#1",
       "source": "BBC Sport"
     },
     {
@@ -140,6 +140,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "England crush Sri Lanka to top T20 world rankings",
+      "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 16:28:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Blaze win One-Day Cup in last-ball thriller",
       "description": "Emma Jones seals the Blaze's treble success with a dramatic last-ball boundary to win a thrilling One-Day Cup final and shatter Hampshire's hopes of silverware.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo?at_medium=RSS&at_campaign=rss",
@@ -148,11 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Somerset title hopes fade after defeat by Yorkshire",
-      "description": "Somerset's hopes of a first-ever County Championship title are dented with a heavy defeat at Yorkshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:09:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo#3",
+      "title": "Inglis century helps Australia complete Zimbabwe ODI clean sweep - scorecard",
+      "description": "Latest scorecard from the third and final one-day international between Zimbabwe and Australia in Harare.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238977#3",
       "source": "BBC Sport"
     },
     {
@@ -164,6 +172,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Somerset title hopes fade after defeat by Yorkshire",
+      "description": "Somerset's hopes of a first-ever County Championship title are dented with a heavy defeat at Yorkshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 11:09:34 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck8d352n8rplo#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Notts' title chances dented by loss to Sussex",
       "description": "Nottinghamshire's hopes of a successful title defence are all but over after a loss by seven wickets to Sussex at Hove.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw62m61mzel9o?at_medium=RSS&at_campaign=rss",
@@ -172,27 +188,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Hampshire relegated as Leicestershire keep survival hopes alive",
-      "description": "Hampshire are relegated from Division One as Leicestershire chase a target of 334 to keep their own survival hopes alive.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 13:28:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Glamorgan beat Surrey to seal Divison One status",
       "description": "Glamorgan ensure Division One survival by completing the double over Surrey with their first win at The Oval since 2014.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvj64dgg7ggno?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 18 Sep 2026 15:26:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvj64dgg7ggno#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northants frustrated by rain in Derbyshire draw",
-      "description": "Northamptonshire's promotion hopes are dented as rain denies them the chance to close out victory against Derbyshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962j71xg1y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:02:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962j71xg1y7o#3",
       "source": "BBC Sport"
     },
     {
