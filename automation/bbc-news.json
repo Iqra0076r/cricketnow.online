@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-23T19:22:29.862585+00:00",
+  "updatedAt": "2026-09-23T22:35:57.059865+00:00",
   "items": [
+    {
+      "title": "Essex cricketer Das charged with two counts of rape",
+      "description": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 20:32:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'It was scary' - Jacks goes from emergency surgery to match-winner",
       "description": "Will Jacks' career-best 50-over figures on Tuesday came shortly after the England all-rounder was rushed into hospital for emergency surgery while on a weekend away.",
@@ -28,19 +36,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Glamorgan batter Root to join Ingram in retirement",
-      "description": "Batter Billy Root will follow fellow long-serving Glamorgan player Colin Ingram into retirement from top-flight cricket at the end of the 2026 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 10:06:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "England ease to big victory as Sri Lanka crumble in first ODI",
       "description": "England maintain their excellent one-day form in a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 19:43:40 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Glamorgan batter Root to join Ingram in retirement",
+      "description": "Batter Billy Root will follow fellow long-serving Glamorgan player Colin Ingram into retirement from top-flight cricket at the end of the 2026 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 10:06:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 19:08:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo#1",
       "source": "BBC Sport"
     },
     {
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 17:25:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Mark Wood tells us why he’s decided now is the time to retire from international cricket.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 16:29:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pbxthm#1",
       "source": "BBC Sport"
     },
     {
@@ -140,6 +140,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Test Match Special Podcast",
+      "description": "Mark Wood tells us why he’s decided now is the time to retire from international cricket.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 16:29:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pbxthm#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Carse needs time away, says 'good mate' Brook",
       "description": "England white-ball captain Harry Brook says his \"very good mate\" Brydon Carse needs time away from international cricket.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o?at_medium=RSS&at_campaign=rss",
@@ -148,27 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Northamptonshire all-rounder Miller extends deal",
-      "description": "Northamptonshire all-rounder Gus Miller signs a one-year contract extension to stay with the county until the end of 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 10:43:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Lancashire director of cricket Chilton to leave",
       "description": "Lancashire director of cricket Mark Chilton and women's director David Thorley are both to leave the county.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 15:52:33 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "ODI Cricket",
-      "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7t?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:50:48 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7t#3",
       "source": "BBC Sport"
     },
     {
@@ -185,6 +177,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 11:14:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "ODI Cricket",
+      "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7t?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 22:50:48 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7t#3",
       "source": "BBC Sport"
     },
     {
