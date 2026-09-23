@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-23T03:10:34.009240+00:00",
+  "updatedAt": "2026-09-23T08:58:37.257172+00:00",
   "items": [
     {
       "title": "Jacks stars as England grind out win over Sri Lanka",
@@ -47,7 +47,7 @@
       "title": "ODI Cricket",
       "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7t?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:51:05 GMT",
+      "published": "Tue, 22 Sep 2026 22:50:48 GMT",
       "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7t#0",
       "source": "BBC Sport"
     },
