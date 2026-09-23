@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-23T14:35:26.207782+00:00",
+  "updatedAt": "2026-09-23T19:22:29.862585+00:00",
   "items": [
     {
       "title": "'It was scary' - Jacks goes from emergency surgery to match-winner",
@@ -17,6 +17,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 11:52:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "I questioned if coaching was right for me - Hollioake",
+      "description": "Kent head coach Adam Hollioake says he had doubts about being a coach before a strong 2026 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eye8ngnro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 15:18:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eye8ngnro#0",
       "source": "BBC Sport"
     },
     {
@@ -44,14 +52,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England fast bowler Wood retires from internationals",
-      "description": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:58:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Jacks stars as England grind out win over Sri Lanka",
       "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
@@ -68,6 +68,22 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Batter Kelly out of Leics finale with rib injury",
+      "description": "Batter Nick Kelly will miss Leicestershire's last-ditch effort to avoid County Championship relegation after succumbing to a rib injury.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 17:52:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England fast bowler Wood retires from internationals",
+      "description": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 08:58:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "India avoid shock defeat by Japan after controversial wide",
       "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
@@ -81,22 +97,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 16:29:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pbxthm#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northamptonshire all-rounder Miller extends deal",
-      "description": "Northamptonshire all-rounder Gus Miller signs a one-year contract extension to stay with the county until the end of 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 10:43:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Glamorgan great Ingram retires for coaching role",
-      "description": "Glamorgan's South Africa batter Colin Ingram is to retire aged 41 after 11 seasons with the county and will take up a coaching role at Sophia Gardens.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5gmrpd2pl0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:24:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5gmrpd2pl0vo#1",
       "source": "BBC Sport"
     },
     {
@@ -148,6 +148,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Northamptonshire all-rounder Miller extends deal",
+      "description": "Northamptonshire all-rounder Gus Miller signs a one-year contract extension to stay with the county until the end of 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 10:43:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Lancashire director of cricket Chilton to leave",
       "description": "Lancashire director of cricket Mark Chilton and women's director David Thorley are both to leave the county.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o?at_medium=RSS&at_campaign=rss",
@@ -169,14 +177,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 07:26:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Relegated Hampshire need a 'reset' - Domingo",
-      "description": "Hampshire head coach Russell Domingo admits the club needs to address a host of factors following their relegation to Division Two.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd68p7lpzdvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:55:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd68p7lpzdvo#3",
       "source": "BBC Sport"
     },
     {
