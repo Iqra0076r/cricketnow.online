@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-24T19:41:07.284795+00:00",
+  "updatedAt": "2026-09-24T22:53:40.975993+00:00",
   "items": [
+    {
+      "title": "Buttler injury halts England as Sri Lanka level series",
+      "description": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 20:15:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'The lads wanted me to stick one up him' - Wood relives fastest spells",
       "description": "As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test career.",
@@ -12,11 +20,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Foxes relegated by Bears, subject to points appeal",
-      "description": "Leicestershire are relegated, subject to an appeal against their points deduction, after being bowled out cheaply by title-chasing Warwickshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:51:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do#0",
+      "title": "Mendis stars as Sri Lanka beat England to set up series decider",
+      "description": "Kusal Mendis scores 121 to help Sri Lanka to a surprise win against England as they fought back to secure a 16-run victory against England at Headingley to level the three-match series and set up a decider at The Oval on Sunday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cq2dwkz2368po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 20:10:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq2dwkz2368po#0",
       "source": "BBC Sport"
     },
     {
@@ -28,11 +36,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England's Gay hits 141 as Durham start well at Lancs",
-      "description": "England opener Emilio Gay scores a stylish 141 for Durham, who end day one of their Division Two match against Lancashire on 355-5.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8d324e7258o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:55:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8d324e7258o#0",
+      "title": "ODI Cricket",
+      "description": "Could the series be decided as the two sides clash at Headingley?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7m?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 22:50:15 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7m#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Foxes relegated by Bears, subject to points appeal",
+      "description": "Leicestershire are relegated, subject to an appeal against their points deduction, after being bowled out cheaply by title-chasing Warwickshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:51:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do#0",
       "source": "BBC Sport"
     },
     {
@@ -44,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "England's Gay hits 141 as Durham start well at Lancs",
+      "description": "England opener Emilio Gay scores a stylish 141 for Durham, who end day one of their Division Two match against Lancashire on 355-5.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8d324e7258o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:55:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8d324e7258o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Late Yorkshire wickets halt Notts progress",
       "description": "Yorkshire take four wickets in the final 11 overs of day one at Trent Bridge to limit Nottinghamshire's first innings score.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c84gky7dqygdo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 18:03:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c84gky7dqygdo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
-      "description": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 05:16:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c84gky7dqygdo#1",
       "source": "BBC Sport"
     },
     {
@@ -73,22 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr209yln64d6o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:11:49 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr209yln64d6o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northants promotion hopes dented after Lord's collapse",
-      "description": "Northamptonshire's hopes of promotion from Division Two fade following a poor opening day against Middlesex.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm4gdy9zkx99o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:44:41 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm4gdy9zkx99o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leicestershire to appeal against 27-point penalty",
-      "description": "Leicestershire are to appeal against the 27-point ECB penalty they received for breaching pitch regulations in August.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 15:37:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo#1",
       "source": "BBC Sport"
     },
     {
@@ -140,11 +140,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Breetzke's ton leads South Africa to victory over Australia - scorecard",
-      "description": "Latest scorecard as South Africa face Australia in the opening ODI in Durban.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994#3",
+      "title": "Northants promotion hopes dented after Lord's collapse",
+      "description": "Northamptonshire's hopes of promotion from Division Two fade following a poor opening day against Middlesex.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm4gdy9zkx99o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:44:41 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm4gdy9zkx99o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Leicestershire to appeal against 27-point penalty",
+      "description": "Leicestershire are to appeal against the 27-point ECB penalty they received for breaching pitch regulations in August.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:37:39 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo#3",
       "source": "BBC Sport"
     },
     {
@@ -180,11 +188,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
+      "description": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 05:16:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo#5",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Glamorgan in control as Tribe and Carlson impress against Essex",
       "description": "Asa Tribe and Kiran Carlson put Glamorgan in a commanding position against Essex on the opening day of their final County Championship match.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3y0z45j2p2qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:40:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3y0z45j2p2qo#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3y0z45j2p2qo#5",
       "source": "BBC Sport"
     },
     {
@@ -225,22 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 10:43:33 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'One of the worst adverts for county game' - Lehmann",
-      "description": "Northamptonshire head coach Darren Lehmann says one of the worst advertisements for the county game was on show after his side's draw with Derbyshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ye7q6ne21o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 09:41:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ye7q6ne21o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Blaze win One-Day Cup in last-ball thriller",
-      "description": "Emma Jones seals the Blaze's treble success with a dramatic last-ball boundary to win a thrilling One-Day Cup final and shatter Hampshire's hopes of silverware.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 17:36:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y4z103zwzyo#5",
       "source": "BBC Sport"
     }
   ]
