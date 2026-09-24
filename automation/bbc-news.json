@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-24T02:33:11.074601+00:00",
+  "updatedAt": "2026-09-24T08:54:25.336852+00:00",
   "items": [
     {
       "title": "Essex cricketer Das charged with two counts of rape",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 20:32:31 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
+      "description": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 05:16:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo#0",
       "source": "BBC Sport"
     },
     {
@@ -36,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "South Africa v Australia - first ODI scorecard",
+      "description": "Latest scorecard as South Africa face Australia in the opening ODI in Durban.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "England ease to big victory as Sri Lanka crumble in first ODI",
       "description": "England maintain their excellent one-day form in a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
@@ -44,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Worcestershire wicketkeeper Cullen signs new deal",
+      "description": "Wicketkeeper Henry Cullen signs a new three-year contract with Worcestershire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqn4kny9w8kwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 08:16:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqn4kny9w8kwo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Glamorgan batter Root to join Ingram in retirement",
       "description": "Batter Billy Root will follow fellow long-serving Glamorgan player Colin Ingram into retirement from top-flight cricket at the end of the 2026 season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 10:06:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Vital with the bat, crucial with the ball - Jacks stars in England win",
-      "description": "Will Jacks produces a match-winning performance to help England to a comfortable 89-run victory over Sri Lanka at Chester-le-Street in the first one-day international of the three-match series.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 19:21:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c52e0y2j323no#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England fast bowler Wood retires from internationals",
-      "description": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:58:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "India avoid shock defeat by Japan after controversial wide",
-      "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 17:25:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#1",
+      "title": "Vital with the bat, crucial with the ball - Jacks stars in England win",
+      "description": "Will Jacks produces a match-winning performance to help England to a comfortable 89-run victory over Sri Lanka at Chester-le-Street in the first one-day international of the three-match series.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 19:21:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo#2",
       "source": "BBC Sport"
     },
     {
@@ -132,11 +140,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "'What an innings' - Brook hits century against Sri Lanka",
-      "description": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cm20lg9vdgqqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 19:17:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cm20lg9vdgqqo#2",
+      "title": "England fast bowler Wood retires from internationals",
+      "description": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 08:58:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India avoid shock defeat by Japan after controversial wide",
+      "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 17:25:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#3",
       "source": "BBC Sport"
     },
     {
@@ -177,22 +193,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 11:14:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "ODI Cricket",
-      "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7t?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:50:48 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7t#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Middlesex beat Leicestershire to win One-Day Cup",
-      "description": "Middlesex claim their first silverware in a decade as they beat Leicestershire in a thrilling One-Day Cup final.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 18:00:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o#3",
       "source": "BBC Sport"
     },
     {
