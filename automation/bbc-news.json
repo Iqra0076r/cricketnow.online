@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-24T08:54:25.336852+00:00",
+  "updatedAt": "2026-09-24T14:33:36.743404+00:00",
   "items": [
+    {
+      "title": "'He's changing the narrative' - Marvellous Mendis stars for Sri Lanka",
+      "description": "Kusal Mendis produces a captain's innings at Headingley as he scores 121 off 100 balls to put Sri Lanka on course for a big score as they bat first against England in the second One Day International.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cked7jvgzvlno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 14:07:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cked7jvgzvlno#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Essex cricketer Das charged with two counts of rape",
       "description": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
@@ -20,6 +28,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Leicestershire to appeal against 27-point penalty",
+      "description": "Leicestershire are to appeal against the 27-point ECB penalty they received for breaching pitch regulations in August.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 09:32:12 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "'It was scary' - Jacks goes from emergency surgery to match-winner",
       "description": "Will Jacks' career-best 50-over figures on Tuesday came shortly after the England all-rounder was rushed into hospital for emergency surgery while on a weekend away.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv70dy7nw2w3o?at_medium=RSS&at_campaign=rss",
@@ -28,35 +44,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pick your County Championship team of the season",
-      "description": "Pick you best XI from the 2026 County Championship season. Who makes the cut?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 11:52:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "I questioned if coaching was right for me - Hollioake",
-      "description": "Kent head coach Adam Hollioake says he had doubts about being a coach before a strong 2026 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eye8ngnro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 15:18:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eye8ngnro#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "South Africa v Australia - first ODI scorecard",
       "description": "Latest scorecard as South Africa face Australia in the opening ODI in Durban.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236994#1",
       "source": "BBC Sport"
     },
     {
-      "title": "England ease to big victory as Sri Lanka crumble in first ODI",
-      "description": "England maintain their excellent one-day form in a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 19:43:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o#0",
+      "title": "Pick your County Championship team of the season",
+      "description": "Pick you best XI from the 2026 County Championship season. Who makes the cut?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 11:52:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#1",
       "source": "BBC Sport"
     },
     {
@@ -76,14 +76,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Jacks stars as England grind out win over Sri Lanka",
-      "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 19:08:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "What's gone wrong at Lancashire?",
       "description": "Lancashire are set to end 2026 in the bottom two of Division Two, their lowest-ever finish in the County Championship.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwnvl8egqlqgo?at_medium=RSS&at_campaign=rss",
@@ -92,11 +84,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Batter Kelly out of Leics finale with rib injury",
-      "description": "Batter Nick Kelly will miss Leicestershire's last-ditch effort to avoid County Championship relegation after succumbing to a rib injury.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 17:52:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o#1",
+      "title": "England ease to big victory as Sri Lanka crumble in first ODI",
+      "description": "England maintain their excellent one-day form in a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 19:43:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o#2",
       "source": "BBC Sport"
     },
     {
@@ -132,11 +124,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Brook & Baker shine as England crush Sri Lanka",
-      "description": "Harry Brook hit 114 not out in the first innings set up England with a total of 254 proving to difficult for Sri Lanka to chase leading to a England win by 119 runs after bowling out Sri Lanka.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 21:15:35 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo#2",
+      "title": "I questioned if coaching was right for me - Hollioake",
+      "description": "Kent head coach Adam Hollioake says he had doubts about being a coach before a strong 2026 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eye8ngnro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 15:18:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eye8ngnro#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Jacks stars as England grind out win over Sri Lanka",
+      "description": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 19:08:52 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo#3",
       "source": "BBC Sport"
     },
     {
@@ -148,19 +148,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Batter Kelly out of Leics finale with rib injury",
+      "description": "Batter Nick Kelly will miss Leicestershire's last-ditch effort to avoid County Championship relegation after succumbing to a rib injury.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 17:52:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "India avoid shock defeat by Japan after controversial wide",
       "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 17:25:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Mark Wood tells us why he’s decided now is the time to retire from international cricket.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 16:29:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pbxthm#3",
       "source": "BBC Sport"
     },
     {
@@ -172,14 +172,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Lancashire director of cricket Chilton to leave",
-      "description": "Lancashire director of cricket Mark Chilton and women's director David Thorley are both to leave the county.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 15:52:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9gk5p00p5m5o#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Fleming on England discipline, Stokes, late arrival and coaching styles",
       "description": "Read what England's new Test coach Stephen Fleming had to say about Bazball, Ben Stokes, the team's discipline issues and his own philosophy.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss",
@@ -188,11 +180,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bears plan to 'stay in the moment - Westwood",
-      "description": "Warwickshire coach Ian Westwood says the title-chasing Bears plan to \"stay in the moment\" going into the County Championship finale.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 11:14:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx2z8gkdxgdo#3",
+      "title": "Test Match Special Podcast",
+      "description": "Mark Wood tells us why he’s decided now is the time to retire from international cricket.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 16:29:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pbxthm#6",
       "source": "BBC Sport"
     },
     {
@@ -228,19 +220,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "England are chasing 130 to win the third Test after a hard day in the field.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p9794b?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 19:08:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p9794b#6",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Submit your question",
       "description": "Let us answer your cricket data questions",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 27 Aug 2026 15:25:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o#7",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Which England player has had the most Test team-mates?",
+      "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:27:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro#8",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Who has played the most career Test matches?",
+      "description": "Joe Root will move up the list of all-time Test appearances when England face Pakistan at Edgbaston",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cy5zk6r5p6po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 10:30:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cy5zk6r5p6po#8",
       "source": "BBC Sport"
     }
   ]
