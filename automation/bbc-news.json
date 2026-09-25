@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-25T09:15:07.106548+00:00",
+  "updatedAt": "2026-09-25T14:53:57.372174+00:00",
   "items": [
+    {
+      "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
+      "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 11:00:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Buttler injury halts England as Sri Lanka level series",
       "description": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
@@ -28,7 +36,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "'He's changing the narrative' - Marvellous Mendis stars for Sri Lanka",
+      "title": "'He's changing the narrative' - Mendis' inspires Sri Lanka to victory",
       "description": "Kusal Mendis produces a captain's innings at Headingley as he scores 121 off 100 balls to put Sri Lanka on course for a big score as they bat first against England in the second One Day International.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cked7jvgzvlno?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 14:42:43 GMT",
@@ -48,7 +56,15 @@
       "description": "Leicestershire are relegated, subject to an appeal against their points deduction, after being bowled out cheaply by title-chasing Warwickshire.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:51:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61wxy0p1q0do#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Yorkshire keeper Duke joins Middlesex",
+      "description": "Middlesex sign wicketkeeper Harry Duke from Yorkshire until the end of 2028, following a loan spell at Lord's.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zk3je0lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 10:47:28 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zk3je0lgo#1",
       "source": "BBC Sport"
     },
     {
@@ -73,22 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c84gky7dqygdo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 18:03:34 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c84gky7dqygdo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent make good start against Gloucs in promotion bid",
-      "description": "Kent remain in pole position for promotion from Division Two after they enjoy a good opening day against Gloucestershire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz0d5x3q0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:56:20 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz0d5x3q0o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leaning leads Sussex recovery against Hampshire",
-      "description": "Jack Leaning's aggressive half-century helps Sussex post 244 before they reduce Hampshire to 55-4 on day one of their Division One fixture.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr209yln64d6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:11:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr209yln64d6o#1",
       "source": "BBC Sport"
     },
     {
@@ -140,6 +140,22 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Kent make good start against Gloucs in promotion bid",
+      "description": "Kent remain in pole position for promotion from Division Two after they enjoy a good opening day against Gloucestershire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz0d5x3q0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:56:20 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz0d5x3q0o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Leaning leads Sussex recovery against Hampshire",
+      "description": "Jack Leaning's aggressive half-century helps Sussex post 244 before they reduce Hampshire to 55-4 on day one of their Division One fixture.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr209yln64d6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:11:49 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr209yln64d6o#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Northants promotion hopes dented after Lord's collapse",
       "description": "Northamptonshire's hopes of promotion from Division Two fade following a poor opening day against Middlesex.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm4gdy9zkx99o?at_medium=RSS&at_campaign=rss",
@@ -172,22 +188,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Abbas & Allison shine as wickets tumble at New Road",
-      "description": "Muhammad Abbas and Ben Allison take five wickets each as 20 wickets fall on day one, which ends with Worcestershire 131 ahead against Derbyshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvgy5pv849ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:44:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqvgy5pv849ko#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped",
-      "description": "After a career blighted by injuries Mark Wood calls time on international career.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99ft?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 15:10:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99ft#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
       "description": "Debbie Beard and Amanda Thorpe speak to the BBC's Simon Jack at the launch of a new suicide prevention toolkit.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxj9j7jmyo?at_medium=RSS&at_campaign=rss",
@@ -196,19 +196,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Stumped",
+      "description": "After a career blighted by injuries Mark Wood calls time on international career.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99ft?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:10:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99ft#5",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Glamorgan in control as Tribe and Carlson impress against Essex",
       "description": "Asa Tribe and Kiran Carlson put Glamorgan in a commanding position against Essex on the opening day of their final County Championship match.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3y0z45j2p2qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:40:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3y0z45j2p2qo#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "India avoid shock defeat by Japan after controversial wide",
-      "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 17:25:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo#5",
       "source": "BBC Sport"
     },
     {
