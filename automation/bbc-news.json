@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-25T02:50:12.347769+00:00",
+  "updatedAt": "2026-09-25T09:15:07.106548+00:00",
   "items": [
     {
       "title": "Buttler injury halts England as Sri Lanka level series",
@@ -39,7 +39,7 @@
       "title": "ODI Cricket",
       "description": "Could the series be decided as the two sides clash at Headingley?",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0031z7m?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 22:50:15 GMT",
+      "published": "Thu, 24 Sep 2026 22:50:28 GMT",
       "guid": "https://www.bbc.co.uk/iplayer/episode/m0031z7m#0",
       "source": "BBC Sport"
     },
@@ -56,7 +56,7 @@
       "description": "Dan Lawrence hits his sixth County Championship century of the season as Surrey dominate the opening day of the final Division One match with Somerset.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crvgy7151ldlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 17:01:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crvgy7151ldlo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crvgy7151ldlo#1",
       "source": "BBC Sport"
     },
     {
