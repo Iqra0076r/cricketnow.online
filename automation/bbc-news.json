@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-26T02:53:29.441906+00:00",
+  "updatedAt": "2026-09-26T08:57:54.751263+00:00",
   "items": [
     {
       "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
@@ -214,9 +214,9 @@
     {
       "title": "Stumped",
       "description": "After a career blighted by injuries Mark Wood calls time on international career.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99ft?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 15:10:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99ft#5",
+      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa#5",
       "source": "BBC Sport"
     },
     {
