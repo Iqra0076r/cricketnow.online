@@ -1,22 +1,22 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-26T08:57:54.751263+00:00",
+  "updatedAt": "2026-09-26T13:58:57.961065+00:00",
   "items": [
+    {
+      "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+      "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 13:55:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
       "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 11:00:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hain ton edges Bears nearer to Championship title",
-      "description": "Centurion Sam Hain shares a 165-run stand with skipper Ed Barnard against Leicestershire to edge Warwickshire close to a ninth County Championship title.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1581px08ywo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 17:40:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1581px08ywo#0",
       "source": "BBC Sport"
     },
     {
@@ -33,14 +33,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvwyzl1kgd21o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 17:04:24 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvwyzl1kgd21o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Lancs' Noman takes six wickets but Durham on top",
-      "description": "Lancashire's Noman Ali takes 6-166 but Durham reach 493 all out on a rain-shortened second day at Old Trafford.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zkpg8vlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 16:19:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zkpg8vlpo#0",
       "source": "BBC Sport"
     },
     {
@@ -148,6 +140,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Lancs' Noman takes six wickets but Durham on top",
+      "description": "Lancashire's Noman Ali takes 6-166 but Durham reach 493 all out on a rain-shortened second day at Old Trafford.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zkpg8vlpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 16:19:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zkpg8vlpo#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Buttler injury halts England as Sri Lanka level series",
       "description": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
@@ -180,14 +180,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Leicestershire to appeal against 27-point penalty",
-      "description": "Leicestershire are to appeal against the 27-point ECB penalty they received for breaching pitch regulations in August.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 15:37:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwddvjez8n1mo#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Essex cricketer Das charged with two counts of rape",
       "description": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o?at_medium=RSS&at_campaign=rss",
@@ -214,9 +206,9 @@
     {
       "title": "Stumped",
       "description": "After a career blighted by injuries Mark Wood calls time on international career.",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99ft?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 15:10:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa#5",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99ft#5",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 07:26:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do#5",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Northamptonshire all-rounder Miller extends deal",
+      "description": "Northamptonshire all-rounder Gus Miller signs a one-year contract extension to stay with the county until the end of 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 10:43:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm87v28lnen4o#5",
       "source": "BBC Sport"
     }
   ]
