@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-27T13:27:13.644213+00:00",
+  "updatedAt": "2026-09-27T18:00:20.819667+00:00",
   "items": [
+    {
+      "title": "England win series as Banton delivers on potential",
+      "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 16:49:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Banton stars as England win Sri Lanka ODI series",
+      "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 16:58:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'Brilliant' Banton scores maiden ODI century for England",
       "description": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
@@ -12,15 +28,15 @@
       "source": "BBC Sport"
     },
     {
-      "title": "South Africa v Australia - second ODI scorecard",
-      "description": "Latest scorecard from the second one-day international between South Africa and Australia in Johannesburg.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236995?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236995#0",
+      "title": "Superb South Africa seal series win over Australia",
+      "description": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 16:39:52 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o#0",
       "source": "BBC Sport"
     },
     {
-      "title": "India v West Indies - first ODI scorecard",
+      "title": "Kohli & Gill centuries help India past Windies - first ODI scorecard",
       "description": "Latest scorecard from the first one-day international between India and West Indies in Thiruvananthapuram.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 00:00:00 GMT",
@@ -28,11 +44,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
-      "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 13:55:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o#0",
+      "title": "Abell scores 307 in Somerset's draw with Surrey",
+      "description": "Tom Abell scores a career-best 307 in Somerset's County Championship draw against Surrey at Taunton.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 15:42:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Durham draw with Lancashire to end season unbeaten",
+      "description": "Durham end their title-winning campaign in County Championship Division Two unbeaten, finishing the season with a draw against Lancashire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 15:04:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "England thrashed Sri Lanka at the Oval to finish the summer with a series victory.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pcrmpr?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 17:26:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pcrmpr#1",
       "source": "BBC Sport"
     },
     {
@@ -40,15 +72,7 @@
       "description": "Glamorgan and Essex's final match is rained off after just 21 balls play on the fourth day.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 12:47:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bairstow six seals one-wicket win for Yorkshire",
-      "description": "Captain Jonny Bairstow hits the winning runs as Yorkshire beat Nottinghamshire by one wicket in their final Championship match of the season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 16:56:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o#1",
       "source": "BBC Sport"
     },
     {
@@ -60,11 +84,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Kent players 'deserve all credit' for promotion",
-      "description": "Adam Hollioake praises his players for a \"remarkable turnaround\" as Kent secure Championship promotion, 12 months after finishing bottom of Division Two.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 11:40:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo#1",
+      "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+      "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 13:55:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o#1",
       "source": "BBC Sport"
     },
     {
@@ -72,15 +96,7 @@
       "description": "Kusal Mendis scores 121 to help Sri Lanka to a surprise win against England as they fought back to secure a 16-run victory against England at Headingley to level the three-match series and set up a decider at The Oval on Sunday.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cq2dwkz2368po?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 20:10:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq2dwkz2368po#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent celebrate promotion by beating Gloucestershire",
-      "description": "Kent complete victory against Gloucestershire, with their promotion to Division One having already been confirmed by Northamptonshire's earlier defeat.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqgmrrg07gl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 16:23:08 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqgmrrg07gl1o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cq2dwkz2368po#2",
       "source": "BBC Sport"
     },
     {
@@ -116,27 +132,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England thump Sri Lanka to sweep T20 series 3-0",
-      "description": "England steamroll Sri Lanka to complete a 3-0 series clean sweep and return to number one in the T20 world rankings.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 17:20:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o#2",
+      "title": "Kent players 'deserve all credit' for promotion",
+      "description": "Adam Hollioake praises his players for a \"remarkable turnaround\" as Kent secure Championship promotion, 12 months after finishing bottom of Division Two.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 11:40:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo#3",
       "source": "BBC Sport"
     },
     {
-      "title": "Abell & Lammonby punish depleted Surrey",
-      "description": "Tom Abell and Tom Lammonby hit career-best double centuries as Somerset pile up 691-8 against Surrey on day three at Taunton.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvgyydv34ggo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 17:45:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvgyydv34ggo#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent promoted as Middlesex beat Northants",
-      "description": "Max Holden and Ben Geddes share a century partnership as Middlesex win to end Northamptonshire's faint chance of promotion.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9w44k9rgydo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 14:01:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w44k9rgydo#3",
+      "title": "Bairstow six seals one-wicket win for Yorkshire",
+      "description": "Captain Jonny Bairstow hits the winning runs as Yorkshire beat Nottinghamshire by one wicket in their final Championship match of the season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 16:56:53 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o#3",
       "source": "BBC Sport"
     },
     {
@@ -148,11 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
-      "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 11:00:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo#3",
+      "title": "Kent celebrate promotion by beating Gloucestershire",
+      "description": "Kent complete victory against Gloucestershire, with their promotion to Division One having already been confirmed by Northamptonshire's earlier defeat.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqgmrrg07gl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 16:23:08 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqgmrrg07gl1o#3",
       "source": "BBC Sport"
     },
     {
@@ -164,11 +172,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bohannon ton as Lancs enjoy rare good day with bat",
-      "description": "Josh Bohannon makes his first century of the season as Lancashire's batters enjoy their best day of the County Championship season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5n4kkz2d7n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 17:57:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5n4kkz2d7n1o#3",
+      "title": "Kent promoted as Middlesex beat Northants",
+      "description": "Max Holden and Ben Geddes share a century partnership as Middlesex win to end Northamptonshire's faint chance of promotion.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9w44k9rgydo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 14:01:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w44k9rgydo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
+      "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 11:00:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo#3",
       "source": "BBC Sport"
     },
     {
@@ -176,7 +192,15 @@
       "description": "Pick you best XI from the 2026 County Championship season. Who makes the cut?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 11:52:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#5",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Buttler injury halts England as Sri Lanka level series",
+      "description": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 20:15:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo#5",
       "source": "BBC Sport"
     },
     {
@@ -217,30 +241,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99ft?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 15:10:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct99ft#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "What's gone wrong at Lancashire?",
-      "description": "Lancashire are set to end 2026 in the bottom two of Division Two, their lowest-ever finish in the County Championship.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwnvl8egqlqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:09:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwnvl8egqlqgo#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Fleming on England discipline, Stokes, late arrival and coaching styles",
-      "description": "Read what England's new Test coach Stephen Fleming had to say about Bazball, Ben Stokes, the team's discipline issues and his own philosophy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 07:26:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l69z4579do#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Simon Mann talks to Mark Wood talks about his favourite moments in an England shirt.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pcb9ts?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 16:01:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcb9ts#7",
       "source": "BBC Sport"
     }
   ]
