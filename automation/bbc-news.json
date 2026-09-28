@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-27T22:44:08.839539+00:00",
+  "updatedAt": "2026-09-28T02:55:02.320028+00:00",
   "items": [
     {
       "title": "England win series as Banton delivers on potential",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 16:49:38 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "ODI Cricket",
+      "description": "The series ends at The Oval. How are England looking with the World Cup on its way?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00328q7?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 23:40:15 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m00328q7#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Durham end their title-winning campaign in County Championship Division Two unbeaten, finishing the season with a draw against Lancashire.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 15:04:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro#1",
       "source": "BBC Sport"
     },
     {
@@ -81,14 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjknl7jjvwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 11:36:01 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjknl7jjvwo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
-      "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 13:55:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o#1",
       "source": "BBC Sport"
     },
     {
@@ -129,6 +129,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 15:32:14 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
+      "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 13:55:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o#3",
       "source": "BBC Sport"
     },
     {
@@ -184,7 +192,7 @@
       "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 11:00:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo#5",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv70dy7nw2w3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 11:00:29 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv70dy7nw2w3o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped",
-      "description": "After a career blighted by injuries Mark Wood calls time on international career.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99ft?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 15:10:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99ft#5",
       "source": "BBC Sport"
     }
   ]
