@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-29T07:44:10.625853+00:00",
+  "updatedAt": "2026-09-29T14:30:00.497155+00:00",
   "items": [
+    {
+      "title": "Rank the biggest scandals in Test cricket history",
+      "description": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2zmz6480vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 10:48:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2zmz6480vo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Buttler out of tri-series while England prepare central contracts",
       "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 11:00:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Barney's Bears - the Warwickshire captain who commands respect",
+      "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 08:57:23 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
+      "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 11:20:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero#0",
       "source": "BBC Sport"
     },
     {
@@ -28,35 +52,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Surrey sign England all-rounder Kemp on multi-year deal",
-      "description": "Surrey sign 21-year-old England all-rounder Freya Kemp on a 'multi-year deal' from the 2027 season onwards.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 14:12:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Somerset lament lack of ruthlessness in title fight",
-      "description": "Somerset senior figures lament a lack of ruthlessness earlier in the season as team settle for another second place in the County Championship.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 12:48:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Banton stars as England win Sri Lanka ODI series",
       "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka.",
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 16:58:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'Brilliant' Banton scores maiden ODI century for England",
-      "description": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 12:17:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo#0",
       "source": "BBC Sport"
     },
     {
@@ -68,6 +68,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Surrey sign England all-rounder Kemp on multi-year deal",
+      "description": "Surrey sign 21-year-old England all-rounder Freya Kemp on a 'multi-year deal' from the 2027 season onwards.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 14:12:53 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Joyce appointed Ireland high performance batting coach",
       "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
@@ -76,11 +84,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Farbrace proud as Sussex finish third amid struggles",
-      "description": "Sussex's outgoing head coach Paul Farbrace reflects on finishing third in Championship despite a points deduction and salary cap.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjr4vy1ew7gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 14:58:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjr4vy1ew7gyo#1",
+      "title": "Somerset lament lack of ruthlessness in title fight",
+      "description": "Somerset senior figures lament a lack of ruthlessness earlier in the season as team settle for another second place in the County Championship.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 12:48:03 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#1",
       "source": "BBC Sport"
     },
     {
@@ -92,11 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Campbell moves to Durham director of cricket role",
-      "description": "Ryan Campbell is to become Durham's director of cricket to replace Marcus North, vacating his post of head coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 09:27:35 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o#1",
+      "title": "'Brilliant' Banton scores maiden ODI century for England",
+      "description": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 12:17:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo#2",
       "source": "BBC Sport"
     },
     {
@@ -132,11 +140,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Dream debut - Colombage takes three wickets to stifle England",
-      "description": "Sachindu Colombage enjoys a debut to remember as he removes Joe Root, Jos Buttler and Jamie Overton to finish with figures of 3-44 in the first One Day International between England and Sri Lanka at Chester-le-Street.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 15:32:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo#2",
+      "title": "Campbell moves to Durham director of cricket role",
+      "description": "Ryan Campbell is to become Durham's director of cricket to replace Marcus North, vacating his post of head coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 09:27:35 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o#3",
       "source": "BBC Sport"
     },
     {
@@ -188,19 +196,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Abell scores 307 in Somerset's draw with Surrey",
-      "description": "Tom Abell scores a career-best 307 in Somerset's County Championship draw against Surrey at Taunton.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 15:42:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Pick your County Championship team of the season",
       "description": "Pick you best XI from the 2026 County Championship season. Who makes the cut?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 11:52:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#5",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Abell scores 307 in Somerset's draw with Surrey",
+      "description": "Tom Abell scores a career-best 307 in Somerset's County Championship draw against Surrey at Taunton.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 15:42:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o#5",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 26 Sep 2026 16:56:53 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Allison stars as Worcs wrap up big win over Derbys",
-      "description": "Ben Allison's first-class career-best of 6-42 in overall match figures of 11-64 helps Worcestershire to a comprehensive 175-run victory over Derbyshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmn8eejlq3y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 14:17:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmn8eejlq3y9o#5",
       "source": "BBC Sport"
     }
   ]
