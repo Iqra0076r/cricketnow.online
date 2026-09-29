@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-28T19:03:25.976732+00:00",
+  "updatedAt": "2026-09-29T07:44:10.625853+00:00",
   "items": [
     {
       "title": "Buttler out of tri-series while England prepare central contracts",
@@ -20,6 +20,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Test Match Special Podcast",
+      "description": "The TMS team look back at a sometimes chaotic English cricket season.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pcx312?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 15:52:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pcx312#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Surrey sign England all-rounder Kemp on multi-year deal",
       "description": "Surrey sign 21-year-old England all-rounder Freya Kemp on a 'multi-year deal' from the 2027 season onwards.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
@@ -33,14 +41,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 12:48:03 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Joyce appointed Ireland high performance batting coach",
-      "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 16:00:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o#0",
       "source": "BBC Sport"
     },
     {
@@ -68,6 +68,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Joyce appointed Ireland high performance batting coach",
+      "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 16:00:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Farbrace proud as Sussex finish third amid struggles",
       "description": "Sussex's outgoing head coach Paul Farbrace reflects on finishing third in Championship despite a points deduction and salary cap.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjr4vy1ew7gyo?at_medium=RSS&at_campaign=rss",
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 09:27:35 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kohli & Gill centuries help India past Windies - first ODI scorecard",
-      "description": "Latest scorecard from the first one-day international between India and West Indies in Thiruvananthapuram.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254#1",
       "source": "BBC Sport"
     },
     {
@@ -148,6 +148,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Kohli & Gill centuries help India past Windies - first ODI scorecard",
+      "description": "Latest scorecard from the first one-day international between India and West Indies in Thiruvananthapuram.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Kent duo Cohen and Evison to leave promoted club",
       "description": "Kent confirm bowler Mikey Cohen will join Joey Evison in leaving the club following the conclusion of the 2026 season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckq63npgv25qo?at_medium=RSS&at_campaign=rss",
@@ -185,14 +193,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 15:42:29 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "England thrashed Sri Lanka at the Oval to finish the summer with a series victory.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pcrmpr?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 17:26:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcrmpr#3",
       "source": "BBC Sport"
     },
     {
