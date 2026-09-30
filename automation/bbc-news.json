@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-30T00:56:15.334128+00:00",
+  "updatedAt": "2026-09-30T07:47:17.943931+00:00",
   "items": [
+    {
+      "title": "Tumultuous summer ends in success - what next for Stokes?",
+      "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 07:12:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Rank the biggest scandals in Test cricket history",
       "description": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
@@ -36,14 +44,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Leics get partial points reprieve but stay in limbo",
-      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "The TMS team look back at a sometimes chaotic English cricket season.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pcx312?at_medium=RSS&at_campaign=rss",
@@ -57,6 +57,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 16:58:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Leics get partial points reprieve but stay in limbo",
+      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#1",
       "source": "BBC Sport"
     },
     {
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 12:48:03 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England win series as Banton delivers on potential",
-      "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 16:49:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o#1",
       "source": "BBC Sport"
     },
     {
@@ -137,6 +137,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 19:21:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England win series as Banton delivers on potential",
+      "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 16:49:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o#3",
       "source": "BBC Sport"
     },
     {
@@ -192,7 +200,7 @@
       "description": "Adam Hollioake praises his players for a \"remarkable turnaround\" as Kent secure Championship promotion, 12 months after finishing bottom of Division Two.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 11:40:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6yryzl2xo#5",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 12:47:03 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bairstow six seals one-wicket win for Yorkshire",
-      "description": "Captain Jonny Bairstow hits the winning runs as Yorkshire beat Nottinghamshire by one wicket in their final Championship match of the season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 16:56:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm7800d2jq91o#5",
       "source": "BBC Sport"
     }
   ]
