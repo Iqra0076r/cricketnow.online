@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-30T07:47:17.943931+00:00",
+  "updatedAt": "2026-09-30T14:28:49.000959+00:00",
   "items": [
+    {
+      "title": "Windies break their ODI batting record in India run-fest",
+      "description": "West Indies dominate India's bowlers to pile up their highest ever total in one-day internationals.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 13:48:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Tumultuous summer ends in success - what next for Stokes?",
       "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 07:12:48 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Who made your County Championship team of the season?",
+      "description": "The votes have been counted... who made your County Championship team of the season?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 12:59:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#0",
       "source": "BBC Sport"
     },
     {
@@ -20,11 +36,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Buttler out of tri-series while England prepare central contracts",
-      "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 11:00:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo#0",
+      "title": "South Africa v Australia - third ODI scorecard",
+      "description": "Latest scorecard from the third ODI between South Africa and Australia at Potchefstroom.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236996?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236996#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India v West Indies - second ODI scorecard",
+      "description": "Latest scorecard from the second ODI between India and West Indies in Guwahati.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237255?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237255#0",
       "source": "BBC Sport"
     },
     {
@@ -36,35 +60,35 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
-      "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 11:20:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "The TMS team look back at a sometimes chaotic English cricket season.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pcx312?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 15:52:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcx312#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pcx312#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Banton stars as England win Sri Lanka ODI series",
-      "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 16:58:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do#0",
+      "title": "Buttler out of tri-series while England prepare central contracts",
+      "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 11:00:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Leics get partial points reprieve but stay in limbo",
-      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#1",
+      "title": "All-rounder Gray signs for Hampshire from Essex",
+      "description": "Essex all-rounder Eva Gray signs for Hampshire on a two-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crje8q5n4lq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 13:43:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crje8q5n4lq4o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
+      "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 11:20:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero#1",
       "source": "BBC Sport"
     },
     {
@@ -76,27 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Surrey sign England all-rounder Kemp on multi-year deal",
-      "description": "Surrey sign 21-year-old England all-rounder Freya Kemp on a 'multi-year deal' from the 2027 season onwards.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 14:12:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Joyce appointed Ireland high performance batting coach",
-      "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 16:00:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Somerset lament lack of ruthlessness in title fight",
-      "description": "Somerset senior figures lament a lack of ruthlessness earlier in the season as team settle for another second place in the County Championship.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 12:48:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#1",
+      "title": "Banton stars as England win Sri Lanka ODI series",
+      "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 16:58:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do#2",
       "source": "BBC Sport"
     },
     {
@@ -132,11 +140,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Vital with the bat, crucial with the ball - Jacks stars in England win",
-      "description": "Will Jacks produces a match-winning performance to help England to a comfortable 89-run victory over Sri Lanka at Chester-le-Street in the first one-day international of the three-match series.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 19:21:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw8d326gv02zo#2",
+      "title": "Ex-Ireland international Singh announces retirement",
+      "description": "Former Ireland international Simi Singh confirms his retirement from professional cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 13:12:08 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Leics get partial points reprieve but stay in limbo",
+      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#3",
       "source": "BBC Sport"
     },
     {
@@ -148,11 +164,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Campbell moves to Durham director of cricket role",
-      "description": "Ryan Campbell is to become Durham's director of cricket to replace Marcus North, vacating his post of head coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 09:27:35 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp84g5dglv5o#3",
+      "title": "Joyce appointed Ireland high performance batting coach",
+      "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 16:00:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Surrey sign England all-rounder Kemp on multi-year deal",
+      "description": "Surrey sign 21-year-old England all-rounder Freya Kemp on a 'multi-year deal' from the 2027 season onwards.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 14:12:53 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o#3",
       "source": "BBC Sport"
     },
     {
@@ -172,19 +196,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Kent duo Cohen and Evison to leave promoted club",
-      "description": "Kent confirm bowler Mikey Cohen will join Joey Evison in leaving the club following the conclusion of the 2026 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckq63npgv25qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 13:28:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckq63npgv25qo#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Superb South Africa seal series win over Australia",
       "description": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 16:39:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o#5",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Somerset lament lack of ruthlessness in title fight",
+      "description": "Somerset senior figures lament a lack of ruthlessness earlier in the season as team settle for another second place in the County Championship.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 12:48:03 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#5",
       "source": "BBC Sport"
     },
     {
@@ -192,7 +216,7 @@
       "description": "Does Ethan Bamber's fine form in Warwickshire's County Championship title triumph warrant closer scrutiny by England?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjknl7jjvwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 11:36:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjknl7jjvwo#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjknl7jjvwo#5",
       "source": "BBC Sport"
     },
     {
@@ -217,30 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 15:42:29 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Durham draw with Lancashire to end season unbeaten",
-      "description": "Durham end their title-winning campaign in County Championship Division Two unbeaten, finishing the season with a draw against Lancashire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 15:04:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw07ll0k7lmro#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Warwickshire beat Leicestershire to seal ninth Championship title",
-      "description": "Warwickshire complete their ninth County Championship title triumph with an innings victory against Leicestershire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 13:55:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g77l1p0z2o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Glamorgan & Essex draw as rain ruins final day",
-      "description": "Glamorgan and Essex's final match is rained off after just 21 balls play on the fourth day.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 12:47:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw9800my4591o#5",
       "source": "BBC Sport"
     }
   ]
