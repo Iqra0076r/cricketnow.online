@@ -1,14 +1,22 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-30T14:28:49.000959+00:00",
+  "updatedAt": "2026-09-30T20:26:11.112124+00:00",
   "items": [
     {
-      "title": "Windies break their ODI batting record in India run-fest",
-      "description": "West Indies dominate India's bowlers to pile up their highest ever total in one-day internationals.",
+      "title": "Gill hits 223 not out as India chase down Windies' record total",
+      "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 13:48:02 GMT",
+      "published": "Wed, 30 Sep 2026 16:53:38 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "English players urged to reconsider Afghan T20 tournament",
+      "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 15:53:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo#0",
       "source": "BBC Sport"
     },
     {
@@ -28,6 +36,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Sooryavanshi, 15, among young stars shaping future",
+      "description": "Fifteen-year-old Indian cricket sensation Vaibhav Sooryavanshi has been named on a prestigious list identifying the world's most influential rising stars.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 15:48:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Rank the biggest scandals in Test cricket history",
       "description": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2zmz6480vo?at_medium=RSS&at_campaign=rss",
@@ -44,19 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "India v West Indies - second ODI scorecard",
-      "description": "Latest scorecard from the second ODI between India and West Indies in Guwahati.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237255?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237255#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Barney's Bears - the Warwickshire captain who commands respect",
       "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 08:57:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#1",
       "source": "BBC Sport"
     },
     {
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 11:20:10 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England are learning - these are the World Cup issues they need to solve",
-      "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers will get the nod when Sam Curran returns?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 05:33:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo#1",
       "source": "BBC Sport"
     },
     {
@@ -137,6 +137,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 19:43:40 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England are learning - these are the World Cup issues they need to solve",
+      "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers will get the nod when Sam Curran returns?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 05:33:23 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo#3",
       "source": "BBC Sport"
     },
     {
@@ -192,7 +200,7 @@
       "description": "Latest scorecard from the first one-day international between India and West Indies in Thiruvananthapuram.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254#5",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 11:52:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3pwled5l9nxo#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Abell scores 307 in Somerset's draw with Surrey",
-      "description": "Tom Abell scores a career-best 307 in Somerset's County Championship draw against Surrey at Taunton.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 15:42:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3grvvlnqrl4o#5",
       "source": "BBC Sport"
     }
   ]
