@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-09-30T20:26:11.112124+00:00",
+  "updatedAt": "2026-10-01T00:58:11.428001+00:00",
   "items": [
+    {
+      "title": "Somerset pair Overton & Luff take top PCA awards",
+      "description": "Somerset pair Craig Overton and Sophie Luff win the top prizes at the Professional Cricketers’ Association awards.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 21:31:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Gill hits 223 not out as India chase down Windies' record total",
       "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
@@ -52,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "South Africa v Australia - third ODI scorecard",
-      "description": "Latest scorecard from the third ODI between South Africa and Australia at Potchefstroom.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236996?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236996#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Barney's Bears - the Warwickshire captain who commands respect",
       "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 08:57:23 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa v Australia - third ODI scorecard",
+      "description": "Latest scorecard from the third ODI between South Africa and Australia at Potchefstroom.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236996?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236996#1",
       "source": "BBC Sport"
     },
     {
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crje8q5n4lq4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 13:43:07 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crje8q5n4lq4o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
-      "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 11:20:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero#1",
       "source": "BBC Sport"
     },
     {
@@ -137,6 +137,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 19:43:40 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
+      "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 11:20:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero#3",
       "source": "BBC Sport"
     },
     {
@@ -185,14 +193,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 14:12:53 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Westley ends seven-season spell as Essex captain",
-      "description": "Former England Test batter Tom Westley steps down as captain of Essex after seven seasons in the role.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckwyz4833dnro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 09:47:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckwyz4833dnro#3",
       "source": "BBC Sport"
     },
     {
