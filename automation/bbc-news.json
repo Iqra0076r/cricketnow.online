@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-02T10:12:45.615045+00:00",
+  "updatedAt": "2026-10-02T17:11:07.189550+00:00",
   "items": [
+    {
+      "title": "Carse charged but remains available for England",
+      "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 15:55:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England avoid Australia & India in World Cup draw",
       "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 16:31:47 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bowler Miles retires to protect 'mental well-being'",
+      "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 14:31:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Harmison signs first professional Durham deal",
+      "description": "Charlie Harmison, son of 2005 Ashes winner Steve, signs a two-year deal with Durham.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 12:26:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro#0",
       "source": "BBC Sport"
     },
     {
@@ -28,11 +52,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Sussex sign seamer Dudgeon on two-year deal",
+      "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 11:11:28 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Winning young player award awesome - Baker",
       "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:37:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#1",
       "source": "BBC Sport"
     },
     {
@@ -40,15 +72,15 @@
       "description": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 15:50:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Somerset pair Overton & Luff take top PCA awards",
-      "description": "Somerset pair Craig Overton and Sophie Luff win the top prizes at the Professional Cricketers’ Association awards.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 21:31:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o#0",
+      "title": "Kent trigger Milnes and Northeast extensions",
+      "description": "Kent trigger contract extension clauses for seamer Matt Milnes and experienced batter Sam Northeast.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 10:38:32 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +88,7 @@
       "description": "Players face pay cuts and tournaments have been suspended",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#1",
       "source": "BBC Sport"
     },
     {
@@ -65,38 +97,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 09:28:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Gill hits 223 not out as India chase down Windies' record total",
-      "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 16:53:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "English players urged to reconsider Afghan T20 tournament",
-      "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:53:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Tumultuous summer ends in success - what next for Stokes?",
-      "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 07:12:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australian Hughes among five leaving Sussex",
-      "description": "Sussex announce the departures of five more players at the end of the 2026 season, including Australian batter Daniel Hughes.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:46:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#1",
       "source": "BBC Sport"
     },
     {
@@ -140,6 +140,46 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Gill hits 223 not out as India chase down Windies' record total",
+      "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 16:53:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Somerset pair Overton & Luff take top PCA awards",
+      "description": "Somerset pair Craig Overton and Sophie Luff win the top prizes at the Professional Cricketers’ Association awards.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 21:31:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "English players urged to reconsider Afghan T20 tournament",
+      "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 15:53:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Tumultuous summer ends in success - what next for Stokes?",
+      "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 07:12:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australian Hughes among five leaving Sussex",
+      "description": "Sussex announce the departures of five more players at the end of the 2026 season, including Australian batter Daniel Hughes.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 12:46:18 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Barney's Bears - the Warwickshire captain who commands respect",
       "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&at_campaign=rss",
@@ -160,31 +200,7 @@
       "description": "Leicestershire sign wicketkeeper Josh Blake from Surrey on a two-year deal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 09:51:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sooryavanshi, 15, among young stars shaping future",
-      "description": "Fifteen-year-old Indian cricket sensation Vaibhav Sooryavanshi has been named on a prestigious list identifying the world's most influential rising stars.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:48:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Buttler out of tri-series while England prepare central contracts",
-      "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 11:00:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "The TMS team look back at a sometimes chaotic English cricket season.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pcx312?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 15:52:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcx312#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o#5",
       "source": "BBC Sport"
     },
     {
@@ -192,7 +208,15 @@
       "description": "Former Ireland international Simi Singh confirms his retirement from professional cricket.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 13:12:08 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o#5",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sooryavanshi, 15, among young stars shaping future",
+      "description": "Fifteen-year-old Indian cricket sensation Vaibhav Sooryavanshi has been named on a prestigious list identifying the world's most influential rising stars.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 15:48:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o#5",
       "source": "BBC Sport"
     },
     {
@@ -217,30 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Surrey sign England all-rounder Kemp on multi-year deal",
-      "description": "Surrey sign 21-year-old England all-rounder Freya Kemp on a 'multi-year deal' from the 2027 season onwards.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 14:12:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck4gj19yjlz7o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Superb South Africa seal series win over Australia",
-      "description": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 16:39:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Somerset lament lack of ruthlessness in title fight",
-      "description": "Somerset senior figures lament a lack of ruthlessness earlier in the season as team settle for another second place in the County Championship.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 12:48:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck05r4dn1nvlo#5",
       "source": "BBC Sport"
     }
   ]
