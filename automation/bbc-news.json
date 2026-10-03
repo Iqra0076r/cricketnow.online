@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-02T21:40:02.621311+00:00",
+  "updatedAt": "2026-10-03T00:51:41.452448+00:00",
   "items": [
     {
       "title": "Carse charged but remains available for England",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 15:55:06 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pretorius breaks Gayle's T20 record score",
+      "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 22:22:36 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 11:11:28 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#1",
       "source": "BBC Sport"
     },
     {
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:28:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#1",
       "source": "BBC Sport"
     },
     {
@@ -137,6 +137,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 22 Sep 2026 19:43:40 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 09:28:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#3",
       "source": "BBC Sport"
     },
     {
@@ -192,7 +200,7 @@
       "description": "The votes have been counted... who made your County Championship team of the season?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 12:59:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#5",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 17:34:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kohli & Gill centuries help India past Windies - first ODI scorecard",
-      "description": "Latest scorecard from the first one-day international between India and West Indies in Thiruvananthapuram.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237254#5",
       "source": "BBC Sport"
     }
   ]
