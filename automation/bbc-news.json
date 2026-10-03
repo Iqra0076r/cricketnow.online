@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-03T00:51:41.452448+00:00",
+  "updatedAt": "2026-10-03T07:23:45.118319+00:00",
   "items": [
     {
       "title": "Carse charged but remains available for England",
@@ -12,19 +12,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Pakistan v India - Asian Games men's final scorecard",
+      "description": "Latest scorecard from the Asian Games men's final between Pakistan and India in Nisshin, Japan.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244557?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244557#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Pretorius breaks Gayle's T20 record score",
       "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 22:22:36 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England avoid Australia & India in World Cup draw",
-      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#0",
       "source": "BBC Sport"
     },
     {
@@ -68,19 +68,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Winning young player award awesome - Baker",
-      "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:37:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#1",
+      "title": "England avoid Australia & India in World Cup draw",
+      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Overton hopes to make England selectors' job hard",
-      "description": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 15:50:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo#1",
+      "title": "Stumped",
+      "description": "Players face pay cuts and tournaments have been suspended",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 12:28:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#1",
       "source": "BBC Sport"
     },
     {
@@ -92,11 +92,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stumped",
-      "description": "Players face pay cuts and tournaments have been suspended",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#1",
+      "title": "Winning young player award awesome - Baker",
+      "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 12:37:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#1",
       "source": "BBC Sport"
     },
     {
@@ -140,11 +140,43 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Overton hopes to make England selectors' job hard",
+      "description": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 15:50:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australian Hughes among five leaving Sussex",
+      "description": "Sussex announce the departures of five more players at the end of the 2026 season, including Australian batter Daniel Hughes.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 12:46:18 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Test Match Special Podcast",
       "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
       "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 09:28:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Leics sign wicketkeeper Blake from Surrey",
+      "description": "Leicestershire sign wicketkeeper Josh Blake from Surrey on a two-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 09:51:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o#3",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Who made your County Championship team of the season?",
+      "description": "The votes have been counted... who made your County Championship team of the season?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 12:59:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#3",
       "source": "BBC Sport"
     },
     {
@@ -164,27 +196,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "English players urged to reconsider Afghan T20 tournament",
-      "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:53:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo#3",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Tumultuous summer ends in success - what next for Stokes?",
       "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 07:12:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#3",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#5",
       "source": "BBC Sport"
     },
     {
-      "title": "Australian Hughes among five leaving Sussex",
-      "description": "Sussex announce the departures of five more players at the end of the 2026 season, including Australian batter Daniel Hughes.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:46:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#3",
+      "title": "English players urged to reconsider Afghan T20 tournament",
+      "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 15:53:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo#5",
       "source": "BBC Sport"
     },
     {
@@ -192,23 +216,7 @@
       "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 08:57:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Who made your County Championship team of the season?",
-      "description": "The votes have been counted... who made your County Championship team of the season?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 12:59:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leics sign wicketkeeper Blake from Surrey",
-      "description": "Leicestershire sign wicketkeeper Josh Blake from Surrey on a two-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:51:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o#5",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#5",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 16:00:22 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o#5",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leics get partial points reprieve but stay in limbo",
-      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#5",
       "source": "BBC Sport"
     }
   ]
