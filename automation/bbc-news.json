@@ -1,30 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-03T07:23:45.118319+00:00",
+  "updatedAt": "2026-10-03T12:54:42.394155+00:00",
   "items": [
-    {
-      "title": "Carse charged but remains available for England",
-      "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 15:55:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pakistan v India - Asian Games men's final scorecard",
-      "description": "Latest scorecard from the Asian Games men's final between Pakistan and India in Nisshin, Japan.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244557?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244557#0",
-      "source": "BBC Sport"
-    },
     {
       "title": "Pretorius breaks Gayle's T20 record score",
       "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 22:22:36 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India beat Pakistan to take Asian Games gold",
+      "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 09:22:43 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India v West Indies - third ODI scorecard",
+      "description": "Latest scorecard from the third one-day international between India and West Indies in New Chandigarh.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237256?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237256#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Carse charged but remains available for England",
+      "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 15:55:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#0",
       "source": "BBC Sport"
     },
     {
@@ -52,14 +60,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia call up Maddinson after cancer recovery",
-      "description": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 15:07:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Sussex sign seamer Dudgeon on two-year deal",
       "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
@@ -68,11 +68,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England avoid Australia & India in World Cup draw",
-      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#1",
+      "title": "Australia call up Maddinson after cancer recovery",
+      "description": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 15:07:32 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o#1",
       "source": "BBC Sport"
     },
     {
@@ -92,11 +92,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Winning young player award awesome - Baker",
-      "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:37:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#1",
+      "title": "England avoid Australia & India in World Cup draw",
+      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#1",
       "source": "BBC Sport"
     },
     {
@@ -148,6 +148,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Winning young player award awesome - Baker",
+      "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 12:37:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#3",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Australian Hughes among five leaving Sussex",
       "description": "Sussex announce the departures of five more players at the end of the 2026 season, including Australian batter Daniel Hughes.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
@@ -185,14 +193,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 16:53:38 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#3",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Somerset pair Overton & Luff take top PCA awards",
-      "description": "Somerset pair Craig Overton and Sophie Luff win the top prizes at the Professional Cricketers’ Association awards.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 21:31:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwyz99jwn20o#3",
       "source": "BBC Sport"
     },
     {
