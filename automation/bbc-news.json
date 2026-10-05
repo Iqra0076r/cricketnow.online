@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-05T08:02:29.674308+00:00",
+  "updatedAt": "2026-10-05T18:59:26.377993+00:00",
   "items": [
+    {
+      "title": "ECB will 'look at' funding Windies Test if needed",
+      "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 17:00:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia warm-up shows England have 'learned' from Ashes",
+      "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 12:52:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "India beat Pakistan to take Asian Games gold",
       "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
@@ -17,14 +33,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 22:22:36 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hope hits stunning 162 as West Indies beat India - third ODI scorecard",
-      "description": "Latest scorecard from the third one-day international between India and West Indies in New Chandigarh.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237256?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237256#0",
       "source": "BBC Sport"
     },
     {
@@ -52,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England call up Crane and rest Archer for Pakistan series",
-      "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:49:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Sussex sign seamer Dudgeon on two-year deal",
       "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 11:11:28 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England call up Crane and rest Archer for Pakistan series",
+      "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 12:49:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro#1",
       "source": "BBC Sport"
     },
     {
@@ -92,14 +100,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England avoid Australia & India in World Cup draw",
-      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Overton hopes to make England selectors' job hard",
       "description": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo?at_medium=RSS&at_campaign=rss",
@@ -108,11 +108,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Winning young player award awesome - Baker",
-      "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:37:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo#2",
+      "title": "England avoid Australia & India in World Cup draw",
+      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:46:18 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#2",
       "source": "BBC Sport"
     },
     {
@@ -160,63 +152,15 @@
       "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 07:12:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#4",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#2",
       "source": "BBC Sport"
     },
     {
-      "title": "English players urged to reconsider Afghan T20 tournament",
-      "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:53:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Barney's Bears - the Warwickshire captain who commands respect",
-      "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 08:57:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ex-Ireland international Singh announces retirement",
-      "description": "Former Ireland international Simi Singh confirms his retirement from professional cricket.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 13:12:08 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sooryavanshi, 15, among young stars shaping future",
-      "description": "Fifteen-year-old Indian cricket sensation Vaibhav Sooryavanshi has been named on a prestigious list identifying the world's most influential rising stars.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:48:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqevwr3m4xk1o#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Joyce appointed Ireland high performance batting coach",
-      "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 16:00:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leics get partial points reprieve but stay in limbo",
-      "description": "Leicestershire have eight points of their 27-point County Championship deduction reinstated but their Division One status remains in limbo.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:34:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckddv8j94395o#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "ODI Cricket",
-      "description": "The series ends at The Oval. How are England looking with the World Cup on its way?",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m00328q7?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 23:40:28 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m00328q7#6",
+      "title": "Test Match Special Podcast",
+      "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 09:28:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#4",
       "source": "BBC Sport"
     },
     {
@@ -224,7 +168,7 @@
       "description": "England thrashed Sri Lanka at the Oval to finish the summer with a series victory.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pcrmpr?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 27 Sep 2026 17:26:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcrmpr#6",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pcrmpr#4",
       "source": "BBC Sport"
     },
     {
@@ -232,7 +176,7 @@
       "description": "Simon Mann talks to Mark Wood talks about his favourite moments in an England shirt.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pcb9ts?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 16:01:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcb9ts#6",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pcb9ts#4",
       "source": "BBC Sport"
     },
     {
@@ -240,7 +184,63 @@
       "description": "Mark Chapman is joined by Sir Alastair Cook, Matt Prior and Stephan Shemilt.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pbt66b?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 21:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pbt66b#6",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pbt66b#4",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "McCullum - I want to be challenged by Pietersen",
+      "description": "We hear from England white ball coach Brendon McCullum.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p9mwnl?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 22:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p9mwnl#4",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Which England player has had the most Test team-mates?",
+      "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:27:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Who has played the most career Test matches?",
+      "description": "Joe Root will move up the list of all-time Test appearances when England face Pakistan at Edgbaston",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cy5zk6r5p6po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 10:30:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cy5zk6r5p6po#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "When is the next Ashes series?",
+      "description": "Our Ask Me Anything team explore when the next Ashes series will be and what venues have been selected.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Jan 2026 15:44:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "What are the substitute rules in the County Championship?",
+      "description": "BBC Sport's Ask Me Anything team explains what the rules are on substitutes in the County Championship",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ceq87yp3nyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 14:12:32 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ceq87yp3nyxo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How often does a team forfeit an innings?",
+      "description": "BBC Sport's Ask Me Anything team looks into how often teams have forfeited an innings in the history of the County Championship",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 13:16:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "What are the ICC pitch ratings and how does the system work?",
+      "description": "BBC Sport's Ask Me Anything team explains pitch ratings after the Lord's pitch was rated 'unsatisfactory' by ICC.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 12:57:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
       "source": "BBC Sport"
     }
   ]
