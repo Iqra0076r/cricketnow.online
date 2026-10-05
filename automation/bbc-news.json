@@ -1,22 +1,22 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-05T00:21:35.224032+00:00",
+  "updatedAt": "2026-10-05T08:02:29.674308+00:00",
   "items": [
-    {
-      "title": "Pretorius breaks Gayle's T20 record score",
-      "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 22:22:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
-      "source": "BBC Sport"
-    },
     {
       "title": "India beat Pakistan to take Asian Games gold",
       "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 09:22:43 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pretorius breaks Gayle's T20 record score",
+      "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 22:22:36 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
       "source": "BBC Sport"
     },
     {
