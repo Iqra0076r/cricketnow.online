@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-06T08:24:11.023993+00:00",
+  "updatedAt": "2026-10-06T16:25:22.475047+00:00",
   "items": [
+    {
+      "title": "Farbrace leaves Sussex to join Lancashire",
+      "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 13:50:13 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "ECB may fund women's Windies Test to aid Ashes preparation",
       "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 17:00:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India v West Indies - first T20 scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between India and West Indies in Lucknow.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237257?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237257#0",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 15:55:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,7 @@
       "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 14:31:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia call up Maddinson after cancer recovery",
-      "description": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 15:07:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Stumped",
       "description": "Players face pay cuts and tournaments have been suspended",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#2",
       "source": "BBC Sport"
     },
     {
@@ -105,6 +113,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 10:38:32 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia call up Maddinson after cancer recovery",
+      "description": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 15:07:32 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o#2",
       "source": "BBC Sport"
     },
     {
@@ -132,27 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Leics sign wicketkeeper Blake from Surrey",
-      "description": "Leicestershire sign wicketkeeper Josh Blake from Surrey on a two-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:51:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm9w4w147100o#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Who made your County Championship team of the season?",
       "description": "The votes have been counted... who made your County Championship team of the season?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 12:59:33 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Gill hits 223 not out as India chase down Windies' record total",
-      "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 16:53:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#2",
       "source": "BBC Sport"
     },
     {
