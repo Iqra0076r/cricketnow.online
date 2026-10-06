@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-06T16:25:22.475047+00:00",
+  "updatedAt": "2026-10-06T22:05:46.068172+00:00",
   "items": [
     {
       "title": "Farbrace leaves Sussex to join Lancashire",
@@ -20,7 +20,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "India v West Indies - first T20 scorecard",
+      "title": "Iyer ton helps India beat Windies in first T20 - scorecard",
       "description": "Latest scorecard from the first Twenty20 international between India and West Indies in Lucknow.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237257?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 00:00:00 GMT",
@@ -36,10 +36,10 @@
       "source": "BBC Sport"
     },
     {
-      "title": "India's Harmanpreet steps down as captain",
-      "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats of international cricket.",
+      "title": "Mandhana replaces Harmanpreet as India captain",
+      "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats, replaced by fellow batter Smriti Mandhana.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 07:26:54 GMT",
+      "published": "Tue, 06 Oct 2026 17:31:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#0",
       "source": "BBC Sport"
     },
@@ -157,6 +157,14 @@
     },
     {
       "title": "Test Match Special Podcast",
+      "description": "Dr Raf Nicolson reveals the untold story of the history of Women’s Cricket in England..",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pf1t97?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 10:54:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pf1t97#4",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
       "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
       "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 09:28:00 GMT",
@@ -185,14 +193,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pbt66b?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 21:25:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pbt66b#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "McCullum - I want to be challenged by Pietersen",
-      "description": "We hear from England white ball coach Brendon McCullum.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p9mwnl?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p9mwnl#4",
       "source": "BBC Sport"
     },
     {
