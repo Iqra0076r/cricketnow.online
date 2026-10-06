@@ -1,10 +1,10 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-06T01:03:52.832307+00:00",
+  "updatedAt": "2026-10-06T08:24:11.023993+00:00",
   "items": [
     {
-      "title": "ECB will 'look at' funding Windies Test if needed",
+      "title": "ECB may fund women's Windies Test to aid Ashes preparation",
       "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 17:00:17 GMT",
@@ -17,6 +17,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 12:52:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India's Harmanpreet steps down as captain",
+      "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats of international cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 07:26:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#0",
       "source": "BBC Sport"
     },
     {
@@ -52,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Harmison signs first professional Durham deal",
-      "description": "Charlie Harmison, son of 2005 Ashes winner Steve, signs a two-year deal with Durham.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 12:26:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Sussex sign seamer Dudgeon on two-year deal",
       "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 11:11:28 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Harmison signs first professional Durham deal",
+      "description": "Charlie Harmison, son of 2005 Ashes winner Steve, signs a two-year deal with Durham.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 12:26:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Kent trigger contract extension clauses for seamer Matt Milnes and experienced batter Sam Northeast.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 10:38:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 16:53:38 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Tumultuous summer ends in success - what next for Stokes?",
-      "description": "After concluding the county summer with Durham and the end of his England central contract, what is in store for Ben Stokes?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 07:12:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw1l60d82zdno#2",
       "source": "BBC Sport"
     },
     {
