@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-07T03:38:20.510677+00:00",
+  "updatedAt": "2026-10-07T10:44:59.990355+00:00",
   "items": [
+    {
+      "title": "Test cricket's biggest scandals - your results revealed",
+      "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:24:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "The TMS team rank debate the biggest scandals to rock the cricketing world.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pf89v3?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pf89v3#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Farbrace leaves Sussex to join Lancashire",
       "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
@@ -17,14 +33,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 17:00:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Iyer ton helps India beat Windies in first T20 - scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between India and West Indies in Lucknow.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237257?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237257#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 22:22:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:49:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:46:18 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Who made your County Championship team of the season?",
-      "description": "The votes have been counted... who made your County Championship team of the season?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 12:59:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro#2",
       "source": "BBC Sport"
     },
     {
