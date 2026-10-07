@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-07T10:44:59.990355+00:00",
+  "updatedAt": "2026-10-07T18:14:05.271785+00:00",
   "items": [
+    {
+      "title": "How an 'absolute fluke' exposed sandpapergate scandal",
+      "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 14:28:55 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Test cricket's biggest scandals - your results revealed",
       "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:24:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Beaumont extends Blaze stay after England retirement",
+      "description": "Decorated former England batter Tammy Beaumont signs a new two-year deal to remain with the treble-winning Blaze.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 11:16:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo#0",
       "source": "BBC Sport"
     },
     {
@@ -44,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Durham bowler Ghafari extends contract",
+      "description": "Durham leg-spin bowler Shafiqullah Ghafari signs a one-year contract with the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 15:51:55 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Mandhana replaces Harmanpreet as India captain",
       "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats, replaced by fellow batter Smriti Mandhana.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 17:31:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "India beat Pakistan to take Asian Games gold",
-      "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 09:22:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#1",
       "source": "BBC Sport"
     },
     {
@@ -68,6 +84,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "India beat Pakistan to take Asian Games gold",
+      "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 09:22:43 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Carse charged but remains available for England",
       "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
@@ -76,27 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bowler Miles retires to protect 'mental well-being'",
-      "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 14:31:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Sussex sign seamer Dudgeon on two-year deal",
       "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 11:11:28 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#2",
       "source": "BBC Sport"
     },
     {
-      "title": "Harmison signs first professional Durham deal",
-      "description": "Charlie Harmison, son of 2005 Ashes winner Steve, signs a two-year deal with Durham.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 12:26:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro#1",
+      "title": "Bowler Miles retires to protect 'mental well-being'",
+      "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 14:31:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#2",
       "source": "BBC Sport"
     },
     {
@@ -105,6 +121,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:49:04 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Harmison signs first professional Durham deal",
+      "description": "Charlie Harmison, son of 2005 Ashes winner Steve, signs a two-year deal with Durham.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 12:26:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro#2",
       "source": "BBC Sport"
     },
     {
@@ -124,35 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia call up Maddinson after cancer recovery",
-      "description": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 15:07:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Overton hopes to make England selectors' job hard",
-      "description": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 15:50:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "England avoid Australia & India in World Cup draw",
       "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 16:31:47 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australian Hughes among five leaving Sussex",
-      "description": "Sussex announce the departures of five more players at the end of the 2026 season, including Australian batter Daniel Hughes.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:46:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4y8gemvpo#2",
       "source": "BBC Sport"
     },
     {
