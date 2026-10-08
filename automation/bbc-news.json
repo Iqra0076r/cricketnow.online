@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-08T04:46:27.161469+00:00",
+  "updatedAt": "2026-10-08T12:35:02.362275+00:00",
   "items": [
+    {
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:31:00 GMT",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "How an 'absolute fluke' exposed sandpapergate scandal",
       "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
@@ -56,7 +64,7 @@
       "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 12:52:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#1",
       "source": "BBC Sport"
     },
     {
@@ -81,14 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 22:22:36 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "India beat Pakistan to take Asian Games gold",
-      "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 09:22:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o#1",
       "source": "BBC Sport"
     },
     {
