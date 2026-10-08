@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-08T12:35:02.362275+00:00",
+  "updatedAt": "2026-10-08T19:35:49.193988+00:00",
   "items": [
+    {
+      "title": "Cummins not worried about potential Khawaja revelations",
+      "description": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:38:18 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
+      "description": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
+      "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 18:57:13 GMT",
+      "guid": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "She made India fall in love with women's cricket - now her era as captain is over",
       "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 23:31:00 GMT",
       "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stumped: What legacy does India's Harmanpreet Kaur leave?",
+      "description": "Smriti Mandhana replaces Harmanpreet Kaur as India's multi-format captain.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fw?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 13:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fw#0",
       "source": "BBC Sport"
     },
     {
@@ -36,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "The TMS team rank debate the biggest scandals to rock the cricketing world.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pf89v3?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pf89v3#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Farbrace leaves Sussex to join Lancashire",
       "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 13:50:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "The TMS team rank debate the biggest scandals to rock the cricketing world.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pf89v3?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pf89v3#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +80,7 @@
       "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 17:00:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#1",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +104,7 @@
       "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats, replaced by fellow batter Smriti Mandhana.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 17:31:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +112,7 @@
       "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 22:22:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +120,7 @@
       "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 15:55:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#2",
       "source": "BBC Sport"
     },
     {
@@ -124,35 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Harmison signs first professional Durham deal",
-      "description": "Charlie Harmison, son of 2005 Ashes winner Steve, signs a two-year deal with Durham.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 12:26:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c63r5dd3zgyro#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Stumped",
       "description": "Players face pay cuts and tournaments have been suspended",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 12:28:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent trigger Milnes and Northeast extensions",
-      "description": "Kent trigger contract extension clauses for seamer Matt Milnes and experienced batter Sam Northeast.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 10:38:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England avoid Australia & India in World Cup draw",
-      "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 16:31:47 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro#2",
       "source": "BBC Sport"
     },
     {
