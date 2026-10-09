@@ -6,7 +6,10 @@
 (function () {
   'use strict';
 
-  var MANIFEST_URL = '/automation/daily-manifest.json';
+  var MANIFEST_URLS = [
+    'https://raw.githubusercontent.com/Iqra0076r/cricketnow.online/main/automation/daily-manifest.json',
+    '/automation/daily-manifest.json'
+  ];
   var STORAGE_KEY = 'cricketnow-daily-manifest';
   var REFRESH_KEY = 'cricketnow-daily-refresh';
   var PKT_OFFSET_MS = 5 * 60 * 60 * 1000;
@@ -24,7 +27,11 @@
   }
 
   function refresh() {
-    fetch(MANIFEST_URL + '?v=' + Date.now(), { cache: 'no-store' })
+    (function tryFetch(i){
+      return fetch(MANIFEST_URLS[i] + '?v=' + Date.now(), { cache: 'no-store' })
+        .then(function (r) { if (!r.ok) throw new Error('bad status'); return r.json(); })
+        .catch(function (e) { return i + 1 < MANIFEST_URLS.length ? tryFetch(i + 1) : Promise.reject(e); });
+    })(0)
       .then(function (response) {
         if (!response.ok) throw new Error('Daily manifest unavailable');
         return response.json();
