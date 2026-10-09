@@ -84,8 +84,37 @@
     <script src="/automation/daily-refresh.js" defer></script>
     <link rel="stylesheet" href="/automation/cricketnow-features.css">
     <script src="/automation/cricketnow-features.js?v=20260921-news-seo" defer></script>
-    <script src="https://raw.githubusercontent.com/Iqra0076r/cricketnow.online/main/automation/homepage-data.js"></script>
-    <script type="module" crossorigin src="/assets/index-DfPeNud4.js"></script>
+    <script>
+      /* Bootstrap: fetch the daily homepage data first (fetch() ignores the
+         text/plain MIME that raw.githubusercontent.com serves), inline it so
+         window.__CN_HOMEPAGE exists, then load the app bundle. Falls back to
+         the bundle's baked-in data if the fetch fails or times out. */
+      (function () {
+        var DATA_URL = "https://raw.githubusercontent.com/Iqra0076r/cricketnow.online/main/automation/homepage-data.js";
+        var BUNDLE_SRC = "/assets/index-DfPeNud4.js";
+        var done = false;
+        function loadBundle() {
+          if (done) return; done = true;
+          var b = document.createElement("script");
+          b.type = "module"; b.crossOrigin = "anonymous"; b.src = BUNDLE_SRC;
+          document.head.appendChild(b);
+        }
+        setTimeout(loadBundle, 4000);
+        try {
+          fetch(DATA_URL + "?v=" + Date.now(), { cache: "no-store" })
+            .then(function (r) { if (!r.ok) throw new Error("data fetch failed"); return r.text(); })
+            .then(function (t) {
+              try {
+                var s = document.createElement("script");
+                s.textContent = t;
+                document.head.appendChild(s);
+              } catch (e) {}
+              loadBundle();
+            })
+            .catch(loadBundle);
+        } catch (e) { loadBundle(); }
+      })();
+    </script>
     <link rel="stylesheet" crossorigin href="/assets/index-DObGTHPO.css">
   </head>
   <body>
