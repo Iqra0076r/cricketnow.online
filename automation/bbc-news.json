@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-09T00:04:36.657772+00:00",
+  "updatedAt": "2026-10-09T08:15:38.192957+00:00",
   "items": [
+    {
+      "title": "Australia bat in first Test in South Africa since sandpapergate - scorecard",
+      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Cummins not worried about potential Khawaja revelations",
       "description": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 14:38:18 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
+      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +56,7 @@
       "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 14:28:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#1",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +96,7 @@
       "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 17:00:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "Durham leg-spin bowler Shafiqullah Ghafari signs a one-year contract with the club.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 15:51:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 02 Oct 2026 14:31:31 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England call up Crane and rest Archer for Pakistan series",
-      "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:49:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro#2",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "How do you read a cricket scorecard?",
-      "description": "Our Ask Me Anything team break down what everything means on a cricket scorecard.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 08:11:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o#6",
       "source": "BBC Sport"
     }
   ]
