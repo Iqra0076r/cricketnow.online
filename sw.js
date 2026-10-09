@@ -1,6 +1,7 @@
-self.options = {
-    "domain": "3nbf4.com",
-    "zoneId": 11846099
-}
-self.lary = ""
-importScripts('https://3nbf4.com/act/files/service-worker.min.js?r=sw')
+// CricketNow service worker placeholder.
+// Previously served a third-party ad loader; replaced 2026-10-09.
+// Unregister any previously installed worker and take no action.
+self.addEventListener('install', function (e) { self.skipWaiting(); });
+self.addEventListener('activate', function (e) {
+  e.waitUntil(self.registration.unregister().then(function () { return self.clients.claim(); }));
+});
