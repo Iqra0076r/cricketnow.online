@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-09T08:15:38.192957+00:00",
+  "updatedAt": "2026-10-09T16:44:26.179953+00:00",
   "items": [
     {
-      "title": "Australia bat in first Test in South Africa since sandpapergate - scorecard",
-      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "title": "33 balls, 0 runs - Maddinson's record amid Australia top-order struggles",
+      "description": "Opener Nic Maddinson makes the longest duck by a Test opener this century as Australia's top order struggles on his return against South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck20wpg18w19o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 14:22:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck20wpg18w19o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "ECB help would make women's Test a 'certainty' - West Indies",
+      "description": "West Indies are still hopeful of hosting England in a women's Test next year, but the fixture would be a \"certainty\" if the ECB were to help fund it, says chief executive Chris Dehring.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:21:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India v West Indies - second T20 scorecard",
+      "description": "Latest scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan v Sri Lanka - first T20 scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#0",
       "source": "BBC Sport"
     },
     {
@@ -24,31 +48,15 @@
       "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
-      "description": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
-      "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 18:57:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "She made India fall in love with women's cricket - now her era as captain is over",
-      "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:31:00 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped: What legacy does India's Harmanpreet Kaur leave?",
-      "description": "Smriti Mandhana replaces Harmanpreet Kaur as India's multi-format captain.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fw?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 13:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fw#0",
+      "title": "Hampshire legend Adams leaves after 25 years",
+      "description": "Hampshire club legend Jimmy Adams leaves the county after more than 25 years as a player and coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 15:24:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o#1",
       "source": "BBC Sport"
     },
     {
@@ -60,11 +68,35 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
+      "description": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
+      "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 18:57:13 GMT",
+      "guid": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:31:00 GMT",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stumped: What legacy does India's Harmanpreet Kaur leave?",
+      "description": "Smriti Mandhana replaces Harmanpreet Kaur as India's multi-format captain.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fw?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 13:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fw#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Test cricket's biggest scandals - your results revealed",
       "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#2",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +104,7 @@
       "description": "Decorated former England batter Tammy Beaumont signs a new two-year deal to remain with the treble-winning Blaze.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 11:16:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo#2",
       "source": "BBC Sport"
     },
     {
@@ -80,15 +112,7 @@
       "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 13:50:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "The TMS team rank debate the biggest scandals to rock the cricketing world.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pf89v3?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pf89v3#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo#2",
       "source": "BBC Sport"
     },
     {
@@ -100,59 +124,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Test Match Special Podcast",
+      "description": "The TMS team rank debate the biggest scandals to rock the cricketing world.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pf89v3?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pf89v3#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Durham bowler Ghafari extends contract",
       "description": "Durham leg-spin bowler Shafiqullah Ghafari signs a one-year contract with the club.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 15:51:55 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Mandhana replaces Harmanpreet as India captain",
-      "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats, replaced by fellow batter Smriti Mandhana.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 17:31:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia warm-up shows England have 'learned' from Ashes",
-      "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 12:52:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pretorius breaks Gayle's T20 record score",
-      "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 22:22:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Carse charged but remains available for England",
-      "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 15:55:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sussex sign seamer Dudgeon on two-year deal",
-      "description": "Sussex sign South African seamer Keith Dudgeon, who helped Kent win County Championship promotion in 2026, on a two-year contract.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 11:11:28 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y8z88per8ko#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bowler Miles retires to protect 'mental well-being'",
-      "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 14:31:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo#2",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +225,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How do you read a cricket scorecard?",
+      "description": "Our Ask Me Anything team break down what everything means on a cricket scorecard.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 08:11:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o#6",
       "source": "BBC Sport"
     }
   ]
