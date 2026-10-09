@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-08T19:35:49.193988+00:00",
+  "updatedAt": "2026-10-09T00:04:36.657772+00:00",
   "items": [
     {
       "title": "Cummins not worried about potential Khawaja revelations",
@@ -56,7 +56,7 @@
       "description": "Decorated former England batter Tammy Beaumont signs a new two-year deal to remain with the treble-winning Blaze.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 11:16:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo#1",
       "source": "BBC Sport"
     },
     {
@@ -84,14 +84,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia warm-up shows England have 'learned' from Ashes",
-      "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 12:52:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Durham bowler Ghafari extends contract",
       "description": "Durham leg-spin bowler Shafiqullah Ghafari signs a one-year contract with the club.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo?at_medium=RSS&at_campaign=rss",
@@ -105,6 +97,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 17:31:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia warm-up shows England have 'learned' from Ashes",
+      "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 12:52:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no#2",
       "source": "BBC Sport"
     },
     {
@@ -148,11 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stumped",
-      "description": "Players face pay cuts and tournaments have been suspended",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fv?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fv#2",
+      "title": "5 Live Sport: All About...",
+      "description": "Katie Smith is joined by Wake Up to Money’s Sean Farrington",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pfsdld?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 20:31:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pfsdld#4",
       "source": "BBC Sport"
     },
     {
@@ -185,14 +185,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pcb9ts?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 16:01:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pcb9ts#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Mark Chapman is joined by Sir Alastair Cook, Matt Prior and Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pbt66b?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 21:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pbt66b#4",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How do you read a cricket scorecard?",
+      "description": "Our Ask Me Anything team break down what everything means on a cricket scorecard.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 08:11:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o#6",
       "source": "BBC Sport"
     }
   ]
