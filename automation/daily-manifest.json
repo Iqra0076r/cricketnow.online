@@ -2,7 +2,7 @@
   "version": 2,
   "date": "2026-10-09",
   "timezone": "Asia/Karachi",
-  "updatedAt": "2026-10-09T14:10:46.684542+05:00",
+  "updatedAt": "2026-10-09T14:54:40.844238+05:00",
   "liveMatch": {
     "teams": "India A vs Australia A",
     "competition": "Australia A tour of India 2026/27",
@@ -652,5 +652,43 @@
     "/media/match-poster-cpl.webp",
     "/media/og-cover.jpg"
   ],
-  "notes": "Auto-published 2026-10-09: 8 live, 47 upcoming. Verified via ESPN feeds."
+  "notes": "Auto-published 2026-10-09: 8 live, 47 upcoming. Verified via ESPN feeds. 3 highlights.",
+  "highlights": [
+    {
+      "videoId": "6M8vdl2xa78",
+      "title": "ACC Men's Challenger Cup | Highlights | Myanmar vs China | Match-4",
+      "channel": "Asian Cricket Council",
+      "embed": "https://www.youtube-nocookie.com/embed/6M8vdl2xa78",
+      "watch": "https://www.youtube.com/watch?v=6M8vdl2xa78",
+      "teams": "Mongolia vs Thailand",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "score": "MNG 13 (11.3/20 ov, target 197) · THA 196/2 (Final)",
+      "date": "2026-10-09"
+    },
+    {
+      "videoId": "2Pc4imKwpYA",
+      "title": "ACC Men`s Western Region T20 Tournament-  Kuwait vs Bahrain - SF 1",
+      "channel": "Asian Cricket Council",
+      "embed": "https://www.youtube-nocookie.com/embed/2Pc4imKwpYA",
+      "watch": "https://www.youtube.com/watch?v=2Pc4imKwpYA",
+      "teams": "Bahrain vs Kuwait",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "score": "BHR 189/4 (19.2/20 ov, target 189) · KUW 188/7 (Final)",
+      "date": "2026-10-09"
+    },
+    {
+      "videoId": "2PtD_DVWox0",
+      "title": "#ACCChallengerCup: Behind the Scenes with Myanmar Cricket Team",
+      "channel": "Asian Cricket Council",
+      "embed": "https://www.youtube-nocookie.com/embed/2PtD_DVWox0",
+      "watch": "https://www.youtube.com/watch?v=2PtD_DVWox0",
+      "teams": "Qatar vs Myanmar",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "score": "QAT 56/1 (7/20 ov, target 56) · MYAN 55/9 (Final)",
+      "date": "2026-10-09"
+    }
+  ]
 }
