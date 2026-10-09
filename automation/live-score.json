@@ -1,5 +1,54 @@
 {
-  "updatedAt": null,
-  "matches": [],
-  "notes": "Populate this file or configure a licensed provider endpoint in Control Room. Empty data is intentional and prevents fabricated scores."
+  "updatedAt": "2026-10-09T14:10:46.684542+05:00",
+  "matches": [
+    {
+      "teams": "India A vs Australia A",
+      "status": "LIVE",
+      "score": "IND-A 57/3 (17/50 ov, target 276) · AUS-A 275 (Live)",
+      "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry"
+    },
+    {
+      "teams": "Australia Women vs Bangladesh Women",
+      "status": "LIVE",
+      "score": "AUS-W 136/3 (20.1/50 ov, target 167) · BAN-W 166 (Live)",
+      "venue": "Allan Border Field, Brisbane"
+    },
+    {
+      "teams": "Pakistan Women Under-19s vs Sri Lanka Women Under-19s",
+      "status": "LIVE",
+      "score": "PAW19 · SLW19 (Live)",
+      "venue": "Iqbal Stadium, Faisalabad"
+    },
+    {
+      "teams": "Malaysia vs Saudi Arabia",
+      "status": "LIVE",
+      "score": "MAS · KSA (Live)",
+      "venue": "Bayuemas Oval, Kuala Lumpur"
+    },
+    {
+      "teams": "Maldives vs Singapore",
+      "status": "LIVE",
+      "score": "MDV · SGP (Live)",
+      "venue": "Selangor Turf Club, Kuala Lumpur"
+    },
+    {
+      "teams": "Afghanistan vs Bangladesh",
+      "status": "LIVE",
+      "score": "AFG · BAN 163/1 (32.5 ov) (Live)",
+      "venue": "Zayed Cricket Stadium, Abu Dhabi"
+    },
+    {
+      "teams": "South Africa vs Australia",
+      "status": "LIVE",
+      "score": "SA · AUS 63/2 (19.5 ov) (Live)",
+      "venue": "Kingsmead, Durban"
+    },
+    {
+      "teams": "Oman vs Canada",
+      "status": "LIVE",
+      "score": "OMA 263 (49.1/50 ov) · CAN (Live)",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)"
+    }
+  ],
+  "notes": "Auto-refreshed from verified ESPN data."
 }

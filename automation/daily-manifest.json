@@ -1,28 +1,656 @@
 {
   "version": 2,
-  "date": "2026-09-20",
+  "date": "2026-10-09",
   "timezone": "Asia/Karachi",
-  "updatedAt": "2026-09-20T17:13:00+05:00",
-  "rankingSnapshot": "2026-09-15 to 2026-09-18",
-  "rankingSources": {
-    "teams": {
-      "test": "https://www.icc-cricket.com/rankings/team-rankings/mens/test",
-      "odi": "https://www.icc-cricket.com/rankings/team-rankings/mens/odi",
-      "t20i": "https://www.icc-cricket.com/rankings/team-rankings/mens/t20i"
-    },
-    "players": {
-      "batting": "https://www.icc-cricket.com/rankings/batting/mens/t20i",
-      "bowling": "https://www.icc-cricket.com/rankings/bowling/mens/t20i",
-      "allrounder": "https://www.icc-cricket.com/rankings/allrounder/mens/t20i"
-    }
+  "updatedAt": "2026-10-09T14:10:46.684542+05:00",
+  "liveMatch": {
+    "teams": "India A vs Australia A",
+    "competition": "Australia A tour of India 2026/27",
+    "time": "LIVE NOW",
+    "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
+    "image": "/media/match-poster-cpl.webp",
+    "tv_channels": [
+      "TBD — check official broadcaster"
+    ],
+    "captains": null
   },
-  "liveMatch": null,
-  "upcomingMatch": null,
-  "matches": [],
-  "posters": [
-    "/media/generated-ongoing-match.png",
-    "/media/generated-live-match.png",
-    "/media/generated-upcoming-match.png"
+  "upcomingMatch": {
+    "teams": "Border vs Dolphins",
+    "competition": "South Africa Domestic T20/Pro20",
+    "time": "Today · 4:00 PM",
+    "venue": "Buffalo Park, KuGumpo City",
+    "image": "/media/match-poster-cpl.webp",
+    "tv_channels": [
+      "TBD — check official broadcaster"
+    ],
+    "captains": null
+  },
+  "matches": [
+    {
+      "teams": "India A vs Australia A",
+      "competition": "Australia A tour of India 2026/27",
+      "time": "LIVE NOW",
+      "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Australia Women vs Bangladesh Women",
+      "competition": "Bangladesh Women tour of Australia 2026/27",
+      "time": "LIVE NOW",
+      "venue": "Allan Border Field, Brisbane",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan Women Under-19s vs Sri Lanka Women Under-19s",
+      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
+      "time": "LIVE NOW",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Malaysia vs Saudi Arabia",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "LIVE NOW",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Maldives vs Singapore",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "LIVE NOW",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Afghanistan vs Bangladesh",
+      "competition": "Bangladesh tour of United Arab Emirates 2026/27",
+      "time": "LIVE NOW",
+      "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "Ten Sports (PK)",
+        "CricLife 2 (MENA)"
+      ],
+      "captains": "Rashid Khan · Litton Das"
+    },
+    {
+      "teams": "South Africa vs Australia",
+      "competition": "Australia tour of South Africa 2026/27",
+      "time": "LIVE NOW",
+      "venue": "Kingsmead, Durban",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "SuperSport Cricket (SA)"
+      ],
+      "captains": "Aiden Markram · Mitchell Marsh"
+    },
+    {
+      "teams": "Oman vs Canada",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "LIVE NOW",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Border vs Dolphins",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Today · 4:00 PM",
+      "venue": "Buffalo Park, KuGumpo City",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan vs Sri Lanka",
+      "competition": "Sri Lanka tour of Pakistan 2026/27",
+      "time": "Today · 6:00 PM",
+      "venue": "Rawalpindi Cricket Stadium",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
+      ],
+      "captains": "Salman Ali Agha · Charith Asalanka"
+    },
+    {
+      "teams": "India vs West Indies",
+      "competition": "West Indies tour of India 2026/27",
+      "time": "Today · 6:30 PM",
+      "venue": "JSCA International Stadium Complex, Ranchi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "Star Sports 1 (IN)",
+        "Star Sports Hindi (IN)",
+        "Sony Sports Ten 1 (IN)"
+      ],
+      "captains": "Suryakumar Yadav"
+    },
+    {
+      "teams": "Namibia vs United Arab Emirates",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Today · 8:00 PM",
+      "venue": "Grand Prairie Stadium, Dallas",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mpumalanga vs Western Province",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tomorrow · 4:00 PM",
+      "venue": "Uplands College, White River",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "North West vs South Western Districts",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tomorrow · 9:00 PM",
+      "venue": "Senwes Park, Potchefstroom",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "China vs Singapore",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Sun 11 Oct · 6:15 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Hong Kong vs Saudi Arabia",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Sun 11 Oct · 6:15 AM",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Malaysia vs Maldives",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Sun 11 Oct · 6:15 AM",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Australia Women vs Bangladesh Women",
+      "competition": "Bangladesh Women tour of Australia 2026/27",
+      "time": "Sun 11 Oct · 8:50 AM",
+      "venue": "Allan Border Field, Brisbane",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "India A vs Australia A",
+      "competition": "Australia A tour of India 2026/27",
+      "time": "Sun 11 Oct · 9:00 AM",
+      "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan Women Under-19s vs Bangladesh Women Under-19s",
+      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
+      "time": "Sun 11 Oct · 10:00 AM",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bahrain vs Mongolia",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Sun 11 Oct · 11:00 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bhutan vs Qatar",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Sun 11 Oct · 11:00 AM",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Kuwait vs Myanmar",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Sun 11 Oct · 11:00 AM",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Canada vs Nepal",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Sun 11 Oct · 11:00 AM",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "South Africa Emerging Players vs Boland",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Sun 11 Oct · 4:00 PM",
+      "venue": "SuperSport Park, Centurion",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan vs Sri Lanka",
+      "competition": "Sri Lanka tour of Pakistan 2026/27",
+      "time": "Sun 11 Oct · 6:00 PM",
+      "venue": "Rawalpindi Cricket Stadium",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
+      ],
+      "captains": "Salman Ali Agha · Charith Asalanka"
+    },
+    {
+      "teams": "India vs West Indies",
+      "competition": "West Indies tour of India 2026/27",
+      "time": "Sun 11 Oct · 6:30 PM",
+      "venue": "Holkar Cricket Stadium, Indore",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "Star Sports 1 (IN)",
+        "Star Sports Hindi (IN)",
+        "Sony Sports Ten 1 (IN)"
+      ],
+      "captains": "Suryakumar Yadav"
+    },
+    {
+      "teams": "United States of America vs United Arab Emirates",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Sun 11 Oct · 8:00 PM",
+      "venue": "Grand Prairie Stadium, Dallas",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Titans vs Easterns",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Sun 11 Oct · 9:00 PM",
+      "venue": "SuperSport Park, Centurion",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "China vs Saudi Arabia",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Mon 12 Oct · 6:15 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Hong Kong vs Maldives",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Mon 12 Oct · 6:15 AM",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Malaysia vs Singapore",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Mon 12 Oct · 6:15 AM",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan Women Under-19s vs Sri Lanka Women Under-19s",
+      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
+      "time": "Mon 12 Oct · 10:00 AM",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bhutan vs Kuwait",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Mon 12 Oct · 11:00 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Myanmar vs Thailand",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Mon 12 Oct · 11:00 AM",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Qatar vs Mongolia",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Mon 12 Oct · 11:00 AM",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Oman vs Nepal",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Tue 13 Oct · 11:00 AM",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "KwaZulu-Natal Inland vs Titans",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tue 13 Oct · 4:00 PM",
+      "venue": "City Oval, Pietermaritzburg",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Northern Cape vs Limpopo",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tue 13 Oct · 4:00 PM",
+      "venue": "Diamond Oval, Kimberley",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan vs Sri Lanka",
+      "competition": "Sri Lanka tour of Pakistan 2026/27",
+      "time": "Tue 13 Oct · 6:00 PM",
+      "venue": "Rawalpindi Cricket Stadium",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
+      ],
+      "captains": "Salman Ali Agha · Charith Asalanka"
+    },
+    {
+      "teams": "United States of America vs Namibia",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Tue 13 Oct · 8:00 PM",
+      "venue": "Grand Prairie Stadium, Dallas",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Lions vs Border",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tue 13 Oct · 9:00 PM",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "North West vs Dolphins",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tue 13 Oct · 9:00 PM",
+      "venue": "Senwes Park, Potchefstroom",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Malaysia vs China",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Wed 14 Oct · 6:15 AM",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bahrain vs Qatar",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Wed 14 Oct · 6:15 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mongolia vs Myanmar",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Wed 14 Oct · 6:15 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Australia Women vs Bangladesh Women",
+      "competition": "Bangladesh Women tour of Australia 2026/27",
+      "time": "Wed 14 Oct · 8:50 AM",
+      "venue": "Allan Border Field, Brisbane",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bangladesh Women Under-19s vs Sri Lanka Women Under-19s",
+      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
+      "time": "Wed 14 Oct · 10:00 AM",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Hong Kong vs Singapore",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Wed 14 Oct · 11:00 AM",
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Maldives vs Saudi Arabia",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "time": "Wed 14 Oct · 11:00 AM",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bhutan vs Thailand",
+      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "time": "Wed 14 Oct · 11:00 AM",
+      "venue": "Selangor Turf Club, Kuala Lumpur",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "India vs West Indies",
+      "competition": "West Indies tour of India 2026/27",
+      "time": "Wed 14 Oct · 6:30 PM",
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "Star Sports 1 (IN)",
+        "Star Sports Hindi (IN)",
+        "Sony Sports Ten 1 (IN)"
+      ],
+      "captains": "Suryakumar Yadav"
+    },
+    {
+      "teams": "Knights vs Easterns",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Wed 14 Oct · 9:00 PM",
+      "venue": "Mangaung Oval, Bloemfontein",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Western Province vs Boland",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Wed 14 Oct · 9:00 PM",
+      "venue": "Newlands, Cape Town",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Oman vs Canada",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Thu 15 Oct · 11:00 AM",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+      "image": "/media/match-poster-cpl.webp",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    }
   ],
-  "notes": "Today’s update adds captain-focused hero and live-match artwork, with no official team logos or exact likeness claims. The daily production workflow must refresh these visuals for verified current matches, preserve text-safe space, optimize image delivery, and retain fallback artwork if generation fails."
+  "posters": [
+    "/media/match-poster-cpl.webp",
+    "/media/og-cover.jpg"
+  ],
+  "notes": "Auto-published 2026-10-09: 8 live, 47 upcoming. Verified via ESPN feeds."
 }
