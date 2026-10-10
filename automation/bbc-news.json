@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-10T03:42:39.164112+00:00",
+  "updatedAt": "2026-10-10T10:20:26.703178+00:00",
   "items": [
+    {
+      "title": "Renshaw hits century for Australia to thwart South Africa - scorecard",
+      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "33 balls, 0 runs - Maddinson's record amid Australia top-order struggles",
       "description": "Opener Nic Maddinson makes the longest duck by a Test opener this century as Australia's top order struggles on his return against South Africa.",
@@ -12,8 +20,16 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Windies complete second-highest T20I chase to stun India - scorecard",
-      "description": "Latest scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
+      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
+      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Windies complete second-highest T20I chase to stun India",
+      "description": "Scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258#0",
@@ -44,11 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
-      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
+      "title": "Hampshire legend Adams leaves after 25 years",
+      "description": "Hampshire club legend Jimmy Adams leaves the county after more than 25 years as a player and coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 15:24:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,15 +72,7 @@
       "description": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 14:38:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hampshire legend Adams leaves after 25 years",
-      "description": "Hampshire club legend Jimmy Adams leaves the county after more than 25 years as a player and coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 15:24:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 23:31:00 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#1",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pf89v3?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pf89v3#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Durham bowler Ghafari extends contract",
-      "description": "Durham leg-spin bowler Shafiqullah Ghafari signs a one-year contract with the club.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 15:51:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo#2",
       "source": "BBC Sport"
     },
     {
