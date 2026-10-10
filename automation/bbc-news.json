@@ -1,10 +1,18 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-10T10:20:26.703178+00:00",
+  "updatedAt": "2026-10-10T16:43:30.313910+00:00",
   "items": [
     {
-      "title": "Renshaw hits century for Australia to thwart South Africa - scorecard",
+      "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
+      "description": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 16:18:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa 27-1 in reply to Australia after Renshaw's 190 - scorecard",
       "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 00:00:00 GMT",
@@ -44,19 +52,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Ex-Essex cricketer faces trial on two rape charges",
-      "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:07:34 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Farhan stars as Pakistan beat Sri Lanka in first T20 - scorecard",
       "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ex-Essex cricketer faces trial on two rape charges",
+      "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 14:07:34 GMT",
+      "guid": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o#1",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 13:50:13 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "ECB may fund women's Windies Test to aid Ashes preparation",
-      "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 17:00:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo#2",
       "source": "BBC Sport"
     },
     {
