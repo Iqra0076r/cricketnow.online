@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-10T20:58:38.974466+00:00",
+  "updatedAt": "2026-10-11T00:36:32.472564+00:00",
   "items": [
     {
       "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
@@ -52,19 +52,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Farhan stars as Pakistan beat Sri Lanka in first T20 - scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Ex-Essex cricketer faces trial on two rape charges",
       "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 14:07:34 GMT",
       "guid": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Farhan stars as Pakistan beat Sri Lanka in first T20 - scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +96,7 @@
       "description": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
       "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 18:57:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo#1",
+      "guid": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo#2",
       "source": "BBC Sport"
     },
     {
