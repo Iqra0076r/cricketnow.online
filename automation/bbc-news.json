@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-11T21:19:30.546869+00:00",
+  "updatedAt": "2026-10-12T00:53:03.308395+00:00",
   "items": [
     {
       "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 17:52:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South African Simons to join England Test set-up",
+      "description": "England are set to add the first name to Stephen Fleming’s backroom team, with Eric Simons joining as Test bowling coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjndw28zkyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 21:28:11 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjndw28zkyo#0",
       "source": "BBC Sport"
     },
     {
@@ -52,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
-      "description": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 16:18:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Windies complete second-highest T20I chase to stun India",
       "description": "Scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
+      "description": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 16:18:38 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "West Indies are still hopeful of hosting England in a women's Test next year, but the fixture would be a \"certainty\" if the ECB were to help fund it, says chief executive Chris Dehring.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 09:21:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:24:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Beaumont extends Blaze stay after England retirement",
-      "description": "Decorated former England batter Tammy Beaumont signs a new two-year deal to remain with the treble-winning Blaze.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:16:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo#2",
       "source": "BBC Sport"
     },
     {
