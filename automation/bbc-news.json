@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-12T00:53:03.308395+00:00",
+  "updatedAt": "2026-10-12T08:22:43.432476+00:00",
   "items": [
+    {
+      "title": "Australia lose two wickets but lead over South Africa grows - scorecard",
+      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New rule, no change - has cricket missed a trick again with bad light?",
+      "description": "More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 05:19:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
       "description": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 17:52:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
+      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
       "source": "BBC Sport"
     },
     {
@@ -28,14 +52,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia in strong position against South Africa - first Test scorecard",
-      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "India beat Windies to lead T20 series 2-1 - scorecard",
       "description": "Latest scorecard from the third Twenty20 international between India and West Indies in Indore.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237259?at_medium=RSS&at_campaign=rss",
@@ -48,15 +64,7 @@
       "description": "Latest scorecard from the second Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244076?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244076#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
-      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244076#1",
       "source": "BBC Sport"
     },
     {
@@ -92,19 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Farhan stars as Pakistan beat Sri Lanka in first T20 - scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "ECB help would make women's Test a 'certainty' - West Indies",
       "description": "West Indies are still hopeful of hosting England in a women's Test next year, but the fixture would be a \"certainty\" if the ECB were to help fund it, says chief executive Chris Dehring.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 09:21:27 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Farhan stars as Pakistan beat Sri Lanka in first T20 - scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 14:28:55 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped: What legacy does India's Harmanpreet Kaur leave?",
-      "description": "Smriti Mandhana replaces Harmanpreet Kaur as India's multi-format captain.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fw?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 13:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fw#2",
       "source": "BBC Sport"
     },
     {
