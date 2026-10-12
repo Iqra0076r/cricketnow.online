@@ -1,0 +1,16 @@
+# CricketNow
+
+> CricketNow is a live cricket hub with verified live scores, match schedules, TV channel listings and official match highlights for international cricket and T20 leagues.
+
+## Main sections
+
+- [Live TV](https://cricketnow.online/live-tv): Sports channels that broadcast live cricket, with a guide to what each channel shows.
+- [Channels](https://cricketnow.online/channels): The full channel guide — 23 sports channels covering Pakistan, India, the UK, Australia, South Africa, Bangladesh and North America.
+- [Highlights](https://cricketnow.online/highlights): Official match highlights from the latest international and league matches, newest major-team matches first, kept permanently.
+- [Schedule](https://cricketnow.online/schedule): Upcoming cricket fixtures with dates, venues and start times.
+- [News](https://cricketnow.online/news): Cricket news and match coverage.
+
+## Popular match pages
+
+- [Pakistan vs India](https://cricketnow.online/pakistan-vs-india/): Live streaming guide, schedule and preview for the biggest rivalry in cricket.
+- [Asia Cup Live](https://cricketnow.online/asia-cup-live/): Asia Cup live streaming, fixtures and highlights.

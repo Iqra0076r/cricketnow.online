@@ -1,125 +1,86 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <script>
-      (function () {
-        var legacy = ['/rankings', '/cricket/live', '/cricket/upcoming', '/cricket/completed', '/latest-cricket-news', '/latest-cricket-news/', '/countries', '/countries/', '/series-archive', '/series-archive/'];
-        if (legacy.indexOf(location.pathname) !== -1) location.replace('/news');
-      })();
-    </script>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#080a0d" />
-    <meta name="color-scheme" content="dark" />
-    <meta name="description" content="CricketNow — live cricket, TV channels, match schedules, fixtures, and cricket highlights." />
-    <meta name="robots" content="index,follow,max-image-preview:large" />
-    <meta name="googlebot" content="index,follow,max-image-preview:large" />
-    <meta name="keywords" content="cricket news, latest cricket news, BBC Sport cricket, live cricket, cricket live TV, cricket channels, cricket schedule, cricket fixtures, cricket highlights, CricketNow" />
-    <meta name="author" content="CricketNow" />
-    <!-- Route-aware metadata runs before the client bundle so crawlers and social previews receive page-specific signals. -->
-    <script>
-      (function () {
-        var pages = {
-          '/': { title: 'CricketNow: Live Cricket, TV Channels & Match Schedule', description: 'Find live cricket coverage, upcoming fixtures, TV channels, match schedules and cricket highlights in one place.', image: '/media/match-poster-cpl.webp' },
-          '/live-tv': { title: 'Watch Live Cricket TV Channels Online | CricketNow', description: 'Browse currently available cricket broadcasts and open a channel stream, subject to broadcaster rights and regional availability.', image: '/media/match-poster-ind-afg.webp' },
-          '/schedule': { title: 'Cricket Match Schedule: Fixtures and Start Times | CricketNow', description: 'Check today’s live cricket, upcoming fixtures, match times, venues and available coverage.', image: '/media/match-poster-eng-sl.webp' },
-          '/channels': { title: 'Cricket TV Channels by Country and Region | CricketNow', description: 'Find cricket broadcasters by channel and region, including India, Pakistan, the UK, Australia, South Africa and North America.', image: '/media/brand-mark.webp' },
-          '/highlights': { title: 'Latest Cricket Match Highlights and Best Moments | CricketNow', description: 'Watch official cricket highlights, memorable innings, wickets and match moments from major competitions.', image: '/media/match-poster-cpl.webp' },
-          '/news': { title: 'Latest Cricket News from BBC Sport | CricketNow', description: 'Read the latest cricket news and headlines from BBC Sport, refreshed every two hours.', image: '/media/hero-captains-today.png' },
-          '/cricket': { title: 'Cricket Guides: Scorecards, T20 Matchdays and Broadcasts | CricketNow', description: 'Learn how to follow a T20 match, read a cricket scorecard and find legitimate cricket broadcast information.', image: '/media/hero-captains-today.png' },
-          '/about': { title: 'About CricketNow: Cricket Coverage and Matchday Information', description: 'Learn how CricketNow organizes cricket schedules, channel listings, coverage links and highlights.', image: '/media/brand-mark.webp' },
-          '/contact': { title: 'Contact CricketNow', description: 'Contact CricketNow about inaccurate listings, rights-holder requests, corrections or general questions.', image: '/media/brand-mark.webp' }
-        };
-        var path = location.pathname.replace(/\/$/, '') || '/';
-        var page = pages[path] || pages['/'];
-        var url = location.origin + (path === '/' ? '/' : path);
-        document.title = page.title;
-        function set(selector, attribute, value) {
-          var node = document.querySelector(selector);
-          if (node) node.setAttribute(attribute, value);
-        }
-        set('meta[name="description"]', 'content', page.description);
-        set('meta[property="og:title"]', 'content', page.title);
-        set('meta[property="og:description"]', 'content', page.description);
-        set('meta[property="og:url"]', 'content', url);
-        set('meta[property="og:image"]', 'content', location.origin + page.image);
-        set('meta[name="twitter:title"]', 'content', page.title);
-        set('meta[name="twitter:description"]', 'content', page.description);
-        set('meta[name="twitter:image"]', 'content', location.origin + page.image);
-        var canonical = document.querySelector('link[rel="canonical"]');
-        if (canonical) canonical.setAttribute('href', url);
-        var schema = document.querySelector('script[type="application/ld+json"]');
-        if (schema) schema.textContent = JSON.stringify(path === '/' ? {
-          '@context': 'https://schema.org', '@type': 'WebSite', name: 'CricketNow', url: location.origin + '/', description: page.description,
-          potentialAction: { '@type': 'SearchAction', target: location.origin + '/channels?search={search_term_string}', 'query-input': 'required name=search_term_string' }
-        } : {
-          '@context': 'https://schema.org', '@type': 'WebPage', name: page.title, description: page.description, url: url, isPartOf: { '@type': 'WebSite', name: 'CricketNow', url: location.origin + '/' }
-        });
-      })();
-    </script>
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="apple-touch-icon" href="/favicon.svg" />
-    <meta property="og:site_name" content="CricketNow" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="CricketNow | Live Cricket, TV Channels & Match Schedule" />
-    <meta property="og:description" content="Watch live cricket, browse channels, follow fixtures, and catch the best CricketNow highlights." />
-    <meta property="og:url" content="https://cricketnow.online/" />
-    <meta property="og:image" content="https://cricketnow.online/media/match-poster-cpl.webp" />
-    <meta property="og:image:alt" content="CricketNow live cricket coverage" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="CricketNow | Live Cricket" />
-    <meta name="twitter:description" content="Live cricket channels, schedules, fixtures, and highlights from CricketNow." />
-    <meta name="twitter:image" content="https://cricketnow.online/media/match-poster-cpl.webp" />
-    <link rel="canonical" href="https://cricketnow.online/" />
-    <link rel="sitemap" type="application/xml" href="https://cricketnow.online/sitemap.xml" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="alternate icon" href="/favicon.ico" />
-    <title>CricketNow | Live Cricket, TV Channels & Match Schedule</title>
-    <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"WebSite","name":"CricketNow","url":"https://cricketnow.online/","description":"Live cricket channels, match schedules, fixtures, and highlights.","potentialAction":{"@type":"SearchAction","target":"https://cricketnow.online/channels?search={search_term_string}","query-input":"required name=search_term_string"}}
-    </script>
-    <script src="/automation/daily-refresh.js" defer></script>
-    <link rel="stylesheet" href="/automation/cricketnow-features.css">
-    <script src="/automation/cricketnow-features.js?v=20260921-news-seo" defer></script>
-    <script>
-      /* Bootstrap: fetch the daily homepage data first (fetch() ignores the
-         text/plain MIME that raw.githubusercontent.com serves), inline it so
-         window.__CN_HOMEPAGE exists, then load the app bundle. Falls back to
-         the bundle's baked-in data if the fetch fails or times out. */
-      (function () {
-        var DATA_URL = "https://raw.githubusercontent.com/Iqra0076r/cricketnow.online/main/automation/homepage-data.js";
-        var BUNDLE_SRC = "/assets/index-DfPeNud4.js";
-        var done = false;
-        function loadBundle() {
-          if (done) return; done = true;
-          var b = document.createElement("script");
-          b.type = "module"; b.crossOrigin = "anonymous"; b.src = BUNDLE_SRC;
-          document.head.appendChild(b);
-        }
-        setTimeout(loadBundle, 4000);
-        try {
-          fetch(DATA_URL + "?v=" + Date.now(), { cache: "no-store" })
-            .then(function (r) { if (!r.ok) throw new Error("data fetch failed"); return r.text(); })
-            .then(function (t) {
-              try {
-                var s = document.createElement("script");
-                s.textContent = t;
-                document.head.appendChild(s);
-              } catch (e) {}
-              loadBundle();
-            })
-            .catch(loadBundle);
-        } catch (e) { loadBundle(); }
-      })();
-    </script>
-    <link rel="stylesheet" crossorigin href="/assets/index-DObGTHPO.css">
-  </head>
-  <body>
-    <script src="/assets/react-runtime.js"></script>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDRH0R2GDW"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-QDRH0R2GDW');
+</script>
 
-    <div id="root"></div>
-  </body>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CricketNow — Watch Live Cricket, Scores & Schedule</title>
+<meta name="description" content="CricketNow — live cricket streams, ball-by-ball scores, fixtures and highlights across 23 sports channels.">
+<meta property="og:site_name" content="CricketNow">
+<meta property="og:type" content="website">
+<meta property="og:title" content="CricketNow — Watch Live Cricket, Scores & Schedule">
+<meta property="og:description" content="Live cricket streams, ball-by-ball scores, fixtures and highlights across 23 sports channels.">
+<meta property="og:url" content="https://cricketnow.online/">
+<meta property="og:image" content="https://cricketnow.online/media/match-graphics/afg-vs-ban-tapmad.jpg">
+<link rel="canonical" href="https://cricketnow.online/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"CricketNow","url":"https://cricketnow.online/","description":"Live cricket channels, match schedules, fixtures, and highlights.","potentialAction":{"@type":"SearchAction","target":"https://cricketnow.online/channels?search={search_term_string}","query-input":"required name=search_term_string"}}
+</script>
+<script>
+/* Bootstrap: fetch the daily homepage data first (fetch() ignores the
+   text/plain MIME that raw.githubusercontent.com serves), inject it as an
+   INLINE <script> so window.__CN_HOMEPAGE exists, then load the app bundle.
+   Falls back to the same-origin copy, then proceeds without data (the app
+   renders tasteful empty states, never invented content). */
+(function () {
+  var URLS = [
+    "https://raw.githubusercontent.com/Iqra0076r/cricketnow.online/main/automation/homepage-data.js",
+    "/automation/homepage-data.js"
+  ];
+  var done = false;
+  function loadApp() {
+    if (done) return; done = true;
+    var b = document.createElement("script");
+    b.type = "module"; b.src = "/app.js";
+    document.head.appendChild(b);
+  }
+  setTimeout(loadApp, 4000);
+  function tryNext(i) {
+    if (i >= URLS.length) { loadApp(); return; }
+    var ctl = null, to = null;
+    try { ctl = new AbortController(); } catch (e) {}
+    to = setTimeout(function () { try { ctl.abort(); } catch (e) {} }, 4000);
+    fetch(URLS[i] + "?v=" + Date.now(), { cache: "no-store", signal: ctl ? ctl.signal : undefined })
+      .then(function (r) { if (!r.ok) throw new Error("data fetch failed"); return r.text(); })
+      .then(function (t) {
+        clearTimeout(to);
+        try {
+          var s = document.createElement("script");
+          s.textContent = t;
+          document.head.appendChild(s);
+        } catch (e) {}
+        loadApp();
+      })
+      .catch(function () { clearTimeout(to); tryNext(i + 1); });
+  }
+  try { tryNext(0); } catch (e) { loadApp(); }
+})();
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2387877582529863"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="app"><div class="boot"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 16 16"><path d="M5 3l8 5-8 5z"/></svg></span><p>Loading CricketNow…</p>
+<h1>CricketNow — Live Cricket Streaming, Live Scores &amp; Match Highlights</h1>
+<p>CricketNow is your home for live cricket. Follow international matches and T20 leagues with ball-by-ball live scores, complete match schedules, TV channel listings and official match highlights — all in one place. From the ICC Cricket World Cup, T20 World Cup and the Ashes to the IPL, PSL, BBL and bilateral series between Pakistan, India, Australia, England, South Africa, New Zealand, Sri Lanka, Bangladesh, West Indies and Afghanistan, we track every fixture that matters.</p>
+<p>Check the <a href="/schedule/">cricket schedule</a> for upcoming matches with venues and start times, browse the <a href="/live-tv/">live TV channels</a> and <a href="/channels/">channel guide</a> to see where each series is broadcast, and watch official <a href="/highlights/">match highlights</a> from the latest games — the newest matches from the major teams always appear first, and our highlights archive keeps every match available permanently. Catch up with <a href="/news/">cricket news</a> between games.</p>
+<p>Every score and fixture on CricketNow is verified against official feeds before it appears, and highlights come only from official cricket channels. Whether you follow your team on mobile, tablet or desktop, CricketNow keeps live cricket one tap away.</p>
+<p>CricketNow is built for fans who follow the game across borders and time zones. Coverage spans every ICC global event — the Cricket World Cup, T20 World Cup, Champions Trophy and World Test Championship — plus the Ashes, Border-Gavaskar Trophy and the biggest bilateral series, and the leading franchise leagues: the Pakistan Super League, Indian Premier League, Big Bash League, The Hundred, SA20, Caribbean Premier League, ILT20 and Bangladesh Premier League. Scores, fixtures, broadcast channels and highlights are checked against official sources and refreshed daily, so what you read here is accurate, current and free of guesswork, on mobile, tablet and desktop alike.</p><p>Explore CricketNow: <a href="/">Home</a> · <a href="/schedule/">Schedule</a> · <a href="/channels/">Channels</a> · <a href="/live-tv/">Live TV</a> · <a href="/highlights/">Highlights</a> · <a href="/news/">News</a> · <a href="/asia-cup-live/">Asia Cup</a> · <a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></p></div></div>
+<noscript><div class="noscript">CricketNow needs JavaScript to show live scores and streams.</div></noscript>
+</body>
 </html>

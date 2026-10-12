@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QDRH0R2GDW"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-QDRH0R2GDW');
+</script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use — CricketNow</title>
+<meta name="description" content="CricketNow terms of use: how scores, schedules, channel listings and embedded official highlights may be used, and the limits of the service.">
+<meta property="og:site_name" content="CricketNow">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Terms of Use — CricketNow">
+<meta property="og:description" content="CricketNow terms of use: how scores, schedules, channel listings and embedded official highlights may be used, and the limits of the service.">
+<meta property="og:url" content="https://cricketnow.online/terms/">
+<meta property="og:image" content="https://cricketnow.online/media/match-graphics/afg-vs-ban-tapmad.jpg">
+<link rel="canonical" href="https://cricketnow.online/terms/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"CricketNow","url":"https://cricketnow.online/","description":"Live cricket channels, match schedules, fixtures, and highlights.","potentialAction":{"@type":"SearchAction","target":"https://cricketnow.online/channels?search={search_term_string}","query-input":"required name=search_term_string"}}
+</script>
+<script>
+/* Bootstrap: fetch the daily homepage data first (fetch() ignores the
+   text/plain MIME that raw.githubusercontent.com serves), inject it as an
+   INLINE <script> so window.__CN_HOMEPAGE exists, then load the app bundle.
+   Falls back to the same-origin copy, then proceeds without data (the app
+   renders tasteful empty states, never invented content). */
+(function () {
+  var URLS = [
+    "https://raw.githubusercontent.com/Iqra0076r/cricketnow.online/main/automation/homepage-data.js",
+    "/automation/homepage-data.js"
+  ];
+  var done = false;
+  function loadApp() {
+    if (done) return; done = true;
+    var b = document.createElement("script");
+    b.type = "module"; b.src = "/app.js";
+    document.head.appendChild(b);
+  }
+  setTimeout(loadApp, 4000);
+  function tryNext(i) {
+    if (i >= URLS.length) { loadApp(); return; }
+    var ctl = null, to = null;
+    try { ctl = new AbortController(); } catch (e) {}
+    to = setTimeout(function () { try { ctl.abort(); } catch (e) {} }, 4000);
+    fetch(URLS[i] + "?v=" + Date.now(), { cache: "no-store", signal: ctl ? ctl.signal : undefined })
+      .then(function (r) { if (!r.ok) throw new Error("data fetch failed"); return r.text(); })
+      .then(function (t) {
+        clearTimeout(to);
+        try {
+          var s = document.createElement("script");
+          s.textContent = t;
+          document.head.appendChild(s);
+        } catch (e) {}
+        loadApp();
+      })
+      .catch(function () { clearTimeout(to); tryNext(i + 1); });
+  }
+  try { tryNext(0); } catch (e) { loadApp(); }
+})();
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2387877582529863"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="app"><div class="boot"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 16 16"><path d="M5 3l8 5-8 5z"/></svg></span><p>Loading CricketNow…</p><h1>Terms of Use</h1><p>These terms summarise the basis on which CricketNow provides its service. CricketNow publishes cricket scores, fixtures, broadcast channel listings and embedded official highlights for personal, non-commercial use. Listings are refreshed daily from verified sources, but broadcast schedules and rights can change at short notice and no guarantee is given that any particular match will be available from any particular channel.</p><p>All match highlights on CricketNow are embedded from the official YouTube channels of cricket boards, leagues and broadcasters; the videos remain the property of their respective owners and are played through YouTube's own player. CricketNow does not host, re-upload or claim ownership of that content, and team names, tournament names and logos belong to their respective owners.</p><p>The full terms are presented in this page when it loads in your browser. Questions can be sent through the <a href="/contact/">contact page</a>, and you can return to the <a href="/">homepage</a> at any time.</p><p>CricketNow is built for fans who follow the game across borders and time zones. Coverage spans every ICC global event — the Cricket World Cup, T20 World Cup, Champions Trophy and World Test Championship — plus the Ashes, Border-Gavaskar Trophy and the biggest bilateral series, and the leading franchise leagues: the Pakistan Super League, Indian Premier League, Big Bash League, The Hundred, SA20, Caribbean Premier League, ILT20 and Bangladesh Premier League. Scores, fixtures, broadcast channels and highlights are checked against official sources and refreshed daily, so what you read here is accurate, current and free of guesswork, on mobile, tablet and desktop alike.</p><p>Explore CricketNow: <a href="/">Home</a> · <a href="/schedule/">Schedule</a> · <a href="/channels/">Channels</a> · <a href="/live-tv/">Live TV</a> · <a href="/highlights/">Highlights</a> · <a href="/news/">News</a> · <a href="/asia-cup-live/">Asia Cup</a> · <a href="/about/">About</a> · <a href="/contact/">Contact</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a></p></div></div>
+<noscript><div class="noscript">CricketNow needs JavaScript to show live scores and streams.</div></noscript>
+<p>By continuing to use CricketNow you accept these terms. If any part of them is unclear, the contact page is the fastest route to an answer, and the version of the terms shown on this page is the one in force.</p></body>
+</html>
