@@ -1,14 +1,46 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-12T08:22:43.432476+00:00",
+  "updatedAt": "2026-10-12T19:32:30.413221+00:00",
   "items": [
     {
-      "title": "Australia lose two wickets but lead over South Africa grows - scorecard",
+      "title": "Renshaw delivers again as Australia close on win",
+      "description": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 16:02:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pope pulls out of controversial Afghanistan T20 league",
+      "description": "England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 15:13:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Key suggests Carse can return as England reveal contract list",
+      "description": "Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 16:14:52 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa hopes dented by late Australia wickets - scorecard",
       "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Rob Key joins TMS to discuss all things England as central contracts are announced.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pg913z?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 12:08:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pg913z#0",
       "source": "BBC Sport"
     },
     {
@@ -20,11 +52,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
-      "description": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 17:52:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro#0",
+      "title": "Glamorgan hunt coach again as Dawson joins England",
+      "description": "Glamorgan are searching for fourth coach in five years after Richard Dawson has left the County to take up a role with the England side.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 12:07:51 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo#0",
       "source": "BBC Sport"
     },
     {
@@ -32,15 +64,7 @@
       "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "South African Simons to join England Test set-up",
-      "description": "England are set to add the first name to Stephen Fleming’s backroom team, with Eric Simons joining as Test bowling coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjndw28zkyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 21:28:11 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjndw28zkyo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#1",
       "source": "BBC Sport"
     },
     {
@@ -48,23 +72,31 @@
       "description": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 10:24:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o#1",
       "source": "BBC Sport"
     },
     {
-      "title": "India beat Windies to lead T20 series 2-1 - scorecard",
-      "description": "Latest scorecard from the third Twenty20 international between India and West Indies in Indore.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237259?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237259#0",
+      "title": "Lancashire to release Singh and Fonseka",
+      "description": "Harry Singh and Kesh Fonseka, 22 and 20 respectively, will leave Lancashire when their contracts expire at the end of this month.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6e3x4q0nqvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 10:38:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6e3x4q0nqvdo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan thrash Sri Lanka to clinch T20 series - scorecard",
-      "description": "Latest scorecard from the second Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244076?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244076#1",
+      "title": "South African Simons to join England Test set-up",
+      "description": "England are set to add the first name to Stephen Fleming’s backroom team, with Eric Simons joining as Test bowling coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjndw28zkyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 21:28:11 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjndw28zkyo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
+      "description": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 17:52:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +104,7 @@
       "description": "Scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +112,7 @@
       "description": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 16:18:38 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +120,7 @@
       "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 14:07:34 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o#1",
+      "guid": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +128,7 @@
       "description": "Hampshire club legend Jimmy Adams leaves the county after more than 25 years as a player and coach.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 15:24:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o#2",
       "source": "BBC Sport"
     },
     {
@@ -105,38 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 09:21:27 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Farhan stars as Pakistan beat Sri Lanka in first T20 - scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244075#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
-      "description": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
-      "link": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 18:57:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Cummins not worried about potential Khawaja revelations",
-      "description": "Pat Cummins confirms he has spoken to Usman Khawaja about his former team-mate’s upcoming autobiography but the Australia captain says he has no concerns about potential sandpapergate revelations.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 14:38:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr4g1z3913z1o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "She made India fall in love with women's cricket - now her era as captain is over",
-      "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:31:00 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo#2",
       "source": "BBC Sport"
     },
     {
