@@ -1,8 +1,6 @@
-# Cloudflare assets ignore — repo machinery that must never be deployed
 .github/
 .gitignore
 .assetsignore
-
-# Pipeline scripts and docs (data JSON files stay deployable)
+wrangler.jsonc
 automation/*.py
 *.md
