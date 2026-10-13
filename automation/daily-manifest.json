@@ -1,15 +1,25 @@
 {
   "version": 2,
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "timezone": "Asia/Karachi",
-  "updatedAt": "2026-10-12T05:58:54.712834+05:00",
-  "liveMatch": null,
+  "updatedAt": "2026-10-13T05:59:45.634342+05:00",
+  "liveMatch": {
+    "teams": "New South Wales vs Tasmania",
+    "competition": "Australian Domestic One-Day Competition",
+    "time": "LIVE NOW",
+    "venue": "Cricket Central, Sydney",
+    "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+    "tv_channels": [
+      "TBD — check official broadcaster"
+    ],
+    "captains": null
+  },
   "upcomingMatch": {
-    "teams": "China vs Saudi Arabia",
-    "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-    "time": "Today · 6:15 AM",
-    "venue": "Selangor Turf Club, Kuala Lumpur",
-    "image": "/media/match-graphics/chn-vs-sau-tapmad.jpg",
+    "teams": "Oman vs Nepal",
+    "competition": "ICC Men's Cricket World Cup League 2",
+    "time": "Today · 11:00 AM",
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+    "image": "/media/match-graphics/oma-vs-nep-tapmad.jpg",
     "tv_channels": [
       "TBD — check official broadcaster"
     ],
@@ -17,97 +27,9 @@
   },
   "matches": [
     {
-      "teams": "China vs Saudi Arabia",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-      "time": "Today · 6:15 AM",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "image": "/media/match-graphics/chn-vs-sau-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Hong Kong vs Maldives",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-      "time": "Today · 6:15 AM",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "image": "/media/match-graphics/hk-vs-mdv-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Malaysia vs Singapore",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-      "time": "Today · 6:15 AM",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "image": "/media/match-graphics/mas-vs-sin-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Victoria vs South Australia",
-      "competition": "Australian Domestic One-Day Competition",
-      "time": "Today · 9:00 AM",
-      "venue": "Junction Oval, Melbourne",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Pakistan Women Under-19s vs Sri Lanka Women Under-19s",
-      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
-      "time": "Today · 10:00 AM",
-      "venue": "Iqbal Stadium, Faisalabad",
-      "image": "/media/match-graphics/pakwu19-vs-slwu19-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Bhutan vs Kuwait",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
-      "time": "Today · 11:00 AM",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "image": "/media/match-graphics/bhu-vs-kuw-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Myanmar vs Thailand",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
-      "time": "Today · 11:00 AM",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "image": "/media/match-graphics/mya-vs-tha-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Qatar vs Mongolia",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
-      "time": "Today · 11:00 AM",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "image": "/media/match-graphics/qat-vs-mgl-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
       "teams": "New South Wales vs Tasmania",
       "competition": "Australian Domestic One-Day Competition",
-      "time": "Tomorrow · 4:00 AM",
+      "time": "LIVE NOW",
       "venue": "Cricket Central, Sydney",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
@@ -118,7 +40,7 @@
     {
       "teams": "Oman vs Nepal",
       "competition": "ICC Men's Cricket World Cup League 2",
-      "time": "Tomorrow · 11:00 AM",
+      "time": "Today · 11:00 AM",
       "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
       "image": "/media/match-graphics/oma-vs-nep-tapmad.jpg",
       "tv_channels": [
@@ -129,7 +51,7 @@
     {
       "teams": "Western Australia vs Queensland",
       "competition": "Australian Domestic One-Day Competition",
-      "time": "Tomorrow · 11:00 AM",
+      "time": "Today · 11:00 AM",
       "venue": "W.A.C.A. Ground, Perth",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
@@ -140,7 +62,7 @@
     {
       "teams": "KwaZulu-Natal Inland vs Titans",
       "competition": "South Africa Domestic T20/Pro20",
-      "time": "Tomorrow · 4:00 PM",
+      "time": "Today · 4:00 PM",
       "venue": "City Oval, Pietermaritzburg",
       "image": "/media/match-graphics/kzni-vs-tit-tapmad.jpg",
       "tv_channels": [
@@ -151,7 +73,7 @@
     {
       "teams": "Northern Cape vs Limpopo",
       "competition": "South Africa Domestic T20/Pro20",
-      "time": "Tomorrow · 4:00 PM",
+      "time": "Today · 4:00 PM",
       "venue": "Diamond Oval, Kimberley",
       "image": "/media/match-graphics/nc-vs-lim-tapmad.jpg",
       "tv_channels": [
@@ -160,9 +82,23 @@
       "captains": null
     },
     {
+      "teams": "Pakistan vs Sri Lanka",
+      "competition": "Sri Lanka tour of Pakistan 2026/27",
+      "time": "Today · 6:00 PM",
+      "venue": "Rawalpindi Cricket Stadium",
+      "image": "/media/match-graphics/pak-vs-sl-tapmad.jpg",
+      "tv_channels": [
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
+      ],
+      "captains": "Salman Ali Agha · Charith Asalanka"
+    },
+    {
       "teams": "United States of America vs Namibia",
       "competition": "ICC Men's Cricket World Cup League 2",
-      "time": "Tomorrow · 8:00 PM",
+      "time": "Today · 8:00 PM",
       "venue": "Grand Prairie Stadium, Dallas",
       "image": "/media/match-graphics/usa-vs-nam-tapmad.jpg",
       "tv_channels": [
@@ -173,7 +109,7 @@
     {
       "teams": "Lions vs Border",
       "competition": "South Africa Domestic T20/Pro20",
-      "time": "Tomorrow · 9:00 PM",
+      "time": "Today · 9:00 PM",
       "venue": "The Wanderers Stadium, Johannesburg",
       "image": "/media/match-graphics/lio-vs-bor-tapmad.jpg",
       "tv_channels": [
@@ -184,7 +120,7 @@
     {
       "teams": "North West vs Dolphins",
       "competition": "South Africa Domestic T20/Pro20",
-      "time": "Tomorrow · 9:00 PM",
+      "time": "Today · 9:00 PM",
       "venue": "Senwes Park, Potchefstroom",
       "image": "/media/match-graphics/nw-vs-dol-tapmad.jpg",
       "tv_channels": [
@@ -193,99 +129,9 @@
       "captains": null
     },
     {
-      "teams": "Malaysia vs China",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-      "time": "Wed 14 Oct · 6:15 AM",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "image": "/media/match-graphics/mas-vs-chn-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Bahrain vs Qatar",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
-      "time": "Wed 14 Oct · 6:15 AM",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "image": "/media/match-graphics/bah-vs-qat-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Mongolia vs Myanmar",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
-      "time": "Wed 14 Oct · 6:15 AM",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "image": "/media/match-graphics/mgl-vs-mya-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Bangladesh Women Under-19s vs Sri Lanka Women Under-19s",
-      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
-      "time": "Wed 14 Oct · 10:00 AM",
-      "venue": "Iqbal Stadium, Faisalabad",
-      "image": "/media/match-graphics/banwu19-vs-slwu19-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Hong Kong vs Singapore",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-      "time": "Wed 14 Oct · 11:00 AM",
-      "venue": "Bayuemas Oval, Kuala Lumpur",
-      "image": "/media/match-graphics/hk-vs-sin-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Maldives vs Saudi Arabia",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
-      "time": "Wed 14 Oct · 11:00 AM",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "image": "/media/match-graphics/mdv-vs-sau-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Bhutan vs Thailand",
-      "competition": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
-      "time": "Wed 14 Oct · 11:00 AM",
-      "venue": "Selangor Turf Club, Kuala Lumpur",
-      "image": "/media/match-graphics/bhu-vs-tha-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "India vs West Indies",
-      "competition": "West Indies tour of India 2026/27",
-      "time": "Wed 14 Oct · 6:30 PM",
-      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-      "image": "/media/match-graphics/ind-vs-wi-tapmad.jpg",
-      "tv_channels": [
-        "Star Sports 1 (IN)",
-        "Star Sports Hindi (IN)",
-        "Sony Sports Ten 1 (IN)"
-      ],
-      "captains": "Suryakumar Yadav"
-    },
-    {
       "teams": "Knights vs Easterns",
       "competition": "South Africa Domestic T20/Pro20",
-      "time": "Wed 14 Oct · 9:00 PM",
+      "time": "Tomorrow · 9:00 PM",
       "venue": "Mangaung Oval, Bloemfontein",
       "image": "/media/match-graphics/kni-vs-eas-tapmad.jpg",
       "tv_channels": [
@@ -296,7 +142,7 @@
     {
       "teams": "Western Province vs Boland",
       "competition": "South Africa Domestic T20/Pro20",
-      "time": "Wed 14 Oct · 9:00 PM",
+      "time": "Tomorrow · 9:00 PM",
       "venue": "Newlands, Cape Town",
       "image": "/media/match-graphics/wpr-vs-bol-tapmad.jpg",
       "tv_channels": [
@@ -369,19 +215,6 @@
         "T Sports (BD)"
       ],
       "captains": "Litton Das"
-    },
-    {
-      "teams": "India vs West Indies",
-      "competition": "West Indies tour of India 2026/27",
-      "time": "Sat 17 Oct · 6:30 PM",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "image": "/media/match-graphics/ind-vs-wi-tapmad.jpg",
-      "tv_channels": [
-        "Star Sports 1 (IN)",
-        "Star Sports Hindi (IN)",
-        "Sony Sports Ten 1 (IN)"
-      ],
-      "captains": "Suryakumar Yadav"
     },
     {
       "teams": "Boland vs Mpumalanga",
@@ -648,28 +481,6 @@
       "captains": null
     },
     {
-      "teams": "KwaZulu-Natal Inland Women vs Mpumalanga Women",
-      "competition": "CSA Women's Division Two T20",
-      "time": "Sun 18 Oct · 12:00 PM",
-      "venue": "City Oval, Pietermaritzburg",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Dolphins Women vs Eastern Province Women",
-      "competition": "CSA Women Pro20 Series 2026/27",
-      "time": "Sun 18 Oct · 12:30 PM",
-      "venue": "Kingsmead, Durban",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
       "teams": "South Africa vs Australia",
       "competition": "Australia tour of South Africa 2026/27",
       "time": "Sun 18 Oct · 1:00 PM",
@@ -681,26 +492,18 @@
       "captains": "Aiden Markram · Mitchell Marsh"
     },
     {
-      "teams": "Lions Women vs Western Province Women",
-      "competition": "CSA Women Pro20 Series 2026/27",
+      "teams": "Pakistan vs Sri Lanka",
+      "competition": "Sri Lanka tour of Pakistan 2026/27",
       "time": "Sun 18 Oct · 1:00 PM",
-      "venue": "The Wanderers Stadium, Johannesburg",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "venue": "Rawalpindi Cricket Stadium",
+      "image": "/media/match-graphics/pak-vs-sl-tapmad.jpg",
       "tv_channels": [
-        "TBD — check official broadcaster"
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
       ],
-      "captains": null
-    },
-    {
-      "teams": "Border Women vs Boland Women",
-      "competition": "CSA Women's Division Two T20",
-      "time": "Sun 18 Oct · 1:00 PM",
-      "venue": "Buffalo Park, KuGumpo City",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
+      "captains": "Salman Ali Agha · Charith Asalanka"
     },
     {
       "teams": "Lions vs Northern Cape",
@@ -723,13 +526,24 @@
         "TBD — check official broadcaster"
       ],
       "captains": null
+    },
+    {
+      "teams": "Oman vs Nepal",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Mon 19 Oct · 11:00 AM",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
+      "image": "/media/match-graphics/oma-vs-nep-tapmad.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
     }
   ],
   "posters": [
     "/media/match-poster-cpl.webp",
     "/media/og-cover.jpg"
   ],
-  "notes": "Auto-published 2026-10-12: 0 live, 64 upcoming. Verified via ESPN feeds. 41 highlights.",
+  "notes": "Auto-published 2026-10-13: 1 live, 45 upcoming. Verified via ESPN feeds. 44 highlights.",
   "highlights": [
     {
       "id": "zzU_efoOHqs",
@@ -882,6 +696,21 @@
       "score": null
     },
     {
+      "id": "cw2L-11Gh6w",
+      "title": "Full Match Highlights | Pakistan vs Sri Lanka | Match 8 | Women U19 Tri-Nation Series 2026 | MZP1J",
+      "duration": 1290,
+      "date": "NA",
+      "views": 23000,
+      "channel": "PakistanCricket",
+      "teams": "Pakistan vs Sri Lanka",
+      "videoId": "cw2L-11Gh6w",
+      "embed": "https://www.youtube-nocookie.com/embed/cw2L-11Gh6w",
+      "watch": "https://www.youtube.com/watch?v=cw2L-11Gh6w",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
       "id": "sCh0XSg1zC8",
       "title": "1st Session Highlights | Pakistan U17 vs Sri Lanka U17 | Only Three-Day Match | Day 2 | MZR1J",
       "duration": 503,
@@ -901,7 +730,7 @@
       "title": "Full Highlights | Pakistan vs Bangladesh | M 7 | Women U19 Tri-Nation Series 2026 | MZP1J",
       "duration": 1284,
       "date": "NA",
-      "views": 6000,
+      "views": 18000,
       "channel": "PakistanCricket",
       "teams": "Pakistan vs Bangladesh",
       "videoId": "tNj-NwpU1Yc",
@@ -916,7 +745,7 @@
       "title": "Day 3 Full Highlights | Pakistan Under 17 vs Sri Lanka Under 17 | Three-Day Match | MZR1J",
       "duration": 1575,
       "date": "NA",
-      "views": 5000,
+      "views": 15000,
       "channel": "PakistanCricket",
       "teams": "Pakistan Under 17 vs Sri Lanka Under 17",
       "videoId": "fCrUW3Qilr0",
@@ -927,16 +756,31 @@
       "score": null
     },
     {
-      "id": "HjLUmVSsszU",
-      "title": "1st Innings Highlights | Pakistan vs Bangladesh | M 7 | Women U19 Tri-Nation Series 2026 | MZP1J",
-      "duration": 594,
+      "id": "C_5I6g6m0ak",
+      "title": "2nd Innings Highlights | Pakistan vs Sri Lanka | Match 8 | Women U19 Tri-Nation Series 2026 | MZP1J",
+      "duration": 634,
       "date": "NA",
-      "views": 1800,
+      "views": 5300,
       "channel": "PakistanCricket",
-      "teams": "Pakistan vs Bangladesh",
-      "videoId": "HjLUmVSsszU",
-      "embed": "https://www.youtube-nocookie.com/embed/HjLUmVSsszU",
-      "watch": "https://www.youtube.com/watch?v=HjLUmVSsszU",
+      "teams": "Pakistan vs Sri Lanka",
+      "videoId": "C_5I6g6m0ak",
+      "embed": "https://www.youtube-nocookie.com/embed/C_5I6g6m0ak",
+      "watch": "https://www.youtube.com/watch?v=C_5I6g6m0ak",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "EsJHGevtaqY",
+      "title": "1st Innings Highlights | Pakistan vs Sri Lanka | Match 8 | Women U19 Tri-Nation Series 2026 | MZP1J",
+      "duration": 674,
+      "date": "NA",
+      "views": 5200,
+      "channel": "PakistanCricket",
+      "teams": "Pakistan vs Sri Lanka",
+      "videoId": "EsJHGevtaqY",
+      "embed": "https://www.youtube-nocookie.com/embed/EsJHGevtaqY",
+      "watch": "https://www.youtube.com/watch?v=EsJHGevtaqY",
       "competition": "PakistanCricket",
       "venue": "",
       "score": null
@@ -946,7 +790,7 @@
       "title": "1st Session Highlights | Pakistan U17 vs Sri Lanka U17 | Only Three-Day Match | Day 3 | MZR1J",
       "duration": 769,
       "date": "NA",
-      "views": 1200,
+      "views": 3300,
       "channel": "PakistanCricket",
       "teams": "Pakistan U17 vs Sri Lanka U17",
       "videoId": "3UheBXZZBMo",
@@ -957,11 +801,26 @@
       "score": null
     },
     {
+      "id": "HjLUmVSsszU",
+      "title": "1st Innings Highlights | Pakistan vs Bangladesh | M 7 | Women U19 Tri-Nation Series 2026 | MZP1J",
+      "duration": 594,
+      "date": "NA",
+      "views": 2200,
+      "channel": "PakistanCricket",
+      "teams": "Pakistan vs Bangladesh",
+      "videoId": "HjLUmVSsszU",
+      "embed": "https://www.youtube-nocookie.com/embed/HjLUmVSsszU",
+      "watch": "https://www.youtube.com/watch?v=HjLUmVSsszU",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
       "id": "-bkbEF1dFos",
       "title": "2nd Innings Highlights | Pakistan vs Bangladesh | M 7 | Women U19 Tri-Nation Series 2026 | MZP1J",
       "duration": 703,
       "date": "NA",
-      "views": 1000,
+      "views": 1600,
       "channel": "PakistanCricket",
       "teams": "Pakistan vs Bangladesh",
       "videoId": "-bkbEF1dFos",
@@ -976,7 +835,7 @@
       "title": "3rd Session Highlights | Pakistan Under 17 vs Sri Lanka Under 17 | Three-Day Match | Day 3 | MZR1J",
       "duration": 485,
       "date": "NA",
-      "views": 937,
+      "views": 1200,
       "channel": "PakistanCricket",
       "teams": "Pakistan Under 17 vs Sri Lanka Under 17",
       "videoId": "FA5OLXJ3LHg",
@@ -991,7 +850,7 @@
       "title": "2nd Session Highlights | Pakistan U17 vs Sri Lanka U17 | Only Three-Day Match | Day 3 | MZR1J",
       "duration": 402,
       "date": "NA",
-      "views": 745,
+      "views": 1100,
       "channel": "PakistanCricket",
       "teams": "Pakistan U17 vs Sri Lanka U17",
       "videoId": "wTWbZHKSChM",
@@ -1303,7 +1162,7 @@
       "title": "Shamyl Hussain in Full Flow | Batting Highlights in National Champions Cup 2026, Multan",
       "duration": 137,
       "date": "NA",
-      "views": 2200,
+      "views": 2300,
       "channel": "PakistanCricket",
       "teams": "",
       "videoId": "lLULE0LUpUU",
@@ -1314,31 +1173,31 @@
       "score": null
     },
     {
-      "id": "j0M8vp-Vrb0",
-      "title": "Full Highlights | SF Day 2 | Vital Tea vs. Eshaal Associates | President's Trophy Grade-II | MZN1H",
-      "duration": 809,
-      "date": "NA",
-      "views": 870,
-      "channel": "PakistanCricket",
-      "teams": "Vital Tea vs Eshaal Associates",
-      "videoId": "j0M8vp-Vrb0",
-      "embed": "https://www.youtube-nocookie.com/embed/j0M8vp-Vrb0",
-      "watch": "https://www.youtube.com/watch?v=j0M8vp-Vrb0",
-      "competition": "PakistanCricket",
-      "venue": "",
-      "score": null
-    },
-    {
       "id": "EMA5z4xWljM",
       "title": "Full Highlights | SF Day 2 | Income Tax vs. Kingsmen Sports | President's Trophy Grade-II | MZN1H",
       "duration": 973,
       "date": "NA",
-      "views": 863,
+      "views": 2100,
       "channel": "PakistanCricket",
       "teams": "Income Tax vs Kingsmen Sports",
       "videoId": "EMA5z4xWljM",
       "embed": "https://www.youtube-nocookie.com/embed/EMA5z4xWljM",
       "watch": "https://www.youtube.com/watch?v=EMA5z4xWljM",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "j0M8vp-Vrb0",
+      "title": "Full Highlights | SF Day 2 | Vital Tea vs. Eshaal Associates | President's Trophy Grade-II | MZN1H",
+      "duration": 809,
+      "date": "NA",
+      "views": 1100,
+      "channel": "PakistanCricket",
+      "teams": "Vital Tea vs Eshaal Associates",
+      "videoId": "j0M8vp-Vrb0",
+      "embed": "https://www.youtube-nocookie.com/embed/j0M8vp-Vrb0",
+      "watch": "https://www.youtube.com/watch?v=j0M8vp-Vrb0",
       "competition": "PakistanCricket",
       "venue": "",
       "score": null

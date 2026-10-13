@@ -1,5 +1,12 @@
 {
-  "updatedAt": null,
-  "matches": [],
-  "notes": "No verified live scores right now — empty is intentional, never invented."
+  "updatedAt": "2026-10-13T05:59:45.634342+05:00",
+  "matches": [
+    {
+      "teams": "New South Wales vs Tasmania",
+      "status": "LIVE",
+      "score": "NSW · TAS 25/0 (4/50 ov) (Live)",
+      "venue": "Cricket Central, Sydney"
+    }
+  ],
+  "notes": "Auto-refreshed from verified ESPN data."
 }
