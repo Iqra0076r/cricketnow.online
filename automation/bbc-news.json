@@ -1,14 +1,14 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-13T01:44:47.435354+00:00",
+  "updatedAt": "2026-10-13T08:47:50.497472+00:00",
   "items": [
     {
-      "title": "Renshaw delivers again as Australia close on win",
-      "description": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 16:02:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo#0",
+      "title": "South Africa attempt to deny Australia on final day - Test scorecard",
+      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
       "source": "BBC Sport"
     },
     {
@@ -20,19 +20,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
+      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Renshaw delivers again as Australia close on win",
+      "description": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 12 Oct 2026 16:02:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Key suggests Carse can return as England reveal contract list",
       "description": "Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 16:14:52 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "South Africa hopes dented by late Australia wickets - scorecard",
-      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997#0",
       "source": "BBC Sport"
     },
     {
@@ -56,15 +64,7 @@
       "description": "Glamorgan are searching for fourth coach in five years after Richard Dawson has left the County to take up a role with the England side.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 12:07:51 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan v Bangladesh - one-off Test scorecard",
-      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo#1",
       "source": "BBC Sport"
     },
     {
