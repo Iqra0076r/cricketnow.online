@@ -1,3 +1,6 @@
+# CricketNow robots.txt
+# /watch is disallowed intentionally (live streams are disabled pending AdSense review).
+# /media/, JS and CSS are crawlable; sitemap points at the canonical apex host.
 User-agent: *
 Allow: /
 Disallow: /control-room
