@@ -123,7 +123,7 @@ var SVG = {
 
 /* ---------------- shared chrome ---------------- */
 var NAV_LINKS = [
-  ['/', 'Home'], ['/live-tv', 'Live TV'], ['/schedule', 'Schedule'],
+  ['/', 'Home'], ['/live-scores', 'Live Scores'], ['/live-tv', 'Live TV'], ['/schedule', 'Schedule'],
   ['/channels', 'Channels'], ['/highlights', 'Highlights'], ['/news', 'News']
 ];
 function navHTML(active) {
@@ -160,7 +160,7 @@ function footerHTML() {
       '<span class="brand-name">Cricket<em>Now</em></span></a>' +
       '<p>Your home for live cricket — international series, franchise leagues and 24/7 sports channels, with scores and highlights updated around the clock.</p></div>' +
     '<div class="foot-col"><h4>Explore</h4>' +
-      '<a href="/live-tv/" data-link>Live TV</a><a href="/schedule/" data-link>Schedule</a>' +
+      '<a href="/live-scores/" data-link>Live Scores</a><a href="/live-tv/" data-link>Live TV</a><a href="/schedule/" data-link>Schedule</a>' +
       '<a href="/channels/" data-link>Channels</a><a href="/highlights/" data-link>Highlights</a>' +
       '<a href="/news/" data-link>News</a></div>' +
     '<div class="foot-col"><h4>Legal</h4>' +
@@ -200,6 +200,151 @@ function refreshScores() {
     LIVE_SCORES = d.matches;
     var el = document.getElementById('scoreStripInner');
     if (el) el.innerHTML = scoreChipsHTML(); /* in-place update, no layout shift */
+  });
+}
+
+/* ---------------- live center (real-time scores) ----------------
+   Polls ESPN's public scoreboard API (CORS: Access-Control-Allow-Origin: *)
+   every 60 seconds. Shows ONLY what the feed carries: team score strings,
+   status, venue. The feed carries no ball-by-ball detail, so none is shown. */
+var ESPN_LEAGUES = [
+  ['8048', 'Indian Premier League'],
+  ['8049', 'Indian Cricket League'],
+  ['8050', 'Ranji Trophy'],
+  ['8052', 'County Championship Division One'],
+  ['18041', 'Shpageeza Cricket League'],
+  ['18042', "Women's Big Bash League"],
+  ['8046', 'State League Twenty20'],
+  ['8045', "Sri Lanka Inter-Provincial Women's T20"]
+];
+var LIVE_CENTER = { live: [], upcoming: [], results: [], updatedAt: 0, tried: false };
+function pkDateTime(iso) {
+  try {
+    var d = new Date(iso);
+    if (isNaN(d.getTime())) return '';
+    return new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Karachi', weekday: 'short', day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit', hour12: true }).format(d) + ' PKT';
+  } catch (e) { return ''; }
+}
+function normEvent(league, e) {
+  var st = (e.status && e.status.type) || {};
+  var comp = (e.competitions && e.competitions[0]) || {};
+  var venue = (comp.venue && (comp.venue.fullName || comp.venue.name)) || '';
+  var teams = (comp.competitors || []).map(function (c) {
+    return { name: (c.team && (c.team.displayName || c.team.name)) || '', score: c.score || '', winner: !!c.winner };
+  });
+  return { league: league, name: e.name || '', date: e.date || '', state: st.state || '', detail: st.detail || st.description || '', venue: venue, teams: teams };
+}
+function updatedAgo() {
+  if (!LIVE_CENTER.tried) return 'Connecting to the live feed…';
+  if (!LIVE_CENTER.updatedAt) return 'Live feed unreachable — showing the daily fixture list.';
+  var s = Math.max(0, Math.round((Date.now() - LIVE_CENTER.updatedAt) / 1000));
+  if (s < 8) return 'Updated just now';
+  if (s < 60) return 'Updated ' + s + 's ago';
+  return 'Updated ' + Math.floor(s / 60) + 'm ago';
+}
+function lcLiveCard(m) {
+  var rows = m.teams.map(function (t) {
+    return '<div class="lc-row"><span class="lc-team">' + esc(t.name) + '</span>' +
+      (t.score ? '<span class="lc-score">' + esc(t.score) + '</span>' : '<span class="lc-noscore">yet to bat</span>') + '</div>';
+  }).join('');
+  return '<article class="lc-card lc-is-live"><div class="lc-top"><span class="live-badge"><i></i>Live</span>' +
+    '<span class="lc-league">' + esc(m.league) + '</span></div>' +
+    '<h3 class="lc-name">' + esc(m.name) + '</h3>' + rows +
+    (m.venue ? '<p class="lc-venue">' + esc(m.venue) + '</p>' : '') + '</article>';
+}
+function lcResultCard(m) {
+  var rows = m.teams.map(function (t) {
+    return '<div class="lc-row"><span class="lc-team' + (t.winner ? ' lc-winner' : '') + '">' + esc(t.name) + (t.winner ? ' ✓' : '') + '</span>' +
+      (t.score ? '<span class="lc-score">' + esc(t.score) + '</span>' : '') + '</div>';
+  }).join('');
+  return '<article class="lc-card"><div class="lc-top"><span class="lc-result-badge">' + esc(m.detail || 'Result') + '</span>' +
+    '<span class="lc-league">' + esc(m.league) + '</span></div>' +
+    '<h3 class="lc-name">' + esc(m.name) + '</h3>' + rows +
+    (m.venue ? '<p class="lc-venue">' + esc(m.venue) + '</p>' : '') + '</article>';
+}
+function lcUpcomingCard(m) {
+  var rows = m.teams.map(function (t) {
+    return '<div class="lc-row"><span class="lc-team">' + esc(t.name) + '</span></div>';
+  }).join('');
+  return '<article class="lc-card"><div class="lc-top"><span class="lc-result-badge lc-sched">' + esc(pkDateTime(m.date) || 'Scheduled') + '</span>' +
+    '<span class="lc-league">' + esc(m.league) + '</span></div>' +
+    '<h3 class="lc-name">' + esc(m.name) + '</h3>' + rows +
+    (m.venue ? '<p class="lc-venue">' + esc(m.venue) + '</p>' : '') + '</article>';
+}
+function liveNowModuleInner() {
+  if (!LIVE_CENTER.tried) {
+    return '<div class="wrap"><p class="lc-loading"><span class="rdot"></span>Checking live scores…</p></div>';
+  }
+  var upd = '<span class="lc-upd">' + esc(updatedAgo()) + '</span>';
+  var all = '<a class="lc-viewall" href="/live-scores/" data-link>All live scores ' + SVG.arrow + '</a>';
+  if (LIVE_CENTER.live.length) {
+    return '<div class="wrap"><div class="lc-hero-head"><span class="live-badge"><i></i>Live Now</span>' + upd + all + '</div>' +
+      '<div class="lc-grid">' + LIVE_CENTER.live.slice(0, 4).map(lcLiveCard).join('') + '</div></div>';
+  }
+  var up = LIVE_CENTER.upcoming.slice(0, 3);
+  var upHtml = up.length
+    ? '<div class="lc-grid">' + up.map(lcUpcomingCard).join('') + '</div>'
+    : '<p class="lc-empty">No fixtures on the live feed right now. See the <a href="/schedule/" data-link>full schedule</a> for upcoming matches.</p>';
+  return '<div class="wrap"><div class="lc-hero-head"><span class="lc-quiet-badge">No live matches right now</span>' + upd + all + '</div>' + upHtml + '</div>';
+}
+function liveNowModuleHTML() {
+  return '<section id="liveNowModule" class="lc-hero" aria-label="Live cricket scores">' + liveNowModuleInner() + '</section>';
+}
+function liveCenterInner() {
+  var upd = '<span class="lc-upd">' + esc(updatedAgo()) + '</span>';
+  var liveSec = LIVE_CENTER.live.length
+    ? '<div class="lc-grid">' + LIVE_CENTER.live.map(lcLiveCard).join('') + '</div>'
+    : '<p class="lc-empty">No matches are live right now. Scores appear here automatically the moment play starts — this page refreshes every minute.</p>';
+  var resSec = LIVE_CENTER.results.length
+    ? '<div class="lc-grid">' + LIVE_CENTER.results.map(lcResultCard).join('') + '</div>'
+    : '<p class="lc-empty">No recent results on the live feed.</p>';
+  var upSec = LIVE_CENTER.upcoming.length
+    ? '<div class="lc-grid">' + LIVE_CENTER.upcoming.map(lcUpcomingCard).join('') + '</div>'
+    : '<p class="lc-empty">No upcoming fixtures on the live feed. See the <a href="/schedule/" data-link>full schedule</a>.</p>';
+  return '<div class="lc-page-head"><h1>Live Cricket Scores</h1>' + upd +
+    '<p class="lc-sub">Real-time scores from matches in play now, refreshed every 60 seconds. Recent results and upcoming fixtures below.</p></div>' +
+    '<section class="lc-sec" aria-label="Live matches"><div class="lc-sec-head"><h2><span class="rdot" aria-hidden="true"></span>Live Now</h2></div>' + liveSec + '</section>' +
+    '<section class="lc-sec" aria-label="Recent results"><div class="lc-sec-head"><h2>Recent Results</h2></div>' + resSec + '</section>' +
+    '<section class="lc-sec" aria-label="Upcoming fixtures"><div class="lc-sec-head"><h2>Coming Up</h2></div>' + upSec + '</section>';
+}
+function pageLiveScores() {
+  return '<main class="wrap page-anim" id="liveCenterWrap">' + liveCenterInner() + '</main>';
+}
+/* In-place refresh of every live-center surface currently on screen. */
+function paintLiveCenter() {
+  var mod = document.getElementById('liveNowModule');
+  if (mod) mod.innerHTML = liveNowModuleInner();
+  var wrap = document.getElementById('liveCenterWrap');
+  if (wrap) wrap.innerHTML = liveCenterInner();
+  var strip = document.getElementById('scoreStripInner');
+  if (strip && LIVE_CENTER.tried && LIVE_CENTER.live.length) {
+    strip.innerHTML = LIVE_CENTER.live.slice(0, 10).map(function (m) {
+      return '<div class="score-chip"><span class="rdot"></span><span class="t">' + esc(m.name) + '</span>' +
+        '<span class="s">' + esc(m.teams.map(function (t) { return t.score; }).filter(Boolean).join(' & ') || 'Live') + '</span>' +
+        '<span class="st">' + esc(m.league) + '</span></div>';
+    }).join('');
+  }
+}
+function settleLiveCenter(all) {
+  var now = Date.now();
+  var live = all.filter(function (m) { return m.state === 'in'; })
+    .sort(function (a, b) { return new Date(a.date) - new Date(b.date); });
+  var upcoming = all.filter(function (m) { return m.state === 'pre' && m.date && new Date(m.date).getTime() >= now - 36e5; })
+    .sort(function (a, b) { return new Date(a.date) - new Date(b.date); }).slice(0, 8);
+  var cutoff = now - 4 * 864e5;
+  var results = all.filter(function (m) { return m.state === 'post' && m.date && new Date(m.date).getTime() >= cutoff; })
+    .sort(function (a, b) { return new Date(b.date) - new Date(a.date); }).slice(0, 10);
+  LIVE_CENTER = { live: live, upcoming: upcoming, results: results, updatedAt: now, tried: true };
+  paintLiveCenter();
+}
+function fetchLiveCenter() {
+  var pending = ESPN_LEAGUES.length, all = [];
+  ESPN_LEAGUES.forEach(function (L) {
+    fetchWithTimeout('https://site.api.espn.com/apis/site/v2/sports/cricket/' + L[0] + '/scoreboard', 12000)
+      .then(function (r) { if (!r.ok) throw new Error('bad status'); return r.json(); })
+      .then(function (d) { (d.events || []).forEach(function (e) { all.push(normEvent(L[1], e)); }); })
+      .catch(function () { /* one league down must not break the center */ })
+      .then(function () { if (--pending === 0) settleLiveCenter(all); });
   });
 }
 
@@ -450,7 +595,7 @@ function pageHome() {
   var hero = heroItems(), live = liveMatches(), up = upcomingMatches();
   var chRail = CHANNELS.slice(0, 8).map(function (c) { return channelCard(c, false); }).join('');
   var hl = HIGHLIGHTS.map(highlightCard).join('');
-  return heroHTML() + scoreStripHTML() +
+  return heroHTML() + scoreStripHTML() + liveNowModuleHTML() +
     '<main class="wrap page-anim">' +
     (live.length ? railHTML('railLive', 'Live Now', '/live-tv', live.map(function (m, i) { return matchCard(m, i); }).join('')) : '') +
     (up.length ? railHTML('railUpcoming', 'Upcoming Matches', '/schedule', up.map(function (m, i) { return matchCard(m, i); }).join('')) : '') +
@@ -931,6 +1076,7 @@ var ROUTE_META = {
   '/schedule': ['Cricket Schedule 2026 — Upcoming Matches, Fixtures & Timings | CricketNow', 'Full cricket schedule 2026: upcoming matches, fixtures, venues and timings across every competition, updated daily.'],
   '/channels': ['Live Cricket TV Channels — Watch 23 Sports Channels Online | CricketNow', 'Watch live cricket TV channels online: 23 sports channels streaming live cricket, one click away.'],
   '/watch': ['Watch Live Cricket — CricketNow', 'Live cricket stream player.'],
+  '/live-scores': ['Live Cricket Scores — Real-Time Scores & Results | CricketNow', 'Live cricket scores updated every minute: matches in play now, recent results and upcoming fixtures with venues and PKT start times.'],
   '/highlights': ['Cricket Match Highlights — Latest Videos | CricketNow', 'Watch the latest cricket match highlights videos — the biggest moments, cut down to the essentials.'],
   '/news': ['Cricket News — CricketNow', 'Previews, features and diaries from the CricketNow desk.'],
   '/about': ['About — CricketNow', 'Cricket coverage, organized for matchday.'],
@@ -967,6 +1113,7 @@ function render() {
   var page = document.getElementById('page');
   var html, active = path, metaRoute = path, extra = null;
   if (path === '/') html = pageHome();
+  else if (path === '/live-scores') html = pageLiveScores();
   else if (path === '/live-tv') html = pageLiveTV();
   else if (path === '/schedule') html = pageSchedule();
   else if (path === '/channels') html = pageChannels();
@@ -1013,6 +1160,7 @@ function render() {
   else { html = page404(); metaRoute = '/'; }
   page.innerHTML = html;
   window.scrollTo(0, 0);
+  paintLiveCenter(); /* fill live-center surfaces immediately if data is in */
   setMeta(metaRoute, extra);
   document.querySelectorAll('.nav-links a').forEach(function (a) {
     a.classList.toggle('active', a.getAttribute('href') === active);
@@ -1207,7 +1355,9 @@ function boot() {
       CHANNELS.forEach(function (c) { CHANNEL_BY_SLUG[slugify(c.name)] = c; });
       render(); /* re-render with live data */
     });
+  fetchLiveCenter(); /* real-time scores, independent of the daily manifest */
   setInterval(refreshScores, 60000);
+  setInterval(fetchLiveCenter, 60000);
 }
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
 else boot();

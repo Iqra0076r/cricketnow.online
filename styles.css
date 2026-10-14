@@ -426,3 +426,39 @@ footer{background:var(--bg-base);border-top:1px solid var(--border);margin-top:6
 .rel-info .c{font-size:12px;color:var(--text-muted);margin-top:4px}
 @media(max-width:860px){.rel-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:480px){.rel-grid{grid-template-columns:1fr}}
+
+/* ============ LIVE CENTER ============ */
+.lc-hero{background:linear-gradient(180deg,#0b1510 0%,#131417 100%);border-bottom:1px solid var(--border)}
+.lc-hero-head{display:flex;align-items:center;gap:14px;padding:22px 0 16px;flex-wrap:wrap}
+.lc-upd{font-size:12px;color:var(--text-muted)}
+.lc-viewall{margin-left:auto;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--green);display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.lc-viewall svg{width:12px;height:12px;stroke:var(--green);fill:none;stroke-width:2.5}
+.lc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;padding-bottom:28px}
+.lc-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:18px}
+.lc-is-live{border-color:rgba(229,72,77,.45);box-shadow:0 0 24px rgba(229,72,77,.08)}
+.lc-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
+.lc-league{font-size:11px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:right}
+.lc-name{font-size:16px;font-weight:700;margin-bottom:8px;line-height:1.4}
+.lc-row{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:8px 0;border-top:1px solid var(--border);font-size:14px}
+.lc-team{font-weight:600}
+.lc-score{font-weight:700;color:var(--green);text-align:right}
+.lc-winner{color:var(--green)}
+.lc-noscore{font-size:12px;color:var(--text-muted);font-style:italic}
+.lc-venue{margin-top:10px;font-size:12px;color:var(--text-muted)}
+.lc-result-badge{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--text-nav);background:var(--surface-2);border:1px solid var(--border);border-radius:999px;padding:5px 12px;white-space:nowrap}
+.lc-result-badge.lc-sched{color:var(--green);border-color:rgba(0,230,118,.35)}
+.lc-quiet-badge{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted);background:var(--surface-2);border:1px solid var(--border);border-radius:999px;padding:5px 12px;white-space:nowrap}
+.lc-loading{display:flex;align-items:center;gap:10px;padding:22px 0;color:var(--text-muted);font-size:14px}
+.lc-loading .rdot{width:8px;height:8px;border-radius:50%;background:var(--green);animation:pulse 1.2s infinite}
+.lc-empty{color:var(--text-muted);font-size:14px;padding:18px;border:1px dashed var(--border);border-radius:12px;margin-bottom:24px;line-height:1.6}
+.lc-empty a{color:var(--green);font-weight:600}
+.lc-page-head{padding:34px 0 6px}
+.lc-page-head h1{font-size:clamp(1.6rem,3.4vw,2.4rem);font-weight:800;text-transform:uppercase;letter-spacing:.02em;margin-bottom:8px}
+.lc-page-head h1::before{content:"";display:inline-block;width:10px;height:10px;border-radius:3px;background:var(--neon);box-shadow:0 0 14px var(--neon);margin-right:12px}
+.lc-sub{color:var(--text-nav);font-size:14px;max-width:640px;margin:8px 0 4px;line-height:1.6}
+.lc-sec{padding:22px 0 4px}
+.lc-sec-head{display:flex;align-items:center;gap:24px;margin-bottom:18px}
+.lc-sec-head h2{font-size:20px;font-weight:700;text-transform:uppercase;letter-spacing:.02em;white-space:nowrap;display:flex;align-items:center;gap:10px}
+.lc-sec-head .rdot{width:8px;height:8px;border-radius:50%;background:var(--live);animation:pulse 1.6s infinite}
+.lc-sec-head::after{content:"";flex:1;height:1px;background:var(--border);min-width:24px}
+@media(max-width:640px){.lc-viewall{margin-left:0}.lc-hero-head{gap:10px}}
