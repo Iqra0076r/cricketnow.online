@@ -28,6 +28,22 @@ function esc(s) {
 function slugify(name) {
   return String(name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
+/* BUNDLE_V must match the ?v= stamp in index.html + subpages. The stale-tab
+   guard in boot() reloads the page when the server ships a newer bundle. */
+var BUNDLE_V = '20261014';
+/* closest() that can never throw: some embedded/old WebViews lack
+   SVGElement.closest, and event targets are not always Elements. */
+function closestEl(target, sel) {
+  try {
+    var n = target;
+    while (n && n !== document && n.nodeType === 1) {
+      if (n.closest) return n.closest(sel); /* covers n + every ancestor */
+      if (n.matches && n.matches(sel)) return n; /* pre-closest SVG fallback */
+      n = n.parentNode;
+    }
+  } catch (e) {}
+  return null;
+}
 function fetchWithTimeout(url, ms) {
   ms = ms || 5000;
   return new Promise(function (resolve, reject) {
@@ -491,7 +507,7 @@ function highlightCard(h, i) {
 }
 /* Click-to-play for YouTube highlight cards: swaps the thumbnail for the embed. */
 document.addEventListener('click', function (e) {
-  var card = e.target && e.target.closest ? e.target.closest('.hl-video') : null;
+  var card = closestEl(e.target, '.hl-video');
   if (!card || card.getAttribute('data-playing')) return;
   card.setAttribute('data-playing', '1');
   var art = card.querySelector('.card-art') || card.querySelector('.hero-art');
@@ -560,9 +576,15 @@ function heroHTML() {
 var heroTimer = null;
 function initHero() {
   var track = document.getElementById('heroTrack');
-  if (!track) return;
-  var n = track.children.length;
+  if (!track || !track.children.length) return;
   var dotsBox = document.getElementById('heroDots');
+  var prevBtn = document.getElementById('heroPrev');
+  var nextBtn = document.getElementById('heroNext');
+  var heroEl = document.getElementById('hero');
+  /* All hero controls render together; if any are missing, bail rather than
+     throwing mid-render (a throw here would kill the whole tap→render path). */
+  if (!dotsBox || !prevBtn || !nextBtn || !heroEl) return;
+  var n = track.children.length;
   var idx = 0;
   for (var i = 0; i < n; i++) {
     (function (k) {
@@ -584,9 +606,8 @@ function initHero() {
   }
   function restart() { clearInterval(heroTimer); heroTimer = setInterval(function () { go(idx + 1); }, 6000); }
   pageTimers.push(function () { clearInterval(heroTimer); });
-  document.getElementById('heroPrev').addEventListener('click', function () { go(idx - 1, true); });
-  document.getElementById('heroNext').addEventListener('click', function () { go(idx + 1, true); });
-  var heroEl = document.getElementById('hero');
+  prevBtn.addEventListener('click', function () { go(idx - 1, true); });
+  nextBtn.addEventListener('click', function () { go(idx + 1, true); });
   heroEl.addEventListener('mouseenter', function () { clearInterval(heroTimer); });
   heroEl.addEventListener('mouseleave', restart);
   var sx = null;
@@ -1262,9 +1283,9 @@ function buildSearchIndex() {
 function initGlobal() {
   /* link interception */
   document.addEventListener('click', function (e) {
-    var a = e.target.closest('a[data-link]');
+    var a = closestEl(e.target, 'a[data-link]');
     if (!a) {
-      var plain = e.target.closest('a[href^="/"]');
+      var plain = closestEl(e.target, 'a[href^="/"]');
       if (plain && !plain.getAttribute('target')) a = plain;
     }
     if (!a) return;
@@ -1294,11 +1315,11 @@ function initGlobal() {
   document.getElementById('mclose').addEventListener('click', closeMenu);
   /* rail arrows are per-render; schedule filters + reminders (delegated) */
   document.addEventListener('click', function (e) {
-    var sf = e.target.closest('[data-sfilter]');
+    var sf = closestEl(e.target, '[data-sfilter]');
     if (sf) { schedFilter = sf.getAttribute('data-sfilter'); render(); return; }
-    var cf = e.target.closest('[data-cfilter]');
+    var cf = closestEl(e.target, '[data-cfilter]');
     if (cf) { pageChannelsCat = cf.getAttribute('data-cfilter'); render(); return; }
-    var rm = e.target.closest('[data-remind]');
+    var rm = closestEl(e.target, '[data-remind]');
     if (rm) {
       e.preventDefault();
       var k = rm.getAttribute('data-remind');
@@ -1306,7 +1327,7 @@ function initGlobal() {
       if (i === -1) REMINDERS.push(k); else REMINDERS.splice(i, 1);
       saveReminders(); render(); return;
     }
-    var tp = e.target.closest('[data-topic]');
+    var tp = closestEl(e.target, '[data-topic]');
     if (tp) {
       document.querySelectorAll('[data-topic]').forEach(function (x) { x.classList.remove('active'); });
       tp.classList.add('active');
@@ -1343,14 +1364,14 @@ function initGlobal() {
     else if (e.key === 'Escape') close();
   });
   drop.addEventListener('click', function (e) {
-    var b = e.target.closest('[data-sr]');
+    var b = closestEl(e.target, '[data-sr]');
     if (!b) return;
     var r = results[+b.getAttribute('data-sr')];
     close(); input.value = '';
     navigate(r.go);
   });
   document.addEventListener('click', function (e) {
-    if (!e.target.closest('.search-wrap')) close();
+    if (!closestEl(e.target, '.search-wrap')) close();
   });
   /* newsletter */
   document.addEventListener('submit', function (e) {
@@ -1397,6 +1418,22 @@ function boot() {
   fetchLiveCenter(); /* real-time scores, independent of the daily manifest */
   setInterval(refreshScores, 60000);
   setInterval(fetchLiveCenter, 60000);
+  /* Stale-tab guard: an already-open tab never refreshes itself, so it can
+     keep running a pre-fix bundle across deploys (the leading menu-bug
+     theory). Once an hour, re-fetch this page's HTML and compare the app.js
+     ?v= stamp the server ships; if it differs from this bundle, do a full
+     reload so taps always run current code. */
+  setInterval(function () {
+    try {
+      fetch(window.location.href.split('#')[0], { cache: 'no-store' })
+        .then(function (r) { return r.text(); })
+        .then(function (t) {
+          var m = /\/app\.js\?v=(\d+)/.exec(t || '');
+          if (m && m[1] !== BUNDLE_V) window.location.reload();
+        })
+        .catch(function () {});
+    } catch (e) {}
+  }, 3600000);
 }
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
 else boot();
