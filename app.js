@@ -1197,9 +1197,17 @@ function render() {
   initNewsSearch();
 }
 function navigate(url) {
+  /* Bulletproof: a menu tap must NEVER silently die. If pushState is
+     unavailable or render() throws (device-specific quirks), fall back to a
+     full page load — every route has a correct static page. */
   if (window.location.pathname + window.location.search === url) return;
-  window.history.pushState(null, '', url);
-  render();
+  try {
+    if (!window.history || !window.history.pushState) throw new Error("no pushState");
+    window.history.pushState(null, '', url);
+    render();
+  } catch (err) {
+    window.location.href = url;
+  }
 }
 
 /* ============ interactions ============ */
@@ -1263,8 +1271,13 @@ function initGlobal() {
     var href = a.getAttribute('href');
     if (!href || href.charAt(0) !== '/') return;
     e.preventDefault();
-    closeMenu();
-    navigate(href);
+    try {
+      closeMenu();
+      navigate(href);
+    } catch (err) {
+      /* never let a tap die silently — full page load to the right page */
+      window.location.href = href;
+    }
   });
   window.addEventListener('popstate', render);
   /* nav shadow */
