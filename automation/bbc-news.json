@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-14T09:11:10.811658+00:00",
+  "updatedAt": "2026-10-14T14:48:40.011124+00:00",
   "items": [
+    {
+      "title": "India v West Indies - fourth T20 scorecard",
+      "description": "Latest scorecard from the fourth Twenty20 international between India and West Indies in Hyderabad.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237260?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237260#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Rusty or something more? South Africa's concern after Australia loss",
       "description": "Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?",
@@ -84,11 +92,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Test cricket's biggest scandals - your results revealed",
+      "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:24:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Lancashire to release Singh and Fonseka",
       "description": "Harry Singh and Kesh Fonseka, 22 and 20 respectively, will leave Lancashire when their contracts expire at the end of this month.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6e3x4q0nqvdo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 10:38:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6e3x4q0nqvdo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6e3x4q0nqvdo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 09:21:27 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "How an 'absolute fluke' exposed sandpapergate scandal",
-      "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 14:28:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#2",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "How do you read a cricket scorecard?",
-      "description": "Our Ask Me Anything team break down what everything means on a cricket scorecard.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 08:11:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o#6",
       "source": "BBC Sport"
     }
   ]
