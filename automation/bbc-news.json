@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-13T22:08:04.287064+00:00",
+  "updatedAt": "2026-10-14T02:59:13.747535+00:00",
   "items": [
     {
       "title": "Rusty or something more? South Africa's concern after Australia loss",
@@ -41,14 +41,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 15:13:54 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Renshaw delivers again as Australia close on win",
-      "description": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 16:02:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo#0",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How do you read a cricket scorecard?",
+      "description": "Our Ask Me Anything team break down what everything means on a cricket scorecard.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 08:11:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o#6",
       "source": "BBC Sport"
     }
   ]
