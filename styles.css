@@ -462,3 +462,19 @@ footer{background:var(--bg-base);border-top:1px solid var(--border);margin-top:6
 .lc-sec-head .rdot{width:8px;height:8px;border-radius:50%;background:var(--live);animation:pulse 1.6s infinite}
 .lc-sec-head::after{content:"";flex:1;height:1px;background:var(--border);min-width:24px}
 @media(max-width:640px){.lc-viewall{margin-left:0}.lc-hero-head{gap:10px}}
+
+/* Leagues Happening Now — visually distinct per-league sections */
+.leagues-block{padding:40px 0 8px}
+.leagues-title{display:flex;align-items:center;gap:24px;margin-bottom:6px}
+.leagues-title h2{font-size:22px;font-weight:700;text-transform:uppercase;letter-spacing:.02em;white-space:nowrap;display:flex;align-items:center;gap:12px}
+.leagues-title h2::before{content:"";flex:none;width:9px;height:9px;border-radius:2.5px;background:var(--neon);box-shadow:0 0 12px var(--neon)}
+.leagues-title .rule{flex:1;height:1px;background:var(--border);min-width:24px}
+.league-sec{margin:18px 0;padding:22px 22px 14px;border:1px solid var(--border);border-radius:16px;background:linear-gradient(180deg,rgba(0,230,118,.05),rgba(0,230,118,.01) 60%),var(--surface)}
+.league-head{display:flex;align-items:center;gap:14px;margin-bottom:14px}
+.league-head h2{font-size:17px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.league-head .rule{flex:1;height:1px;background:var(--border);min-width:16px}
+.league-tag{display:inline-flex;align-items:center;gap:6px;font-size:10px;font-weight:800;letter-spacing:.12em;color:#06130b;background:var(--neon);border-radius:6px;padding:5px 9px;white-space:nowrap}
+.league-tag .pulse-dot{background:#06130b}
+.league-count{font-size:11px;color:var(--text-muted);white-space:nowrap}
+.muted-line{padding:4px 0 18px;color:var(--text-muted);font-size:14px}
+.muted-line a{color:var(--green);font-weight:600}

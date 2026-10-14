@@ -108,6 +108,8 @@ function matchItems() { return Array.isArray(HP.matches) ? HP.matches : []; }
 function scheduleItems() { return Array.isArray(HP.schedule) ? HP.schedule : []; }
 function liveMatches() { return matchItems().filter(function (m) { return m.live === true; }); }
 function upcomingMatches() { return matchItems().filter(function (m) { return m.live !== true; }); }
+function upcomingMajors() { return Array.isArray(HP.upcoming_majors) ? HP.upcoming_majors : []; }
+function leagueGroups() { return Array.isArray(HP.leagues) ? HP.leagues : []; }
 function isLiveScoreEntry(e) { return /live/i.test(e.status || '') || /\(live\)/i.test(e.score || ''); }
 
 /* ---------------- icons ---------------- */
@@ -417,6 +419,18 @@ function railHTML(id, title, viewAll, cards) {
     '<button class="rail-arrow right" aria-label="Scroll right">' + SVG.chevR + '</button>' +
     '</div></section>';
 }
+function leagueSectionHTML(lg) {
+  var ms = Array.isArray(lg.matches) ? lg.matches : [];
+  var cards = ms.map(function (m, i) { return matchCard(m, i); }).join('');
+  if (!cards) return '';
+  var liveCount = ms.filter(function (m) { return m.live === true; }).length;
+  return '<section class="league-sec" aria-label="' + esc(lg.name) + '">' +
+    '<div class="league-head"><span class="league-tag">' +
+    (liveCount ? '<span class="pulse-dot"></span>LIVE' : 'SERIES') + '</span>' +
+    '<h2>' + esc(lg.name) + '</h2><span class="rule"></span>' +
+    '<span class="league-count">' + ms.length + ' match' + (ms.length === 1 ? '' : 'es') + '</span></div>' +
+    '<div class="rail-body"><div class="rail-track">' + cards + '</div></div></section>';
+}
 function dayLabel(timeStr) {
   var t = String(timeStr || '').toLowerCase();
   if (/live/.test(t)) return 'LIVE';
@@ -593,10 +607,22 @@ function initHero() {
 /* ============ PAGES ============ */
 function pageHome() {
   var hero = heroItems(), live = liveMatches(), up = upcomingMatches();
+  var majors = upcomingMajors(), leagues = leagueGroups();
   var chRail = CHANNELS.slice(0, 8).map(function (c) { return channelCard(c, false); }).join('');
   var hl = HIGHLIGHTS.map(highlightCard).join('');
+  var majorsRail = majors.length
+    ? railHTML('railMajors', 'Big Matches Coming Up', '/schedule', majors.map(function (m, i) { return matchCard(m, i); }).join(''))
+    : '<section class="rail" aria-label="Big matches coming up"><div class="rail-head">' +
+      '<h2>Big Matches Coming Up</h2><span class="rule"></span></div>' +
+      '<p class="muted-line">No major fixtures scheduled right now — see the <a href="/schedule/" data-link>full schedule</a>.</p></section>';
+  var leaguesHTML = leagues.length
+    ? '<div class="leagues-block"><div class="leagues-title"><h2>Leagues Happening Now</h2><span class="rule"></span></div>' +
+      leagues.map(leagueSectionHTML).join('') + '</div>'
+    : '';
   return heroHTML() + scoreStripHTML() + liveNowModuleHTML() +
     '<main class="wrap page-anim">' +
+    majorsRail +
+    leaguesHTML +
     (live.length ? railHTML('railLive', 'Live Now', '/live-tv', live.map(function (m, i) { return matchCard(m, i); }).join('')) : '') +
     (up.length ? railHTML('railUpcoming', 'Upcoming Matches', '/schedule', up.map(function (m, i) { return matchCard(m, i); }).join('')) : '') +
     (chRail ? railHTML('railChannels', 'TV Channels', '/channels', chRail) : '') +
