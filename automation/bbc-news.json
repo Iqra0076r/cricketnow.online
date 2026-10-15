@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-15T08:44:05.776906+00:00",
+  "updatedAt": "2026-10-15T14:35:33.565638+00:00",
   "items": [
     {
-      "title": "India v West Indies - fourth T20 scorecard",
-      "description": "Latest scorecard from the fourth Twenty20 international between India and West Indies in Hyderabad.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237260?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237260#0",
+      "title": "'Aussie agitator' Breetzke gets South Africa call-up",
+      "description": "South Africa respond to their heavy first-Test defeat by Australia by calling up “Aussie agitator” Matthew Breetzke.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 11:48:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England include red-ball game in India tour as Ashes prep",
+      "description": "England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 12:13:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Crawley signs Kent extension after losing England deal",
+      "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 10:06:37 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Veteran Derbyshire captain Madsen signs new deal",
+      "description": "Derbyshire captain Wayne Madsen signs a one-year red-ball contract, taking him into a 19th season with the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c34g12ej4804o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 09:34:58 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c34g12ej4804o#0",
       "source": "BBC Sport"
     },
     {
@@ -28,27 +52,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan battle to draw one-off Test with Bangladesh - scorecard",
-      "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sri Lanka win final T20 but Pakistan take series 2-1 - scorecard",
-      "description": "Latest scorecard from the third Twenty20 international between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244077?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244077#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Pope pulls out of controversial Afghanistan T20 league",
       "description": "England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 15:13:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 16:14:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo#1",
       "source": "BBC Sport"
     },
     {
@@ -84,11 +92,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years?",
-      "description": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Oct 2026 10:24:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o#1",
+      "title": "When is England's tour of Bangladesh this winter?",
+      "description": "BBC Sport's Ask Me Anything team looks into England's upcoming two-Test series in Bangladesh",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 11:57:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,15 @@
       "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 05:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years?",
+      "description": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 10:24:39 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o#2",
       "source": "BBC Sport"
     },
     {
@@ -129,30 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 16:18:38 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ex-Essex cricketer faces trial on two rape charges",
-      "description": "Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:07:34 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/ck5yn6325wj2o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hampshire legend Adams leaves after 25 years",
-      "description": "Hampshire club legend Jimmy Adams leaves the county after more than 25 years as a player and coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 15:24:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqkg500v3142o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "ECB help would make women's Test a 'certainty' - West Indies",
-      "description": "West Indies are still hopeful of hosting England in a women's Test next year, but the fixture would be a \"certainty\" if the ECB were to help fund it, says chief executive Chris Dehring.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 09:21:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#2",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How do you read a cricket scorecard?",
+      "description": "Our Ask Me Anything team break down what everything means on a cricket scorecard.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 13 Jun 2026 08:11:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr7x59p0px3o#6",
       "source": "BBC Sport"
     }
   ]
