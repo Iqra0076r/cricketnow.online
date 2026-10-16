@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-16T14:26:35.422450+00:00",
+  "updatedAt": "2026-10-16T19:10:05.112259+00:00",
   "items": [
     {
       "title": "Rew, 18, to captain England Lions in West Indies",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 10:33:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England bowler Archer signs new Sussex deal",
+      "description": "England paceman Jofra Archer signs a one-year contract extension with Sussex.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 15:14:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 10:06:37 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "Jacob Bethell will return for England's white-ball tour of Australia, while there are also first international call-ups for exciting prospects Thomas Rew and Eddie Jack.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 12:36:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 11:57:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Glamorgan hunt coach again as Dawson joins England",
-      "description": "Glamorgan are searching for fourth coach in five years after Richard Dawson has left the County to take up a role with the England side.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 12:07:51 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crgqw95en52jo#2",
       "source": "BBC Sport"
     },
     {
