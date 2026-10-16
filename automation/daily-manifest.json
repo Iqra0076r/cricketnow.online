@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "timezone": "Asia/Karachi",
-  "updatedAt": "2026-10-15T05:59:17.392176+05:00",
+  "updatedAt": "2026-10-16T05:59:41.820882+05:00",
   "liveMatch": null,
   "upcomingMatch": {
-    "teams": "Oman vs Canada",
-    "competition": "ICC Men's Cricket World Cup League 2",
-    "time": "Today · 11:00 AM",
-    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
-    "image": "/media/match-graphics/oma-vs-can-tapmad.jpg",
+    "teams": "Australian Capital Territory Women vs Brisbane Heat Women",
+    "competition": "T20 Spring Challenge",
+    "time": "Today · 8:30 AM",
+    "venue": "Raby Oval No 1, Sydney",
+    "image": "/media/match-graphics/tapmad-bg-action.jpg",
     "tv_channels": [
       "TBD — check official broadcaster"
     ],
@@ -17,33 +17,22 @@
   },
   "matches": [
     {
-      "teams": "Oman vs Canada",
-      "competition": "ICC Men's Cricket World Cup League 2",
-      "time": "Today · 11:00 AM",
-      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
-      "image": "/media/match-graphics/oma-vs-can-tapmad.jpg",
+      "teams": "Australian Capital Territory Women vs Brisbane Heat Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Today · 8:30 AM",
+      "venue": "Raby Oval No 1, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
       "captains": null
     },
     {
-      "teams": "Austria Women vs Sweden Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Today · 12:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Bulgaria Women vs Sweden Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Today · 4:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "teams": "Bangladesh Women Under-19s vs Sri Lanka Women Under-19s",
+      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
+      "time": "Today · 10:00 AM",
+      "venue": "Iqbal Stadium, Faisalabad",
+      "image": "/media/match-graphics/banwu19-vs-slwu19-tapmad.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
@@ -51,6 +40,105 @@
     },
     {
       "teams": "Romania Women vs Bulgaria Women",
+      "competition": "ECA Women's European Cup 2026/27",
+      "time": "Today · 12:00 PM",
+      "venue": "Moara Vlasiei Cricket Ground",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Limpopo vs Border",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Today · 4:00 PM",
+      "venue": "Cricket Club Ground, Polokwane",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "South Western Districts vs Warriors",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Today · 4:00 PM",
+      "venue": "Recreation Ground, Oudtshoorn",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Austria Women vs Bulgaria Women",
+      "competition": "ECA Women's European Cup 2026/27",
+      "time": "Today · 4:00 PM",
+      "venue": "Moara Vlasiei Cricket Ground",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "India Women vs Zimbabwe Women",
+      "competition": "Zimbabwe Women tour of India 2026/27",
+      "time": "Today · 6:30 PM",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Hobart Hurricanes Women vs Perth Scorchers Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Tomorrow · 4:00 AM",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Sydney Thunder Women vs Melbourne Renegades Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Tomorrow · 4:00 AM",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Australian Capital Territory Women vs Melbourne Stars Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Tomorrow · 8:30 AM",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Sydney Sixers Women vs Adelaide Strikers Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Tomorrow · 8:30 AM",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Romania Women vs Austria Women",
       "competition": "ECA Women's European Cup 2026/27",
       "time": "Tomorrow · 12:00 PM",
       "venue": "Moara Vlasiei Cricket Ground",
@@ -61,42 +149,9 @@
       "captains": null
     },
     {
-      "teams": "Austria Women vs Bulgaria Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Tomorrow · 4:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Canada vs Nepal",
-      "competition": "ICC Men's Cricket World Cup League 2",
-      "time": "Sat 17 Oct · 11:00 AM",
-      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
-      "image": "/media/match-graphics/can-vs-nep-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Romania Women vs Austria Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Sat 17 Oct · 12:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
       "teams": "Romania Women vs Sweden Women",
       "competition": "ECA Women's European Cup 2026/27",
-      "time": "Sat 17 Oct · 4:00 PM",
+      "time": "Tomorrow · 4:00 PM",
       "venue": "Moara Vlasiei Cricket Ground",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
@@ -105,11 +160,154 @@
       "captains": null
     },
     {
-      "teams": "Oman vs Nepal",
-      "competition": "ICC Men's Cricket World Cup League 2",
-      "time": "Mon 19 Oct · 11:00 AM",
-      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)",
-      "image": "/media/match-graphics/oma-vs-nep-tapmad.jpg",
+      "teams": "Boland vs Mpumalanga",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tomorrow · 9:00 PM",
+      "venue": "Boland Park, Paarl",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Hobart Hurricanes Women vs Melbourne Renegades Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Sun 18 Oct · 4:00 AM",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Adelaide Strikers Women vs Brisbane Heat Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Sun 18 Oct · 8:30 AM",
+      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Sydney Thunder Women vs Perth Scorchers Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Sun 18 Oct · 8:30 AM",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Sydney Sixers Women vs Melbourne Stars Women",
+      "competition": "T20 Spring Challenge",
+      "time": "Sun 18 Oct · 1:00 PM",
+      "venue": "Blacktown International Sportspark, Sydney",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Lions vs Northern Cape",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Sun 18 Oct · 4:00 PM",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "South Africa Emerging Players vs Knights",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Sun 18 Oct · 4:00 PM",
+      "venue": "LC de Villiers Oval, Pretoria",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "India Women vs Zimbabwe Women",
+      "competition": "Zimbabwe Women tour of India 2026/27",
+      "time": "Sun 18 Oct · 6:30 PM",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "India Women vs Zimbabwe Women",
+      "competition": "Zimbabwe Women tour of India 2026/27",
+      "time": "Tue 20 Oct · 6:30 PM",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Dolphins vs Warriors",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Tue 20 Oct · 9:00 PM",
+      "venue": "Kingsmead, Durban",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Northern Cape vs South Western Districts",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Wed 21 Oct · 4:00 PM",
+      "venue": "Diamond Oval, Kimberley",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "North West vs Limpopo",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Wed 21 Oct · 9:00 PM",
+      "venue": "Senwes Park, Potchefstroom",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mpumalanga vs South Africa Emerging Players",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Thu 22 Oct · 4:00 PM",
+      "venue": "Uplands College, White River",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Easterns vs KwaZulu-Natal Inland",
+      "competition": "South Africa Domestic T20/Pro20",
+      "time": "Thu 22 Oct · 9:00 PM",
+      "venue": "Willowmoore Park, Benoni",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
@@ -120,7 +318,7 @@
     "/media/match-poster-cpl.webp",
     "/media/og-cover.jpg"
   ],
-  "notes": "Auto-published 2026-10-15: 0 live, 9 upcoming. Verified via ESPN feeds. 58 highlights.",
+  "notes": "Auto-published 2026-10-16: 0 live, 27 upcoming. Verified via ESPN feeds. 61 highlights.",
   "highlights": [
     {
       "videoId": "FrvkIKKOJVc",
@@ -183,7 +381,7 @@
       "title": "Shai Hope Saves Run Chase | Extended Highlights West Indies v India 2nd CG United ODI",
       "duration": 2313,
       "date": "NA",
-      "views": 1300000,
+      "views": 1400000,
       "channel": "windiescricket",
       "teams": "",
       "videoId": "zzU_efoOHqs",
@@ -198,7 +396,7 @@
       "title": "Australia v India | Match Highlights | Women's #T20WorldCup 2026",
       "duration": 131,
       "date": "NA",
-      "views": 467000,
+      "views": 468000,
       "channel": "ICC",
       "teams": "",
       "videoId": "Uvqo-q_V7P0",
@@ -228,7 +426,7 @@
       "title": "Day 05 Highlights | 2nd Test, Sri Lanka vs India 2026",
       "duration": 1396,
       "date": "NA",
-      "views": 270000,
+      "views": 271000,
       "channel": "SriLankaCricket",
       "teams": "Sri Lanka vs India 2026",
       "videoId": "uRU1IN7j3WU",
@@ -403,7 +601,7 @@
       "title": "ऑस्ट्रेलिया ने जीता विश्व कप | Hindi Highlights | ENG v AUS | Women’s T20 World Cup 2026 Final",
       "duration": 420,
       "date": "NA",
-      "views": 698000,
+      "views": 699000,
       "channel": "ICC",
       "teams": "",
       "videoId": "SdWQobyzbWk",
@@ -733,7 +931,7 @@
       "title": "Full Match Highlights | Sri Lanka vs Bangladesh | Match 9 | Women U19 Tri-Nation Series 2026 | MZP1H",
       "duration": 961,
       "date": "NA",
-      "views": 60000,
+      "views": 72000,
       "channel": "PakistanCricket",
       "teams": "Sri Lanka vs Bangladesh",
       "videoId": "ITLxvL3OB9M",
@@ -754,6 +952,36 @@
       "videoId": "cw2L-11Gh6w",
       "embed": "https://www.youtube-nocookie.com/embed/cw2L-11Gh6w",
       "watch": "https://www.youtube.com/watch?v=cw2L-11Gh6w",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "f1t0iwz1Q78",
+      "title": "Full Match Highlights | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1H",
+      "duration": 1621,
+      "date": "NA",
+      "views": 45000,
+      "channel": "PakistanCricket",
+      "teams": "Pakistan U17 vs Sri Lanka U17",
+      "videoId": "f1t0iwz1Q78",
+      "embed": "https://www.youtube-nocookie.com/embed/f1t0iwz1Q78",
+      "watch": "https://www.youtube.com/watch?v=f1t0iwz1Q78",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "pOBCKVokEhI",
+      "title": "2nd Innings Highlights | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1H",
+      "duration": 910,
+      "date": "NA",
+      "views": 30000,
+      "channel": "PakistanCricket",
+      "teams": "Pakistan U17 vs Sri Lanka U17",
+      "videoId": "pOBCKVokEhI",
+      "embed": "https://www.youtube-nocookie.com/embed/pOBCKVokEhI",
+      "watch": "https://www.youtube.com/watch?v=pOBCKVokEhI",
       "competition": "PakistanCricket",
       "venue": "",
       "score": null
@@ -799,6 +1027,21 @@
       "videoId": "sCh0XSg1zC8",
       "embed": "https://www.youtube-nocookie.com/embed/sCh0XSg1zC8",
       "watch": "https://www.youtube.com/watch?v=sCh0XSg1zC8",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "_16EzM-9CeQ",
+      "title": "1st Innings Highlights | Pakistan U17 vs Sri Lanka U17 | Youth One-Day - Match 1 | MZR1J",
+      "duration": 752,
+      "date": "NA",
+      "views": 19000,
+      "channel": "PakistanCricket",
+      "teams": "Pakistan U17 vs Sri Lanka U17",
+      "videoId": "_16EzM-9CeQ",
+      "embed": "https://www.youtube-nocookie.com/embed/_16EzM-9CeQ",
+      "watch": "https://www.youtube.com/watch?v=_16EzM-9CeQ",
       "competition": "PakistanCricket",
       "venue": "",
       "score": null
@@ -853,7 +1096,7 @@
       "title": "1st Innings Highlights | Sri Lanka vs Bangladesh | Women U19 Tri-Nation Series 2026 | MZP1H",
       "duration": 668,
       "date": "NA",
-      "views": 2600,
+      "views": 3400,
       "channel": "PakistanCricket",
       "teams": "Sri Lanka vs Bangladesh",
       "videoId": "UoCWxjqPA1E",
@@ -898,7 +1141,7 @@
       "title": "2nd Innings Highlights | Sri Lanka vs Bangladesh | Women U19 Tri-Nation Series 2026 | MZP1H",
       "duration": 310,
       "date": "NA",
-      "views": 1600,
+      "views": 2000,
       "channel": "PakistanCricket",
       "teams": "Sri Lanka vs Bangladesh",
       "videoId": "oQl8jr-Lr1U",
