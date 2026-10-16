@@ -30,7 +30,7 @@ function slugify(name) {
 }
 /* BUNDLE_V must match the ?v= stamp in index.html + subpages. The stale-tab
    guard in boot() reloads the page when the server ships a newer bundle. */
-var BUNDLE_V = '20261014';
+var BUNDLE_V = '20261016';
 /* closest() that can never throw: some embedded/old WebViews lack
    SVGElement.closest, and event targets are not always Elements. */
 function closestEl(target, sel) {
@@ -162,7 +162,7 @@ function navHTML(active) {
     '<button class="burger" id="burger" aria-label="Open menu"><span></span></button>' +
   '</div></header>' +
   '<div class="mmenu" id="mmenu" aria-hidden="true">' +
-    '<div class="mmenu-top"><span class="brand-name" style="font-size:20px;font-weight:800">Cricket<em style="font-style:normal;color:var(--green)">Now</em></span>' +
+    '<div class="mmenu-top"><span class="brand-name" style="font-size:20px;font-weight:800">Cricket<em style="font-style:normal;color:var(--orange)">Now</em></span>' +
     '<button class="mmenu-close" id="mclose" aria-label="Close menu">✕</button></div>' +
     '<div class="mmenu-search"><label class="search-pill">' + SVG.search +
       '<input type="search" id="mSearch" placeholder="Search matches, teams…" aria-label="Search" autocomplete="off">' +
@@ -854,13 +854,13 @@ function pageWatch() {
     'allowfullscreen allow="autoplay; fullscreen; picture-in-picture" referrerpolicy="no-referrer"></iframe>' +
     '<div id="player-fallback" style="display:none;position:absolute;inset:0;background:#0a0d10;color:#e8ecef;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;z-index:5">' +
     '<div style="font-size:48px;margin-bottom:16px">📡</div>' +
-    '<h3 style="color:#00E676;margin:0 0 12px">Stream Temporarily Unavailable</h3>' +
+    '<h3 style="color:#EE7B1E;margin:0 0 12px">Stream Temporarily Unavailable</h3>' +
     '<p style="color:#9aa4ad;max-width:400px;line-height:1.6">This channel\'s stream source is not responding right now. Try another channel below or check back in a few minutes.</p>' +
-    '<button onclick="location.reload()" style="background:#00E676;color:#000;border:0;padding:12px 28px;border-radius:8px;font-weight:bold;cursor:pointer;margin-top:8px">Retry Stream</button>' +
+    '<button onclick="location.reload()" style="background:#EE7B1E;color:#000;border:0;padding:12px 28px;border-radius:8px;font-weight:bold;cursor:pointer;margin-top:8px">Retry Stream</button>' +
     '</div></div>' +
     '<scr'+'ipt>setTimeout(function(){var f=document.getElementById("live-player-frame");if(f&&!window.__playerLoaded){try{var doc=f.contentDocument;if(!doc||doc.body.innerHTML.trim().length<50){showPlayerFallback();}}catch(e){/* cross-origin, assume loading */}}},15000);function showPlayerFallback(){var fb=document.getElementById("player-fallback");if(fb){fb.style.display="flex";}}</scr'+'ipt>'
   ) : (
-    '<div class="player-shell"><div style="position:absolute;inset:0;background:#0a0d10;color:#e8ecef;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px"><div style="font-size:48px;margin-bottom:16px">🏏</div><h3 style="color:#00E676;margin:0 0 12px">Live Streaming Returns Soon</h3><p style="color:#9aa4ad;max-width:420px;line-height:1.6">Channel streams are paused briefly while we complete a platform review. Live scores, schedules and match highlights continue as normal.</p><a href="/highlights/" data-link style="background:#00E676;color:#000;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:8px">Watch Highlights</a></div></div>'
+    '<div class="player-shell"><div style="position:absolute;inset:0;background:#0a0d10;color:#e8ecef;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px"><div style="font-size:48px;margin-bottom:16px">🏏</div><h3 style="color:#EE7B1E;margin:0 0 12px">Live Streaming Returns Soon</h3><p style="color:#9aa4ad;max-width:420px;line-height:1.6">Channel streams are paused briefly while we complete a platform review. Live scores, schedules and match highlights continue as normal.</p><a href="/highlights/" data-link style="background:#EE7B1E;color:#000;padding:12px 28px;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:8px">Watch Highlights</a></div></div>'
   );
   return '<main class="wrap page-anim">' +
     '<div class="watch-layout"><div>' +
@@ -1377,7 +1377,7 @@ function initGlobal() {
   document.addEventListener('submit', function (e) {
     if (e.target.id === 'newsForm') {
       e.preventDefault();
-      e.target.outerHTML = '<p class="foot-note" style="color:var(--green)">You are on the list — match alerts incoming.</p>';
+      e.target.outerHTML = '<p class="foot-note" style="color:var(--orange)">You are on the list — match alerts incoming.</p>';
     }
     if (e.target.id === 'contactForm') {
       e.preventDefault();

@@ -186,20 +186,27 @@ gtag('config', 'G-QDRH0R2GDW');
 <meta property="og:description" content="%(desc)s" />
 <meta property="og:url" content="%(url)s" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="theme-color" content="#080a0d" />
+<meta name="theme-color" content="#F7F6F2" />
 <script type="application/ld+json">
 %(webpage_json)s
 </script>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": %(faq_json)s}
 </script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/styles.css?v=20261016" />
 <style>
-:root{--bg:#080a0d;--card:#101418;--lime:#00E676;--text:#e8ecef;--muted:#9aa4ad}
-body{background:var(--bg);color:var(--text);font-family:system-ui,sans-serif;margin:0;padding:20px;max-width:800px;margin:0 auto}
-h1{color:var(--lime);font-size:2em;margin-bottom:20px}
-p{line-height:1.7;margin-bottom:16px;color:var(--text)}
-li{line-height:1.7;margin-bottom:10px}
-a{color:var(--lime)}
+:root{--bg:#F7F6F2;--surface:#FFFFFF;--border:#E8E3D6;--ink:#16213A;--muted:#6E7480;--orange:#EE7B1E;--orange-deep:#D1650F;--orange-soft:#FDF0E2}
+body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;margin:0;padding:20px;max-width:800px;margin:0 auto}
+h1{font-family:'Sora','Inter',system-ui,sans-serif;color:var(--ink);font-size:2em;margin-bottom:20px;padding-left:16px;border-left:6px solid var(--orange)}
+p{line-height:1.7;margin-bottom:16px;color:var(--ink)}
+ul{list-style:none;margin:0 0 20px 0;padding:0}
+li{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;line-height:1.7;margin-bottom:12px}
+li strong{color:var(--ink)}
+a{color:var(--orange-deep);font-weight:600}
+article>p:last-child{margin-top:24px}
 </style>
 </head>
 <body>
