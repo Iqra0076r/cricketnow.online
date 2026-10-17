@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-17T21:56:01.333008+00:00",
+  "updatedAt": "2026-10-17T23:43:05.648756+00:00",
   "items": [
     {
       "title": "Rew, 18, to captain England Lions in West Indies",
@@ -20,15 +20,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "India v West Indies - fifth T20 scorecard",
-      "description": "Latest scorecard from the fifth Twenty20 international between India and West Indies in Bengaluru.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237261?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237261#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bangladesh v Zimbabwe - ODI tri-series scorecard",
+      "title": "Zimbabwe beat Bangladesh by 99 runs - ODI tri-series scorecard",
       "description": "Latest scorecard from the one-day international tri-series match between Bangladesh and Zimbabwe in Abu Dhabi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244563?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 00:00:00 GMT",
@@ -64,7 +56,7 @@
       "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 12:35:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#0",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +88,7 @@
       "description": "Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 13:28:41 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o#2",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o#1",
       "source": "BBC Sport"
     },
     {
@@ -132,19 +124,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test cricket's biggest scandals - your results revealed",
-      "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years?",
       "description": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Oct 2026 10:24:39 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "ECB help would make women's Test a 'certainty' - West Indies",
+      "description": "West Indies are still hopeful of hosting England in a women's Test next year, but the fixture would be a \"certainty\" if the ECB were to help fund it, says chief executive Chris Dehring.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:21:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5ngdzen3qo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test cricket's biggest scandals - your results revealed",
+      "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:24:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#2",
       "source": "BBC Sport"
     },
     {
