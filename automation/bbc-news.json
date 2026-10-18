@@ -1,10 +1,10 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-18T08:27:28.915211+00:00",
+  "updatedAt": "2026-10-18T13:42:29.643300+00:00",
   "items": [
     {
-      "title": "South Africa bat first in second Test against Australia - scorecard",
+      "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
       "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 00:00:00 GMT",
@@ -44,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Hampshire & Scotland bowler Wheal retires",
+      "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 12:35:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Kent championship-winning bowler Brown dies aged 90",
       "description": "Former Kent championship-winning bowler and local non-league footballer Alan Brown dies aged 90.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo?at_medium=RSS&at_campaign=rss",
@@ -52,11 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Hampshire & Scotland bowler Wheal retires",
-      "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:35:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#1",
+      "title": "Crawley signs Kent extension after losing England deal",
+      "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 10:06:37 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#1",
       "source": "BBC Sport"
     },
     {
@@ -73,14 +81,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 12:13:04 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Crawley signs Kent extension after losing England deal",
-      "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 10:06:37 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#2",
       "source": "BBC Sport"
     },
     {
