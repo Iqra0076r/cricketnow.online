@@ -1,10 +1,18 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-18T13:42:29.643300+00:00",
+  "updatedAt": "2026-10-18T17:01:20.806148+00:00",
   "items": [
     {
-      "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
+      "title": "Pakistan close out win over Sri Lanka in tri-series - scorecard",
+      "description": "Scorecard from Pakistan's win over Sri Lanka in one-day international tri-series in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244081?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244081#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa 20-2 after rain spoils day one v Australia - scorecard",
       "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 00:00:00 GMT",
