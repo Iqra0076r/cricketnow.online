@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-19T16:43:33.549419+00:00",
+  "updatedAt": "2026-10-19T21:54:05.231406+00:00",
   "items": [
+    {
+      "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
+      "description": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 16:55:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Brook says he has 'learned a lot' from off-field issues",
       "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
@@ -20,15 +28,15 @@
       "source": "BBC Sport"
     },
     {
-      "title": "What are ECB central contracts and how do they work?",
-      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#0",
+      "title": "Young bowler Minto earns new Durham contract",
+      "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 15:53:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - ODI tri-series scorecard",
+      "title": "Afghanistan thrash Zimbabwe by 158 runs - ODI tri-series scorecard",
       "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Zimbabwe in Abu Dhabi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244564?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 00:00:00 GMT",
@@ -36,11 +44,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Young bowler Minto earns new Durham contract",
-      "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 15:53:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo#0",
+      "title": "What are ECB central contracts and how do they work?",
+      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#0",
       "source": "BBC Sport"
     },
     {
