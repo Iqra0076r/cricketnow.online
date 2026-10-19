@@ -1,22 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-19T02:41:22.860877+00:00",
+  "updatedAt": "2026-10-19T09:28:46.195578+00:00",
   "items": [
+    {
+      "title": "Start delayed on second day of South Africa-Australia Test - scorecard",
+      "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How one rule change is altering the face of one-day cricket",
+      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Pakistan close out win over Sri Lanka in tri-series - scorecard",
       "description": "Scorecard from Pakistan's win over Sri Lanka in one-day international tri-series in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244081?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244081#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "South Africa 20-2 after rain spoils day one v Australia - scorecard",
-      "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998#0",
       "source": "BBC Sport"
     },
     {
@@ -52,19 +60,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Hampshire & Scotland bowler Wheal retires",
-      "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:35:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Kent championship-winning bowler Brown dies aged 90",
       "description": "Former Kent championship-winning bowler and local non-league footballer Alan Brown dies aged 90.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 14:05:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Jersey impress in Uganda before Challenge League",
+      "description": "Jersey warm up for their ICC Challenge League A tournament in Kenya with two wins over Uganda 'A' in Entebbe.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 09:08:36 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Hampshire & Scotland bowler Wheal retires",
+      "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 12:35:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England include red-ball game in India tour as Ashes prep",
-      "description": "England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 12:13:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Veteran Derbyshire captain Madsen signs new deal",
       "description": "Derbyshire captain Wayne Madsen signs a one-year red-ball contract, taking him into a 19th season with the club.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c34g12ej4804o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 09:34:58 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c34g12ej4804o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England include red-ball game in India tour as Ashes prep",
+      "description": "England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 12:13:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego#2",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 05:19:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test cricket's biggest scandals - your results revealed",
-      "description": "See what BBC Sport readers voted as Test cricket's biggest scandals, together with contributions from the TMS team.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv4g176nr2g6o#2",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller",
-      "description": "Lies. Betrayal. Sacrifice. How far will you go to survive? Martin Scorsese's Oscar-winner",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC",
-      "published": "Tue, 06 Oct 2026 05:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
