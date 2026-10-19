@@ -1,14 +1,14 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-19T09:28:46.195578+00:00",
+  "updatedAt": "2026-10-19T16:43:33.549419+00:00",
   "items": [
     {
-      "title": "Start delayed on second day of South Africa-Australia Test - scorecard",
-      "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998#0",
+      "title": "Brook says he has 'learned a lot' from off-field issues",
+      "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 12:00:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#0",
       "source": "BBC Sport"
     },
     {
@@ -20,19 +20,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan close out win over Sri Lanka in tri-series - scorecard",
-      "description": "Scorecard from Pakistan's win over Sri Lanka in one-day international tri-series in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244081?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244081#0",
+      "title": "What are ECB central contracts and how do they work?",
+      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Zimbabwe beat Bangladesh by 99 runs - ODI tri-series scorecard",
-      "description": "Latest scorecard from the one-day international tri-series match between Bangladesh and Zimbabwe in Abu Dhabi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244563?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244563#0",
+      "title": "Afghanistan v Zimbabwe - ODI tri-series scorecard",
+      "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Zimbabwe in Abu Dhabi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244564?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244564#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Young bowler Minto earns new Durham contract",
+      "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 15:53:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo#0",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +56,7 @@
       "description": "England paceman Jofra Archer signs a one-year contract extension with Sussex.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 15:14:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "The England and Wales Cricket Board (ECB) abandons use of the Rooney Rule in hiring coaches for national teams, saying its recruitment has \"evolved\".",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmkge6y0wn0do?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 11:38:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmkge6y0wn0do#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmkge6y0wn0do#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 10:06:37 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "A senior South African cricket official pledges to order a review into the low crowd which attended the first Test against Australia in Durban.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 11:48:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o#2",
       "source": "BBC Sport"
     },
     {
@@ -132,22 +140,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pope pulls out of controversial Afghanistan T20 league",
-      "description": "England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 15:13:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "New rule, no change - has cricket missed a trick again with bad light?",
-      "description": "More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 05:19:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "Rob Key joins TMS to discuss all things England as central contracts are announced.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pg913z?at_medium=RSS&at_campaign=rss",
@@ -177,14 +169,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 09:28:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "England thrashed Sri Lanka at the Oval to finish the summer with a series victory.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pcrmpr?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 17:26:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pcrmpr#4",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +225,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Damilola Taylor's shocking murder revisited 26 years on",
+      "description": "John Boyega and childhood friends reveal new testimony about his killing and its aftermath",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0032lg7?at_mid=RknUGKJ6x5&at_campaign=Damilola_The_Untold_Story&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032lg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Damilola_The_Untold_Story&at_bbc_team=BBC",
+      "published": "Mon, 05 Oct 2026 05:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0032lg7?at_mid=RknUGKJ6x5&at_campaign=Damilola_The_Untold_Story&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032lg7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Damilola_The_Untold_Story&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
