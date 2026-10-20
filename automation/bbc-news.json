@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-19T21:54:05.231406+00:00",
+  "updatedAt": "2026-10-20T00:51:14.314387+00:00",
   "items": [
+    {
+      "title": "England coach should be English, suggests Fleming",
+      "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 23:29:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
       "description": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
@@ -17,6 +25,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 12:00:54 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Mark Chapman is joined by Phil Tufnell, Steven Finn and Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phk89b?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 21:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0phk89b#0",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 10:01:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,7 @@
       "description": "The elevation of teenager Thomas Rew to Lions captain is a further sign of the high regard he is held in by the England hierarchy and follows him being given his first senior call-up and central contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 10:33:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "Jersey warm up for their ICC Challenge League A tournament in Kenya with two wins over Uganda 'A' in Entebbe.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 09:08:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +112,7 @@
       "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 12:35:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#2",
       "source": "BBC Sport"
     },
     {
@@ -129,22 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 12:13:04 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bethell returns as England call up youngsters Jack and Rew",
-      "description": "Jacob Bethell will return for England's white-ball tour of Australia, while there are also first international call-ups for exciting prospects Thomas Rew and Eddie Jack.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 12:36:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Rusty or something more? South Africa's concern after Australia loss",
-      "description": "Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 13:28:41 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o#2",
       "source": "BBC Sport"
     },
     {
