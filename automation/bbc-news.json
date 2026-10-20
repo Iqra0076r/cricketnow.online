@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-20T18:13:39.308165+00:00",
+  "updatedAt": "2026-10-20T22:52:03.661181+00:00",
   "items": [
     {
       "title": "Sloppy England start winter with Pakistan defeat",
@@ -17,6 +17,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 16:27:39 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Henry Moeran is joined by Jonathan Agnew, Steven Finn and Alex Hartley.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0php8ly?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 17:03:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0php8ly#0",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +56,7 @@
       "description": "Mark Chapman is joined by Phil Tufnell, Steven Finn and Stephan Shemilt.",
       "link": "https://www.bbc.co.uk/sounds/play/p0phk89b?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 21:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0phk89b#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0phk89b#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "The elevation of teenager Thomas Rew to Lions captain is a further sign of the high regard he is held in by the England hierarchy and follows him being given his first senior call-up and central contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 10:33:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#2",
       "source": "BBC Sport"
     },
     {
