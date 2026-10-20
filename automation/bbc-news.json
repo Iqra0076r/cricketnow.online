@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-20T13:11:04.406897+00:00",
+  "updatedAt": "2026-10-20T18:13:39.308165+00:00",
   "items": [
+    {
+      "title": "Sloppy England start winter with Pakistan defeat",
+      "description": "England begin their wandering winter with a sloppy loss to Pakistan in the one-day tri-series in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 16:13:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bavuma epic drags SA back into Test - have they time to beat Australia?",
+      "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 16:27:39 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England coach should be English, suggests Fleming",
       "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
@@ -12,19 +28,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
-      "description": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 16:55:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo#0",
+      "title": "How one rule change is altering the face of one-day cricket",
+      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Brook says he has 'learned a lot' from off-field issues",
-      "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 12:00:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#0",
+      "title": "Sussex stalwart Kirtley leaves coaching role",
+      "description": "Sussex bowling coach James Kirtley will leave his job at the end of October after seven years in the role.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c689zd13d9wxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 11:21:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c689zd13d9wxo#0",
       "source": "BBC Sport"
     },
     {
@@ -36,11 +52,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "How one rule change is altering the face of one-day cricket",
-      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#1",
+      "title": "Brook says he has 'learned a lot' from off-field issues",
+      "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 12:00:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Kent paceman Milnes praises 'amazing' Hollioake",
+      "description": "Kent bowler Matt Milnes says an early-season pep talk from head coach Adam Hollioake inspired their promotion campaign.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 15:39:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +96,7 @@
       "description": "England paceman Jofra Archer signs a one-year contract extension with Sussex.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 15:14:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o#2",
       "source": "BBC Sport"
     },
     {
@@ -84,27 +108,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
+      "description": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 16:55:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Kent championship-winning bowler Brown dies aged 90",
       "description": "Former Kent championship-winning bowler and local non-league footballer Alan Brown dies aged 90.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 14:05:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Jersey impress in Uganda before Challenge League",
-      "description": "Jersey warm up for their ICC Challenge League A tournament in Kenya with two wins over Uganda 'A' in Entebbe.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 09:08:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hampshire & Scotland bowler Wheal retires",
-      "description": "Hampshire and Scotland seamer Brad Wheal has retired from professional cricket after a succession of injuries.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:35:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e828e48o#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 11:48:07 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England include red-ball game in India tour as Ashes prep",
-      "description": "England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 12:13:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego#2",
       "source": "BBC Sport"
     },
     {
