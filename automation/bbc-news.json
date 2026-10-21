@@ -1,22 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-21T14:47:29.386234+00:00",
+  "updatedAt": "2026-10-21T19:50:36.534002+00:00",
   "items": [
+    {
+      "title": "Anderson, 44, not offered new Lancashire contract",
+      "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 15:35:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
+      "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 19:46:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Why has Lord's dug up its pitch and what comes next?",
       "description": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 12:02:29 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Third time this century - how Australia's stark collapse unfolded",
-      "description": "Australia are forced to follow-on for only the third time in the past 38 years after being dismissed for 99 by South Africa on day four of the second Test in Gqeberha.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:21:12 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#0",
       "source": "BBC Sport"
     },
     {
@@ -36,19 +44,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Teenager Rew extends Somerset deal until end of 2029",
-      "description": "England teenager Thomas Rew signs a new deal with Somerset to keep him at the club until the end of the 2029 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:03:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "Henry Moeran is joined by Jonathan Agnew, Steven Finn and Alex Hartley.",
       "link": "https://www.bbc.co.uk/sounds/play/p0php8ly?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 17:03:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0php8ly#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Teenager Rew extends Somerset deal until end of 2029",
+      "description": "England teenager Thomas Rew signs a new deal with Somerset to keep him at the club until the end of the 2029 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 12:03:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 23:29:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#2",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 15:39:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Rew, 18, to captain England Lions in West Indies",
-      "description": "The elevation of teenager Thomas Rew to Lions captain is a further sign of the high regard he is held in by the England hierarchy and follows him being given his first senior call-up and central contract.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 10:33:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#2",
       "source": "BBC Sport"
     },
     {
