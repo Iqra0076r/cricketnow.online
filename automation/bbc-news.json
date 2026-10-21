@@ -1,22 +1,46 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-21T09:01:38.675440+00:00",
+  "updatedAt": "2026-10-21T14:47:29.386234+00:00",
   "items": [
     {
-      "title": "Sloppy England start winter with Pakistan defeat",
-      "description": "England begin their wandering winter with a sloppy loss to Pakistan in the one-day tri-series in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:13:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o#0",
+      "title": "Why has Lord's dug up its pitch and what comes next?",
+      "description": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 12:02:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Bavuma epic drags SA back into Test - have they time to beat Australia?",
-      "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:27:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o#0",
+      "title": "Third time this century - how Australia's stark collapse unfolded",
+      "description": "Australia are forced to follow-on for only the third time in the past 38 years after being dismissed for 99 by South Africa on day four of the second Test in Gqeberha.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 12:21:12 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Bangladesh - ODI tri-series scorecard",
+      "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Bangladesh in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Overton would consider Ashes return if Root asks",
+      "description": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 11:46:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Teenager Rew extends Somerset deal until end of 2029",
+      "description": "England teenager Thomas Rew signs a new deal with Somerset to keep him at the club until the end of the 2029 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 12:03:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro#0",
       "source": "BBC Sport"
     },
     {
@@ -28,11 +52,35 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Sloppy England start winter with Pakistan defeat",
+      "description": "England begin their wandering winter with a sloppy loss to Pakistan in the one-day tri-series in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 16:13:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Essex sign wicketkeeper Bell from Lancashire",
+      "description": "Essex sign wicketkeeper George Bell from Lancashire on a permanent deal after a productive loan spell last season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 12:36:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bavuma epic drags SA back into Test - have they time to beat Australia?",
+      "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 16:27:39 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Injury setbacks fuel Neill's hunger for Namibia tour",
       "description": "Ireland bowling all-rounder Jordan Neill feels past injury setbacks have made him \"hungrier to come back harder\" for the upcoming one-day series in Namibia.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 07:27:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko#1",
       "source": "BBC Sport"
     },
     {
@@ -40,23 +88,7 @@
       "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 23:29:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sussex stalwart Kirtley leaves coaching role",
-      "description": "Sussex bowling coach James Kirtley will leave his job at the end of October after seven years in the role.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c689zd13d9wxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 11:21:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c689zd13d9wxo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Mark Chapman is joined by Phil Tufnell, Steven Finn and Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0phk89b?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 21:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0phk89b#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#1",
       "source": "BBC Sport"
     },
     {
@@ -64,7 +96,15 @@
       "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 05:27:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Tribe aims to help Jersey despite England ambitions",
+      "description": "Asa Tribe says he is \"absolutely delighted\" to be returning to boost Jersey's Cricket World Cup hopes despite his goal to play for England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx2vpyxp4pvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 10:33:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqx2vpyxp4pvo#2",
       "source": "BBC Sport"
     },
     {
@@ -72,15 +112,7 @@
       "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 12:00:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent paceman Milnes praises 'amazing' Hollioake",
-      "description": "Kent bowler Matt Milnes says an early-season pep talk from head coach Adam Hollioake inspired their promotion campaign.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 15:39:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +120,15 @@
       "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 10:01:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Kent paceman Milnes praises 'amazing' Hollioake",
+      "description": "Kent bowler Matt Milnes says an early-season pep talk from head coach Adam Hollioake inspired their promotion campaign.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 15:39:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o#2",
       "source": "BBC Sport"
     },
     {
@@ -100,51 +140,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Young bowler Minto earns new Durham contract",
-      "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 15:53:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England bowler Archer signs new Sussex deal",
-      "description": "England paceman Jofra Archer signs a one-year contract extension with Sussex.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 15:14:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xlv5xvz7o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "ECB abandons Rooney Rule for coach recruitment",
-      "description": "The England and Wales Cricket Board (ECB) abandons use of the Rooney Rule in hiring coaches for national teams, saying its recruitment has \"evolved\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmkge6y0wn0do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 11:38:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmkge6y0wn0do#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
-      "description": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 16:55:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent championship-winning bowler Brown dies aged 90",
-      "description": "Former Kent championship-winning bowler and local non-league footballer Alan Brown dies aged 90.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 14:05:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr86zgpgqjleo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Crawley signs Kent extension after losing England deal",
-      "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 10:06:37 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#2",
+      "title": "Test Match Special Podcast",
+      "description": "Mark Chapman is joined by Phil Tufnell, Steven Finn and Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phk89b?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 21:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0phk89b#2",
       "source": "BBC Sport"
     },
     {
