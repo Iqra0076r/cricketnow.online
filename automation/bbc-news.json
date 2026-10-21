@@ -1,22 +1,22 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-21T19:50:36.534002+00:00",
+  "updatedAt": "2026-10-21T22:56:29.762692+00:00",
   "items": [
-    {
-      "title": "Anderson, 44, not offered new Lancashire contract",
-      "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 15:35:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko#0",
-      "source": "BBC Sport"
-    },
     {
       "title": "'Playing for their careers' - Australia reeling after extraordinary day",
       "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 19:46:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Anderson, 44, not offered new Lancashire contract",
+      "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 15:35:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko#0",
       "source": "BBC Sport"
     },
     {
@@ -28,7 +28,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Bangladesh - ODI tri-series scorecard",
+      "title": "Afghanistan cruise past Bangladesh in ODI tri-series - scorecard",
       "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Bangladesh in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 00:00:00 GMT",
