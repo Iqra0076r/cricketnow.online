@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-21T02:47:19.467837+00:00",
+  "updatedAt": "2026-10-21T09:01:38.675440+00:00",
   "items": [
     {
       "title": "Sloppy England start winter with Pakistan defeat",
@@ -28,19 +28,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Injury setbacks fuel Neill's hunger for Namibia tour",
+      "description": "Ireland bowling all-rounder Jordan Neill feels past injury setbacks have made him \"hungrier to come back harder\" for the upcoming one-day series in Namibia.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 07:27:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "England coach should be English, suggests Fleming",
       "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 23:29:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "How one rule change is altering the face of one-day cricket",
-      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#0",
       "source": "BBC Sport"
     },
     {
@@ -60,6 +60,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "How one rule change is altering the face of one-day cricket",
+      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Brook says he has 'learned a lot' from off-field issues",
       "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
@@ -76,14 +84,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Young bowler Minto earns new Durham contract",
-      "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 15:53:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "What are ECB central contracts and how do they work?",
       "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
@@ -97,6 +97,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 10:33:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjn5vk4qe6g1o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Young bowler Minto earns new Durham contract",
+      "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 15:53:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 10:06:37 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "SA chief pledges review over 'disappointing' Test crowds",
-      "description": "A senior South African cricket official pledges to order a review into the low crowd which attended the first Test against Australia in Durban.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:48:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o#2",
       "source": "BBC Sport"
     },
     {
