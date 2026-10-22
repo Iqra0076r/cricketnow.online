@@ -1,22 +1,78 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-22T09:03:59.615154+00:00",
+  "updatedAt": "2026-10-22T14:47:36.256306+00:00",
   "items": [
     {
-      "title": "New Zealand v India - first T20 scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between New Zealand and India in Christchurch.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108#0",
+      "title": "South Africa complete famous win over Australia",
+      "description": "South Africa break Australia's resistance in the final session a complete a famous victory in the second Test and set up a series decider in Cape Town.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 14:13:08 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
-      "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 19:46:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#0",
+      "title": "The numbers behind Brook's record-breaking 202 for England",
+      "description": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:15:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Futuristic eco cricket ground in Spain eyes Test match",
+      "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:12:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Namibia v Ireland - first ODI scorecard",
+      "description": "Latest scorecard from the first one-day international between Namibia and Ireland in Windhoek.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244984?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244984#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stumped",
+      "description": "Test coach Stephen Fleming has suggested England should have an English coach.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Essex sign batter Evans from Surrey",
+      "description": "Essex sign experienced batter Laurie Evans from Surrey on a one-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:38:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction to the news that Lancashire won't be offering Jimmy Anderson a new contract.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 13:20:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Dhir leads India to victory over NZ - first T20 scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between New Zealand and India in Christchurch.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Jersey ensure World Cup progress after PNG win",
+      "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 13:33:28 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no#1",
       "source": "BBC Sport"
     },
     {
@@ -24,7 +80,23 @@
       "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 15:35:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Northants paceman Weatherall signs deal until 2028",
+      "description": "Northamptonshire fast bowler Raphy Weatherall signs a contract extension until the end of the 2028 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 11:11:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
+      "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 19:46:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#2",
       "source": "BBC Sport"
     },
     {
@@ -32,7 +104,7 @@
       "description": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 12:02:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo#2",
       "source": "BBC Sport"
     },
     {
@@ -40,31 +112,23 @@
       "description": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 11:46:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo#2",
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan cruise past Bangladesh in ODI tri-series - scorecard",
-      "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Bangladesh in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565#1",
+      "title": "Glamorgan sign bowling all-rounder Mike",
+      "description": "Glamorgan bring in bowling all-rounder Ben Mike from Leicestershire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93k8392d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 10:38:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93k8392d3o#2",
       "source": "BBC Sport"
     },
     {
-      "title": "Teenager Rew extends Somerset deal until end of 2029",
-      "description": "England teenager Thomas Rew signs a new deal with Somerset to keep him at the club until the end of the 2029 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:03:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sloppy England start winter with Pakistan defeat",
-      "description": "England begin their wandering winter with a sloppy loss to Pakistan in the one-day tri-series in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:13:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c962ylv3l334o#1",
+      "title": "Lord Botham 'proud' of leukaemia fundraising walks",
+      "description": "The all-rounder cricket player raised more than £12m for leukaemia research from several challenges.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28yk77659o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 14:30:56 GMT",
+      "guid": "https://www.bbc.co.uk/news/articles/cmx28yk77659o#2",
       "source": "BBC Sport"
     },
     {
@@ -72,71 +136,15 @@
       "description": "Essex sign wicketkeeper George Bell from Lancashire on a permanent deal after a productive loan spell last season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 12:36:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo#2",
       "source": "BBC Sport"
     },
     {
-      "title": "Bavuma epic drags SA back into Test - have they time to beat Australia?",
-      "description": "Captain Temba Bavuma drags South Africa back into their Test series against Australia but did his side bat on too long on day three?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:27:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England coach should be English, suggests Fleming",
-      "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 23:29:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Injury setbacks fuel Neill's hunger for Namibia tour",
-      "description": "Ireland bowling all-rounder Jordan Neill feels past injury setbacks have made him \"hungrier to come back harder\" for the upcoming one-day series in Namibia.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 07:27:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "How one rule change is altering the face of one-day cricket",
-      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Tribe aims to help Jersey despite England ambitions",
-      "description": "Asa Tribe says he is \"absolutely delighted\" to be returning to boost Jersey's Cricket World Cup hopes despite his goal to play for England.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx2vpyxp4pvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:33:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqx2vpyxp4pvo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Brook says he has 'learned a lot' from off-field issues",
-      "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 12:00:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "What are ECB central contracts and how do they work?",
-      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent paceman Milnes praises 'amazing' Hollioake",
-      "description": "Kent bowler Matt Milnes says an early-season pep talk from head coach Adam Hollioake inspired their promotion campaign.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 15:39:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o#2",
+      "title": "Teenager Rew extends Somerset deal until end of 2029",
+      "description": "England teenager Thomas Rew signs a new deal with Somerset to keep him at the club until the end of the 2029 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 12:03:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro#2",
       "source": "BBC Sport"
     },
     {
@@ -172,6 +180,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "What are ECB central contracts and how do they work?",
+      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#6",
+      "source": "BBC Sport"
+    },
+    {
       "title": "When is England's tour of Bangladesh this winter?",
       "description": "BBC Sport's Ask Me Anything team looks into England's upcoming two-Test series in Bangladesh",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o?at_medium=RSS&at_campaign=rss",
@@ -201,14 +217,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Jan 2026 15:44:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "What are the substitute rules in the County Championship?",
-      "description": "BBC Sport's Ask Me Anything team explains what the rules are on substitutes in the County Championship",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ceq87yp3nyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 14:12:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ceq87yp3nyxo#6",
       "source": "BBC Sport"
     },
     {
