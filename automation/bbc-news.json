@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-22T02:45:53.895901+00:00",
+  "updatedAt": "2026-10-22T09:03:59.615154+00:00",
   "items": [
+    {
+      "title": "New Zealand v India - first T20 scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between New Zealand and India in Christchurch.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'Playing for their careers' - Australia reeling after extraordinary day",
       "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
@@ -28,14 +36,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan cruise past Bangladesh in ODI tri-series - scorecard",
-      "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Bangladesh in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Overton would consider Ashes return if Root asks",
       "description": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo?at_medium=RSS&at_campaign=rss",
@@ -44,11 +44,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Henry Moeran is joined by Jonathan Agnew, Steven Finn and Alex Hartley.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0php8ly?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 17:03:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0php8ly#0",
+      "title": "Afghanistan cruise past Bangladesh in ODI tri-series - scorecard",
+      "description": "Latest scorecard from the one-day international tri-series match between Afghanistan and Bangladesh in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244565#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +84,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Injury setbacks fuel Neill's hunger for Namibia tour",
-      "description": "Ireland bowling all-rounder Jordan Neill feels past injury setbacks have made him \"hungrier to come back harder\" for the upcoming one-day series in Namibia.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 07:27:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "England coach should be English, suggests Fleming",
       "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 23:29:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Injury setbacks fuel Neill's hunger for Namibia tour",
+      "description": "Ireland bowling all-rounder Jordan Neill feels past injury setbacks have made him \"hungrier to come back harder\" for the upcoming one-day series in Namibia.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 07:27:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c680zgjx4npko#2",
       "source": "BBC Sport"
     },
     {
@@ -141,10 +141,10 @@
     },
     {
       "title": "Test Match Special Podcast",
-      "description": "Mark Chapman is joined by Phil Tufnell, Steven Finn and Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0phk89b?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 21:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0phk89b#2",
+      "description": "Henry Moeran is joined by Jonathan Agnew, Steven Finn and Alex Hartley.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0php8ly?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 17:03:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0php8ly#4",
       "source": "BBC Sport"
     },
     {
