@@ -1,22 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-22T14:47:36.256306+00:00",
+  "updatedAt": "2026-10-22T19:40:04.347824+00:00",
   "items": [
     {
-      "title": "South Africa complete famous win over Australia",
-      "description": "South Africa break Australia's resistance in the final session a complete a famous victory in the second Test and set up a series decider in Cape Town.",
+      "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+      "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:52:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "What next for Australia after chastening defeat by South Africa?",
+      "description": "Problems mounting up for Australia after their humbling against South Africa in second Test.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 14:13:08 GMT",
+      "published": "Thu, 22 Oct 2026 17:25:22 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "The numbers behind Brook's record-breaking 202 for England",
-      "description": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.",
+      "title": "Sri Lanka make 430 to beat England after Brook's 202",
+      "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 12:15:29 GMT",
+      "published": "Thu, 22 Oct 2026 17:31:42 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stirling's 56 leads Ireland to win in Namibia",
+      "description": "Ireland begin their five-game one-day international series in Namibia with a comfortable 55-run win.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 15:40:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo#0",
       "source": "BBC Sport"
     },
     {
@@ -28,27 +44,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Namibia v Ireland - first ODI scorecard",
-      "description": "Latest scorecard from the first one-day international between Namibia and Ireland in Windhoek.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244984?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244984#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped",
-      "description": "Test coach Stephen Fleming has suggested England should have an English coach.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 12:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Essex sign batter Evans from Surrey",
-      "description": "Essex sign experienced batter Laurie Evans from Surrey on a one-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 10:38:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko#0",
+      "title": "England beaten in record-breaking thriller",
+      "description": "Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:08:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#0",
       "source": "BBC Sport"
     },
     {
@@ -100,6 +100,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Essex sign batter Evans from Surrey",
+      "description": "Essex sign experienced batter Laurie Evans from Surrey on a one-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:38:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Why has Lord's dug up its pitch and what comes next?",
       "description": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
@@ -140,11 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Teenager Rew extends Somerset deal until end of 2029",
-      "description": "England teenager Thomas Rew signs a new deal with Somerset to keep him at the club until the end of the 2029 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:03:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jdm0l31zxro#2",
+      "title": "Stumped",
+      "description": "Test coach Stephen Fleming has suggested England should have an English coach.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#4",
       "source": "BBC Sport"
     },
     {
@@ -169,14 +177,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pf1t97?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 10:54:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pf1t97#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Stephan Shemilt speaks to winners and guests at the end of season celebration",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pdc4nd?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:28:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pdc4nd#4",
       "source": "BBC Sport"
     },
     {
