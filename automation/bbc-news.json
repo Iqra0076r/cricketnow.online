@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-22T19:40:04.347824+00:00",
+  "updatedAt": "2026-10-22T22:54:04.580074+00:00",
   "items": [
     {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:52:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Counties interested in Anderson after Lancs exit",
+      "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 21:47:51 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro#0",
       "source": "BBC Sport"
     },
     {
@@ -36,14 +44,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Futuristic eco cricket ground in Spain eyes Test match",
-      "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 10:12:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "England beaten in record-breaking thriller",
       "description": "Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
       "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
@@ -60,6 +60,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Futuristic eco cricket ground in Spain eyes Test match",
+      "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:12:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Dhir leads India to victory over NZ - first T20 scorecard",
       "description": "Latest scorecard from the first Twenty20 international between New Zealand and India in Christchurch.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108?at_medium=RSS&at_campaign=rss",
@@ -73,14 +81,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 13:33:28 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson, 44, not offered new Lancashire contract",
-      "description": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 15:35:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko#1",
       "source": "BBC Sport"
     },
     {
