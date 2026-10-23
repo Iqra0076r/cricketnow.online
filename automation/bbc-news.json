@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-23T08:58:49.357532+00:00",
+  "updatedAt": "2026-10-23T14:34:00.953383+00:00",
   "items": [
     {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
@@ -21,7 +21,7 @@
     },
     {
       "title": "What next for Australia after chastening defeat by South Africa?",
-      "description": "Problems mounting up for Australia after their humbling against South Africa in second Test.",
+      "description": "Problems are mounting up for Australia after their second-Test humbling by South Africa - so how do they get back on track?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:25:22 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#0",
@@ -36,11 +36,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Afghanistan v Zimbabwe - ODI tri-series final scorecard",
+      "description": "Latest scorecard from the final of the one-day international tri-series in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244566?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244566#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ahmed signs Gloucestershire contract extension",
+      "description": "Gloucestershire's Daaryoush 'Daz' Ahmed extends his contract with the club until the end of 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 11:51:49 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Stirling's 56 leads Ireland to win in Namibia",
       "description": "Ireland begin their five-game one-day international series in Namibia with a comfortable 55-run win.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 15:40:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
       "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:08:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#1",
       "source": "BBC Sport"
     },
     {
@@ -68,14 +84,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Dhir leads India to victory over NZ - first T20 scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between New Zealand and India in Christchurch.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242108#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Jersey ensure World Cup progress after PNG win",
       "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
@@ -88,7 +96,7 @@
       "description": "Northamptonshire fast bowler Raphy Weatherall signs a contract extension until the end of the 2028 season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 11:11:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmx28yk77659o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 14:30:56 GMT",
       "guid": "https://www.bbc.co.uk/news/articles/cmx28yk77659o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Essex sign wicketkeeper Bell from Lancashire",
-      "description": "Essex sign wicketkeeper George Bell from Lancashire on a permanent deal after a productive loan spell last season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:36:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo#2",
       "source": "BBC Sport"
     },
     {
@@ -233,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
+      "description": "Every wave has a story. Experience the stories waiting beneath the surface",
+      "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
+      "published": "Fri, 08 May 2026 21:02:30 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
