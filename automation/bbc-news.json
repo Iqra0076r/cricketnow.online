@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-24T08:32:17.776782+00:00",
+  "updatedAt": "2026-10-24T13:45:38.214762+00:00",
   "items": [
     {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
@@ -12,7 +12,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "New Zealand v India - second T20 scorecard",
+      "title": "Tilak helps India edge past NZ - second T20 scorecard",
       "description": "Latest scorecard as New Zealand face India in the second Twenty20 International at Hagley Oval, Christchurch.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242109?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -44,7 +44,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - ODI tri-series final scorecard",
+      "title": "Afghanistan beat Zimbabwe in ODI tri-series final - scorecard",
       "description": "Latest scorecard from the final of the one-day international tri-series in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244566?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 00:00:00 GMT",
@@ -158,9 +158,9 @@
     {
       "title": "Stumped",
       "description": "Test coach Stephen Fleming has suggested England should have an English coach.",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 12:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa#4",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#4",
       "source": "BBC Sport"
     },
     {
