@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-24T13:45:38.214762+00:00",
+  "updatedAt": "2026-10-24T17:07:55.668046+00:00",
   "items": [
     {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
@@ -20,11 +20,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Namibia v Ireland - second ODI scorecard",
-      "description": "Latest scorecard as Namibia face Ireland in the second one-day international at FNB Namibia Cricket Ground, Windhoek.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244985?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244985#0",
+      "title": "Erasmus' 156 not out helps Namibia defeat Ireland",
+      "description": "An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 16:16:36 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko#0",
       "source": "BBC Sport"
     },
     {
