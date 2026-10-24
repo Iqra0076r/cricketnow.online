@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-24T02:46:35.184483+00:00",
+  "updatedAt": "2026-10-24T08:32:17.776782+00:00",
   "items": [
     {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
@@ -9,6 +9,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:52:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - second T20 scorecard",
+      "description": "Latest scorecard as New Zealand face India in the second Twenty20 International at Hagley Oval, Christchurch.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242109?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242109#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Namibia v Ireland - second ODI scorecard",
+      "description": "Latest scorecard as Namibia face Ireland in the second one-day international at FNB Namibia Cricket Ground, Windhoek.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244985?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244985#0",
       "source": "BBC Sport"
     },
     {
@@ -36,14 +52,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Sri Lanka make 430 to beat England after Brook's 202",
-      "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:31:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Ahmed signs Gloucestershire contract extension",
       "description": "Gloucestershire's Daaryoush 'Daz' Ahmed extends his contract with the club until the end of 2027.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
@@ -52,11 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stirling's 56 leads Ireland to win in Namibia",
-      "description": "Ireland begin their five-game one-day international series in Namibia with a comfortable 55-run win.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 15:40:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo#1",
+      "title": "Sri Lanka make 430 to beat England after Brook's 202",
+      "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:31:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#1",
       "source": "BBC Sport"
     },
     {
@@ -65,6 +73,14 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:08:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stirling's 56 leads Ireland to win in Namibia",
+      "description": "Ireland begin their five-game one-day international series in Namibia with a comfortable 55-run win.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 15:40:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 13:33:28 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no#2",
       "source": "BBC Sport"
     },
     {
@@ -140,19 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Lord Botham 'proud' of leukaemia fundraising walks",
-      "description": "The all-rounder cricket player raised more than £12m for leukaemia research from several challenges.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28yk77659o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 14:30:56 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/cmx28yk77659o#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Stumped",
       "description": "Test coach Stephen Fleming has suggested England should have an English coach.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 12:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#4",
+      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_east_africa#4",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-      "description": "A celebration of Sir David's groundbreaking career broadcast from the Royal Albert Hall.",
-      "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
-      "published": "Fri, 08 May 2026 21:02:30 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
