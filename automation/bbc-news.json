@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-25T08:51:39.934178+00:00",
+  "updatedAt": "2026-10-25T14:02:28.681520+00:00",
   "items": [
+    {
+      "title": "Anderson stops short of retiring after Lancs exit",
+      "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 12:03:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
       "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
@@ -44,14 +52,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Ahmed signs Gloucestershire contract extension",
-      "description": "Gloucestershire's Daaryoush 'Daz' Ahmed extends his contract with the club until the end of 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:51:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Sri Lanka make 430 to beat England after Brook's 202",
       "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
@@ -65,6 +65,14 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:08:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ahmed signs Gloucestershire contract extension",
+      "description": "Gloucestershire's Daaryoush 'Daz' Ahmed extends his contract with the club until the end of 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 11:51:49 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#1",
       "source": "BBC Sport"
     },
     {
@@ -84,14 +92,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Futuristic eco cricket ground in Spain eyes Test match",
-      "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 10:12:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Jersey ensure World Cup progress after PNG win",
       "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
@@ -100,11 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Northants paceman Weatherall signs deal until 2028",
-      "description": "Northamptonshire fast bowler Raphy Weatherall signs a contract extension until the end of the 2028 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 11:11:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o#2",
+      "title": "Futuristic eco cricket ground in Spain eyes Test match",
+      "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:12:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#2",
       "source": "BBC Sport"
     },
     {
