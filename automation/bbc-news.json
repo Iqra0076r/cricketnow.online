@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-25T14:02:28.681520+00:00",
+  "updatedAt": "2026-10-25T18:39:13.648744+00:00",
   "items": [
+    {
+      "title": "England lose to Pakistan after improbable last-wicket stand",
+      "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 16:34:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Anderson stops short of retiring after Lancs exit",
       "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 12:03:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 17:39:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#0",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +56,7 @@
       "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 21:47:51 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Problems are mounting up for Australia after their second-Test humbling by South Africa - so how do they get back on track?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:25:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#1",
       "source": "BBC Sport"
     },
     {
@@ -57,14 +73,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:31:42 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England beaten in record-breaking thriller",
-      "description": "Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:08:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +92,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to the news that Lancashire won't be offering Jimmy Anderson a new contract.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 13:20:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Jersey ensure World Cup progress after PNG win",
       "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 13:33:28 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction to the news that Lancashire won't be offering Jimmy Anderson a new contract.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 13:20:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#2",
       "source": "BBC Sport"
     },
     {
@@ -140,11 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Glamorgan sign bowling all-rounder Mike",
-      "description": "Glamorgan bring in bowling all-rounder Ben Mike from Leicestershire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93k8392d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:38:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93k8392d3o#2",
+      "title": "England beaten in record-breaking thriller",
+      "description": "Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:08:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#4",
       "source": "BBC Sport"
     },
     {
@@ -153,14 +161,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 12:53:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Henry Moeran is joined by Jonathan Agnew, Steven Finn and Alex Hartley.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0php8ly?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 17:03:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0php8ly#4",
       "source": "BBC Sport"
     },
     {
