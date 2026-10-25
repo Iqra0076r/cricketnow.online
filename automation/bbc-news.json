@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-25T18:39:13.648744+00:00",
+  "updatedAt": "2026-10-25T22:12:38.010917+00:00",
   "items": [
     {
       "title": "England lose to Pakistan after improbable last-wicket stand",
@@ -52,6 +52,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Hose signs new three-year Worcestershire contract",
+      "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 18:54:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Counties interested in Anderson after Lancs exit",
       "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
@@ -81,14 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 11:51:49 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stirling's 56 leads Ireland to win in Namibia",
-      "description": "Ireland begin their five-game one-day international series in Namibia with a comfortable 55-run win.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 15:40:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxnv0e69ezrzo#1",
       "source": "BBC Sport"
     },
     {
