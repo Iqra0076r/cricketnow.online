@@ -1,15 +1,25 @@
 {
   "version": 2,
-  "date": "2026-10-16",
+  "date": "2026-10-26",
   "timezone": "Asia/Karachi",
-  "updatedAt": "2026-10-16T05:59:41.820882+05:00",
-  "liveMatch": null,
+  "updatedAt": "2026-10-26T11:54:23.409890+05:00",
+  "liveMatch": {
+    "teams": "Sikkim vs Nagaland",
+    "competition": "Ranji Trophy",
+    "time": "LIVE NOW",
+    "venue": "SICA ground, Rangpo",
+    "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+    "tv_channels": [
+      "TBD — check official broadcaster"
+    ],
+    "captains": null
+  },
   "upcomingMatch": {
-    "teams": "Australian Capital Territory Women vs Brisbane Heat Women",
-    "competition": "T20 Spring Challenge",
-    "time": "Today · 8:30 AM",
-    "venue": "Raby Oval No 1, Sydney",
-    "image": "/media/match-graphics/tapmad-bg-action.jpg",
+    "teams": "Biratnagar Kings (NPL) vs Chitwan Rhinos (NPL)",
+    "competition": "Nepal Premier League",
+    "time": "Tomorrow · 11:45 AM",
+    "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+    "image": "/media/match-graphics/tapmad-bg-ball.jpg",
     "tv_channels": [
       "TBD — check official broadcaster"
     ],
@@ -17,98 +27,10 @@
   },
   "matches": [
     {
-      "teams": "Australian Capital Territory Women vs Brisbane Heat Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Today · 8:30 AM",
-      "venue": "Raby Oval No 1, Sydney",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Bangladesh Women Under-19s vs Sri Lanka Women Under-19s",
-      "competition": "Pakistan Women's Under-19s T20 Tri-Series 2026/27",
-      "time": "Today · 10:00 AM",
-      "venue": "Iqbal Stadium, Faisalabad",
-      "image": "/media/match-graphics/banwu19-vs-slwu19-tapmad.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Romania Women vs Bulgaria Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Today · 12:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Limpopo vs Border",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Today · 4:00 PM",
-      "venue": "Cricket Club Ground, Polokwane",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "South Western Districts vs Warriors",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Today · 4:00 PM",
-      "venue": "Recreation Ground, Oudtshoorn",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Austria Women vs Bulgaria Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Today · 4:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "India Women vs Zimbabwe Women",
-      "competition": "Zimbabwe Women tour of India 2026/27",
-      "time": "Today · 6:30 PM",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Hobart Hurricanes Women vs Perth Scorchers Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Tomorrow · 4:00 AM",
-      "venue": "Blacktown International Sportspark, Sydney",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Sydney Thunder Women vs Melbourne Renegades Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Tomorrow · 4:00 AM",
-      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
+      "teams": "Sikkim vs Nagaland",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "SICA ground, Rangpo",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -116,21 +38,10 @@
       "captains": null
     },
     {
-      "teams": "Australian Capital Territory Women vs Melbourne Stars Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Tomorrow · 8:30 AM",
-      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Sydney Sixers Women vs Adelaide Strikers Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Tomorrow · 8:30 AM",
-      "venue": "Blacktown International Sportspark, Sydney",
+      "teams": "Jharkhand vs Delhi",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "JSCA International Stadium Complex, Ranchi",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -138,21 +49,10 @@
       "captains": null
     },
     {
-      "teams": "Romania Women vs Austria Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Tomorrow · 12:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Romania Women vs Sweden Women",
-      "competition": "ECA Women's European Cup 2026/27",
-      "time": "Tomorrow · 4:00 PM",
-      "venue": "Moara Vlasiei Cricket Ground",
+      "teams": "Odisha vs Services",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "KIIT Stadium, Bhubaneswar",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -160,10 +60,21 @@
       "captains": null
     },
     {
-      "teams": "Boland vs Mpumalanga",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Tomorrow · 9:00 PM",
-      "venue": "Boland Park, Paarl",
+      "teams": "Baroda vs Jammu & Kashmir",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Reliance Stadium, Vadodara",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Chandigarh vs Himachal Pradesh",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Sector 16 Stadium, Chandigarh",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -171,43 +82,10 @@
       "captains": null
     },
     {
-      "teams": "Hobart Hurricanes Women vs Melbourne Renegades Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Sun 18 Oct · 4:00 AM",
-      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Adelaide Strikers Women vs Brisbane Heat Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Sun 18 Oct · 8:30 AM",
-      "venue": "Blacktown Olympic Park No 2 Oval, Sydney",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Sydney Thunder Women vs Perth Scorchers Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Sun 18 Oct · 8:30 AM",
-      "venue": "Blacktown International Sportspark, Sydney",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Sydney Sixers Women vs Melbourne Stars Women",
-      "competition": "T20 Spring Challenge",
-      "time": "Sun 18 Oct · 1:00 PM",
-      "venue": "Blacktown International Sportspark, Sydney",
+      "teams": "Chhattisgarh vs Andhra",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Andhra Cricket Assocition Grounds, Mulapadu",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -215,10 +93,21 @@
       "captains": null
     },
     {
-      "teams": "Lions vs Northern Cape",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Sun 18 Oct · 4:00 PM",
-      "venue": "The Wanderers Stadium, Johannesburg",
+      "teams": "Hyderabad (India) vs Punjab",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Gymkhana Ground, Secunderabad",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Karnataka vs Tripura",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
       "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -226,10 +115,10 @@
       "captains": null
     },
     {
-      "teams": "South Africa Emerging Players vs Knights",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Sun 18 Oct · 4:00 PM",
-      "venue": "LC de Villiers Oval, Pretoria",
+      "teams": "Kerala vs Bengal",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "KCA Cricket Ground, Mangalapuram",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -237,10 +126,10 @@
       "captains": null
     },
     {
-      "teams": "India Women vs Zimbabwe Women",
-      "competition": "Zimbabwe Women tour of India 2026/27",
-      "time": "Sun 18 Oct · 6:30 PM",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "teams": "Madhya Pradesh vs Bihar",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Holkar Cricket Stadium, Indore",
       "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -248,43 +137,10 @@
       "captains": null
     },
     {
-      "teams": "India Women vs Zimbabwe Women",
-      "competition": "Zimbabwe Women tour of India 2026/27",
-      "time": "Tue 20 Oct · 6:30 PM",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Dolphins vs Warriors",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Tue 20 Oct · 9:00 PM",
-      "venue": "Kingsmead, Durban",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Northern Cape vs South Western Districts",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Wed 21 Oct · 4:00 PM",
-      "venue": "Diamond Oval, Kimberley",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "North West vs Limpopo",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Wed 21 Oct · 9:00 PM",
-      "venue": "Senwes Park, Potchefstroom",
+      "teams": "Maharashtra vs Gujarat",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Maharashtra Cricket Association Stadium, Pune",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -292,10 +148,10 @@
       "captains": null
     },
     {
-      "teams": "Mpumalanga vs South Africa Emerging Players",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Thu 22 Oct · 4:00 PM",
-      "venue": "Uplands College, White River",
+      "teams": "Manipur vs Arunachal Pradesh",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Narenda Modi Stadium B Ground, Motera, Ahmedabad",
       "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
@@ -303,11 +159,198 @@
       "captains": null
     },
     {
-      "teams": "Easterns vs KwaZulu-Natal Inland",
-      "competition": "South Africa Domestic T20/Pro20",
-      "time": "Thu 22 Oct · 9:00 PM",
-      "venue": "Willowmoore Park, Benoni",
+      "teams": "Mizoram vs Meghalaya",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mumbai vs Haryana",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Puducherry vs Uttar Pradesh",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Saurashtra vs Assam",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Niranjan Shah Stadium, Rajkot",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Tamil Nadu vs Railways",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Uttarakhand vs Rajasthan",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Abhimanyu Cricket Academy, Dehradun",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Vidarbha vs Goa",
+      "competition": "Ranji Trophy",
+      "time": "LIVE NOW",
+      "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Biratnagar Kings (NPL) vs Chitwan Rhinos (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Tomorrow · 11:45 AM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Janakpur Bolts (NPL) vs Karnali Yaks (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Tomorrow · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pokhara Avengers (NPL) vs Sudur Paschim Royals (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Wed 28 Oct · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Brampton Blazers vs Vancouver Guardians",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Wed 28 Oct · 7:00 PM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mississauga Skyhawks vs Toronto Kings",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Thu 29 Oct · 4:00 AM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Janakpur Bolts (NPL) vs Kathmandu Gorkhas (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Thu 29 Oct · 11:45 AM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Biratnagar Kings (NPL) vs Karnali Yaks (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Thu 29 Oct · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Montreal Warriors vs Vancouver Guardians",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Thu 29 Oct · 7:00 PM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mississauga Skyhawks vs Toronto Kings",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Fri 30 Oct · 4:00 AM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Brampton Blazers vs Vancouver Guardians",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Fri 30 Oct · 7:00 PM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Montreal Warriors vs Toronto Kings",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Sat 31 Oct · 4:00 AM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
@@ -318,7 +361,7 @@
     "/media/match-poster-cpl.webp",
     "/media/og-cover.jpg"
   ],
-  "notes": "Auto-published 2026-10-16: 0 live, 27 upcoming. Verified via ESPN feeds. 61 highlights.",
+  "notes": "Auto-published 2026-10-26: 19 live, 11 upcoming. Verified via ESPN feeds. 61 highlights.",
   "highlights": [
     {
       "videoId": "FrvkIKKOJVc",
