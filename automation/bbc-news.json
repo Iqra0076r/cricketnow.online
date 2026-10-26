@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-26T09:32:56.323233+00:00",
+  "updatedAt": "2026-10-26T16:23:59.585417+00:00",
   "items": [
+    {
+      "title": "Batty leaves Surrey to join Chennai Super Kings",
+      "description": "Surrey head coach Gareth Batty steps down to join Indian Premier League side Chennai Super Kings as assistant head coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 13:56:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England lose to Pakistan after improbable last-wicket stand",
       "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
@@ -28,14 +36,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
-      "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:52:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Tilak helps India edge past NZ - second T20 scorecard",
       "description": "Latest scorecard as New Zealand face India in the second Twenty20 International at Hagley Oval, Christchurch.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242109?at_medium=RSS&at_campaign=rss",
@@ -49,6 +49,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 16:16:36 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+      "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:52:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +96,7 @@
       "description": "Gloucestershire's Daaryoush 'Daz' Ahmed extends his contract with the club until the end of 2027.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 11:51:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 12:02:29 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Overton would consider Ashes return if Root asks",
-      "description": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:46:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo#2",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +233,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-      "description": "A celebration of Sir David's groundbreaking career broadcast from the Royal Albert Hall.",
-      "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
-      "published": "Fri, 08 May 2026 21:02:30 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
