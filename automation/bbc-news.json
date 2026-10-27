@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-27T15:38:48.212649+00:00",
+  "updatedAt": "2026-10-27T20:20:24.871175+00:00",
   "items": [
+    {
+      "title": "Australia fight back to keep Cummins out of unwanted club... for now",
+      "description": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 17:10:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England out of tri-series after Sri Lanka beat Pakistan",
       "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 13:01:11 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Lancashire treatment of Anderson disrespectful - Broad",
+      "description": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 17:47:58 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#0",
       "source": "BBC Sport"
     },
     {
@@ -28,15 +44,15 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Lancashire consider Anderson farewell amid fan unrest",
-      "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 22:58:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go#0",
+      "title": "Ireland fall behind in series after Namibia defeat",
+      "description": "Ireland fall 2-1 behind in their five-match ODI series against Namibia as they lose by 63 runs in the third meeting between the sides.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 15:58:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - first T20 scorecard",
+      "title": "Afghanistan beat Zimbabwe in first T20 - scorecard",
       "description": "Latest scorecard from the first Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 00:00:00 GMT",
@@ -44,11 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Namibia beat Ireland to take lead in ODI series - scorecard",
-      "description": "Latest scorecard from the third one-day international between Namibia and Ireland in Windhoek.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244986?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244986#0",
+      "title": "Lancashire consider Anderson farewell amid fan unrest",
+      "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 22:58:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:52:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#2",
       "source": "BBC Sport"
     },
     {
@@ -124,14 +140,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to the news that Lancashire won't be offering Jimmy Anderson a new contract.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 13:20:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Futuristic eco cricket ground in Spain eyes Test match",
       "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
@@ -148,11 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England beaten in record-breaking thriller",
-      "description": "Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj2wsq?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:08:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pj2wsq#4",
+      "title": "Test Match Special Podcast",
+      "description": "Reaction to the news that Lancashire won't be offering Jimmy Anderson a new contract.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 13:20:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#4",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Demi Moore and Margaret Qualley star in a thrilling body horror",
-      "description": "A fading celebrity turns to a black-market drug that creates a younger version of herself",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m00327nr?at_mid=g7WPXrmykv&at_campaign=The_Substance&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00327nr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Substance&at_bbc_team=BBC",
-      "published": "Fri, 02 Oct 2026 23:16:12 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m00327nr?at_mid=g7WPXrmykv&at_campaign=The_Substance&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00327nr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Substance&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
