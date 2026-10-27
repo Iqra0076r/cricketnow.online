@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-27T03:10:44.624051+00:00",
+  "updatedAt": "2026-10-27T09:29:24.007010+00:00",
   "items": [
     {
       "title": "Lancashire consider Anderson farewell amid fan unrest",
@@ -9,6 +9,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 26 Oct 2026 22:58:14 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - third T20 scorecard",
+      "description": "Latest scorecard from the third Twenty20 international between New Zealand and India at Wellington's Hnry Stadium.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242110?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242110#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Namibia v Ireland - third ODI scorecard",
+      "description": "Latest scorecard from the third one-day international between Namibia and Ireland in Windhoek.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244986?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244986#0",
       "source": "BBC Sport"
     },
     {
@@ -28,27 +44,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 17:39:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Tilak helps India edge past NZ - second T20 scorecard",
-      "description": "Latest scorecard as New Zealand face India in the second Twenty20 International at Hagley Oval, Christchurch.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242109?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242109#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Erasmus' 156 not out helps Namibia defeat Ireland",
       "description": "An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 16:16:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 17:39:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#1",
       "source": "BBC Sport"
     },
     {
@@ -72,15 +80,7 @@
       "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 12:03:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "What next for Australia after chastening defeat by South Africa?",
-      "description": "Problems are mounting up for Australia after their second-Test humbling by South Africa - so how do they get back on track?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:25:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +88,7 @@
       "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:31:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#2",
       "source": "BBC Sport"
     },
     {
@@ -97,14 +97,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 11:51:49 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Jersey ensure World Cup progress after PNG win",
-      "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 13:33:28 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no#2",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 19:46:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Essex sign batter Evans from Surrey",
-      "description": "Essex sign experienced batter Laurie Evans from Surrey on a one-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 10:38:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko#2",
       "source": "BBC Sport"
     },
     {
