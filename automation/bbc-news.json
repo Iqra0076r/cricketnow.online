@@ -1,8 +1,32 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-27T09:29:24.007010+00:00",
+  "updatedAt": "2026-10-27T15:38:48.212649+00:00",
   "items": [
+    {
+      "title": "England out of tri-series after Sri Lanka beat Pakistan",
+      "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 13:01:11 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
+      "description": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 11:26:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Essex wicketkeeper Bell feared career was over",
+      "description": "Essex wicketkeeper George Bell feared his professional career may have come to an abrupt end before the county re-signed him on a permanent basis last week.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 14:14:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Lancashire consider Anderson farewell amid fan unrest",
       "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
@@ -12,15 +36,15 @@
       "source": "BBC Sport"
     },
     {
-      "title": "New Zealand v India - third T20 scorecard",
-      "description": "Latest scorecard from the third Twenty20 international between New Zealand and India at Wellington's Hnry Stadium.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242110?at_medium=RSS&at_campaign=rss",
+      "title": "Afghanistan v Zimbabwe - first T20 scorecard",
+      "description": "Latest scorecard from the first Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242110#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Namibia v Ireland - third ODI scorecard",
+      "title": "Namibia beat Ireland to take lead in ODI series - scorecard",
       "description": "Latest scorecard from the third one-day international between Namibia and Ireland in Windhoek.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244986?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 00:00:00 GMT",
@@ -32,7 +56,7 @@
       "description": "Surrey head coach Gareth Batty steps down to join Indian Premier League side Chennai Super Kings as assistant head coach.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 26 Oct 2026 13:56:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#1",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +64,7 @@
       "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 16:34:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno#1",
       "source": "BBC Sport"
     },
     {
@@ -68,19 +92,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Hose signs new three-year Worcestershire contract",
-      "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 18:54:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Anderson stops short of retiring after Lancs exit",
       "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 12:03:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Hose signs new three-year Worcestershire contract",
+      "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 18:54:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo#2",
       "source": "BBC Sport"
     },
     {
@@ -113,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 10:12:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
-      "description": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 19:46:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo#2",
       "source": "BBC Sport"
     },
     {
@@ -217,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Demi Moore and Margaret Qualley star in a thrilling body horror",
+      "description": "A fading celebrity turns to a black-market drug that creates a younger version of herself",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00327nr?at_mid=g7WPXrmykv&at_campaign=The_Substance&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00327nr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Substance&at_bbc_team=BBC",
+      "published": "Fri, 02 Oct 2026 23:16:12 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m00327nr?at_mid=g7WPXrmykv&at_campaign=The_Substance&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00327nr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Substance&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
