@@ -1,25 +1,15 @@
 {
   "version": 2,
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "timezone": "Asia/Karachi",
-  "updatedAt": "2026-10-26T11:54:23.409890+05:00",
-  "liveMatch": {
-    "teams": "Sikkim vs Nagaland",
-    "competition": "Ranji Trophy",
-    "time": "LIVE NOW",
-    "venue": "SICA ground, Rangpo",
-    "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-    "tv_channels": [
-      "TBD — check official broadcaster"
-    ],
-    "captains": null
-  },
+  "updatedAt": "2026-10-27T06:03:06.483175+05:00",
+  "liveMatch": null,
   "upcomingMatch": {
-    "teams": "Biratnagar Kings (NPL) vs Chitwan Rhinos (NPL)",
-    "competition": "Nepal Premier League",
-    "time": "Tomorrow · 11:45 AM",
-    "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-    "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+    "teams": "Netherlands vs Oman",
+    "competition": "ICC Men's Cricket World Cup League 2",
+    "time": "Today · 10:30 AM",
+    "venue": "ICC Academy, Dubai",
+    "image": "/media/match-graphics/tapmad-bg-action.jpg",
     "tv_channels": [
       "TBD — check official broadcaster"
     ],
@@ -27,209 +17,22 @@
   },
   "matches": [
     {
-      "teams": "Sikkim vs Nagaland",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "SICA ground, Rangpo",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "teams": "Netherlands vs Oman",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Today · 10:30 AM",
+      "venue": "ICC Academy, Dubai",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
       "captains": null
     },
     {
-      "teams": "Jharkhand vs Delhi",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "JSCA International Stadium Complex, Ranchi",
+      "teams": "Oman Under-19s vs Afghanistan Under-19s",
+      "competition": "Afghanistan Under-19s tour of Oman 2026/27",
+      "time": "Today · 10:30 AM",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Odisha vs Services",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "KIIT Stadium, Bhubaneswar",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Baroda vs Jammu & Kashmir",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Reliance Stadium, Vadodara",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Chandigarh vs Himachal Pradesh",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Sector 16 Stadium, Chandigarh",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Chhattisgarh vs Andhra",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Andhra Cricket Assocition Grounds, Mulapadu",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Hyderabad (India) vs Punjab",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Gymkhana Ground, Secunderabad",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Karnataka vs Tripura",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Kerala vs Bengal",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "KCA Cricket Ground, Mangalapuram",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Madhya Pradesh vs Bihar",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Holkar Cricket Stadium, Indore",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Maharashtra vs Gujarat",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Maharashtra Cricket Association Stadium, Pune",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Manipur vs Arunachal Pradesh",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Narenda Modi Stadium B Ground, Motera, Ahmedabad",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Mizoram vs Meghalaya",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Gokulbhai Somabhai Patel Stadium, Nadiad",
-      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Mumbai vs Haryana",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Sharad Pawar Cricket Academy BKC, Mumbai",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Puducherry vs Uttar Pradesh",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Cricket Association Pondicherry Siechem Ground, Puducherry",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Saurashtra vs Assam",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Niranjan Shah Stadium, Rajkot",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Tamil Nadu vs Railways",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Uttarakhand vs Rajasthan",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Abhimanyu Cricket Academy, Dehradun",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
-      "teams": "Vidarbha vs Goa",
-      "competition": "Ranji Trophy",
-      "time": "LIVE NOW",
-      "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
-      "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
@@ -238,7 +41,7 @@
     {
       "teams": "Biratnagar Kings (NPL) vs Chitwan Rhinos (NPL)",
       "competition": "Nepal Premier League",
-      "time": "Tomorrow · 11:45 AM",
+      "time": "Today · 11:45 AM",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
@@ -247,7 +50,121 @@
       "captains": null
     },
     {
+      "teams": "Jersey vs Kuwait",
+      "competition": "CWC Challenge League Group A",
+      "time": "Today · 11:45 AM",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Papua New Guinea vs Qatar",
+      "competition": "CWC Challenge League Group A",
+      "time": "Today · 11:45 AM",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "New Zealand vs India",
+      "competition": "India tour of New Zealand 2026/27",
+      "time": "Today · 12:00 PM",
+      "venue": "Hnry Stadium, Wellington",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "Sky Sports Cricket (UK)"
+      ],
+      "captains": "Suryakumar Yadav"
+    },
+    {
+      "teams": "Namibia vs Ireland",
+      "competition": "Ireland tour of Namibia 2026/27",
+      "time": "Today · 12:30 PM",
+      "venue": "High Performance Oval, Windhoek",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan vs Sri Lanka",
+      "competition": "Pakistan ODI Tri-Series",
+      "time": "Today · 1:00 PM",
+      "venue": "Gaddafi Stadium, Lahore",
+      "image": "/media/match-graphics/pak-vs-sl-tapmad.jpg",
+      "tv_channels": [
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
+      ],
+      "captains": "Salman Ali Agha · Charith Asalanka"
+    },
+    {
+      "teams": "South Africa vs Australia",
+      "competition": "Australia tour of South Africa 2026/27",
+      "time": "Today · 1:30 PM",
+      "venue": "Newlands, Cape Town",
+      "image": "/media/match-graphics/sa-vs-aus-tapmad.jpg",
+      "tv_channels": [
+        "SuperSport Cricket (SA)"
+      ],
+      "captains": "Aiden Markram · Mitchell Marsh"
+    },
+    {
       "teams": "Janakpur Bolts (NPL) vs Karnali Yaks (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Today · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Afghanistan vs Zimbabwe",
+      "competition": "Zimbabwe tour of United Arab Emirates 2026/27",
+      "time": "Today · 7:30 PM",
+      "venue": "Sharjah Cricket Stadium",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "Ten Sports (PK)",
+        "CricLife 2 (MENA)"
+      ],
+      "captains": "Rashid Khan"
+    },
+    {
+      "teams": "Denmark vs Qatar",
+      "competition": "CWC Challenge League Group A",
+      "time": "Tomorrow · 11:45 AM",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Kenya vs Kuwait",
+      "competition": "CWC Challenge League Group A",
+      "time": "Tomorrow · 11:45 AM",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pokhara Avengers (NPL) vs Sudur Paschim Royals (NPL)",
       "competition": "Nepal Premier League",
       "time": "Tomorrow · 3:45 PM",
       "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -258,20 +175,9 @@
       "captains": null
     },
     {
-      "teams": "Pokhara Avengers (NPL) vs Sudur Paschim Royals (NPL)",
-      "competition": "Nepal Premier League",
-      "time": "Wed 28 Oct · 3:45 PM",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
-      "tv_channels": [
-        "TBD — check official broadcaster"
-      ],
-      "captains": null
-    },
-    {
       "teams": "Brampton Blazers vs Vancouver Guardians",
       "competition": "NCL GT20 Canada 2026/27",
-      "time": "Wed 28 Oct · 7:00 PM",
+      "time": "Tomorrow · 7:00 PM",
       "venue": "Arnos Vale Ground, Kingstown, St Vincent",
       "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
@@ -291,6 +197,17 @@
       "captains": null
     },
     {
+      "teams": "United Arab Emirates vs Oman",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Thu 29 Oct · 10:30 AM",
+      "venue": "ICC Academy, Dubai",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
       "teams": "Janakpur Bolts (NPL) vs Kathmandu Gorkhas (NPL)",
       "competition": "Nepal Premier League",
       "time": "Thu 29 Oct · 11:45 AM",
@@ -300,6 +217,17 @@
         "TBD — check official broadcaster"
       ],
       "captains": null
+    },
+    {
+      "teams": "England vs Sri Lanka",
+      "competition": "Pakistan ODI Tri-Series",
+      "time": "Thu 29 Oct · 1:00 PM",
+      "venue": "Gaddafi Stadium, Lahore",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "Sky Sports Cricket (UK)"
+      ],
+      "captains": "Harry Brook · Charith Asalanka"
     },
     {
       "teams": "Biratnagar Kings (NPL) vs Karnali Yaks (NPL)",
@@ -324,11 +252,78 @@
       "captains": null
     },
     {
+      "teams": "Afghanistan vs Zimbabwe",
+      "competition": "Zimbabwe tour of United Arab Emirates 2026/27",
+      "time": "Thu 29 Oct · 7:30 PM",
+      "venue": "Sharjah Cricket Stadium",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "Ten Sports (PK)",
+        "CricLife 2 (MENA)"
+      ],
+      "captains": "Rashid Khan"
+    },
+    {
       "teams": "Mississauga Skyhawks vs Toronto Kings",
       "competition": "NCL GT20 Canada 2026/27",
       "time": "Fri 30 Oct · 4:00 AM",
       "venue": "Arnos Vale Ground, Kingstown, St Vincent",
       "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Oman Under-19s vs Afghanistan Under-19s",
+      "competition": "Afghanistan Under-19s tour of Oman 2026/27",
+      "time": "Fri 30 Oct · 10:30 AM",
+      "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Denmark vs Jersey",
+      "competition": "CWC Challenge League Group A",
+      "time": "Fri 30 Oct · 11:45 AM",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Kuwait vs Papua New Guinea",
+      "competition": "CWC Challenge League Group A",
+      "time": "Fri 30 Oct · 11:45 AM",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "New Zealand vs India",
+      "competition": "India tour of New Zealand 2026/27",
+      "time": "Fri 30 Oct · 12:00 PM",
+      "venue": "Eden Park, Auckland",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "Sky Sports Cricket (UK)"
+      ],
+      "captains": "Suryakumar Yadav"
+    },
+    {
+      "teams": "Namibia vs Ireland",
+      "competition": "Ireland tour of Namibia 2026/27",
+      "time": "Fri 30 Oct · 12:30 PM",
+      "venue": "High Performance Oval, Windhoek",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
@@ -346,11 +341,444 @@
       "captains": null
     },
     {
+      "teams": "New Zealand A vs India A",
+      "competition": "India A tour of New Zealand 2026/27",
+      "time": "Sat 31 Oct · 3:00 AM",
+      "venue": "Hagley Oval, Christchurch",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
       "teams": "Montreal Warriors vs Toronto Kings",
       "competition": "NCL GT20 Canada 2026/27",
       "time": "Sat 31 Oct · 4:00 AM",
       "venue": "Arnos Vale Ground, Kingstown, St Vincent",
       "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Dhaka Division vs Barishal Division",
+      "competition": "National Cricket League",
+      "time": "Sat 31 Oct · 8:30 AM",
+      "venue": "Shahid Kamruzzaman Stadium, Rajshahi",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mymensingh Division vs Khulna Division",
+      "competition": "National Cricket League",
+      "time": "Sat 31 Oct · 8:30 AM",
+      "venue": "Sheikh Abu Naser Stadium, Khulna",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Rangpur Division vs Rajshahi Division",
+      "competition": "National Cricket League",
+      "time": "Sat 31 Oct · 8:30 AM",
+      "venue": "Shaheed Chandu Stadium, Bogra",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Sylhet Division vs Chattogram Division",
+      "competition": "National Cricket League",
+      "time": "Sat 31 Oct · 8:30 AM",
+      "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "United Arab Emirates vs Netherlands",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Sat 31 Oct · 10:30 AM",
+      "venue": "ICC Academy, Dubai",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Chitwan Rhinos (NPL) vs Lumbini Lions (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Sat 31 Oct · 11:45 AM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Jersey vs Qatar",
+      "competition": "CWC Challenge League Group A",
+      "time": "Sat 31 Oct · 11:45 AM",
+      "venue": "Ruaraka Sports Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Kenya vs Papua New Guinea",
+      "competition": "CWC Challenge League Group A",
+      "time": "Sat 31 Oct · 11:45 AM",
+      "venue": "Gymkhana Club Ground, Nairobi",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Pakistan vs TBA",
+      "competition": "Pakistan ODI Tri-Series",
+      "time": "Sat 31 Oct · 1:00 PM",
+      "venue": "Gaddafi Stadium, Lahore",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "A Sports (PK)",
+        "PTV Sports (PK)",
+        "Ten Sports (PK)",
+        "Geo Super (PK)"
+      ],
+      "captains": "Salman Ali Agha"
+    },
+    {
+      "teams": "Biratnagar Kings (NPL) vs Sudur Paschim Royals (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Sat 31 Oct · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Montreal Warriors vs Vancouver Guardians",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Sat 31 Oct · 7:00 PM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Brampton Blazers vs Mississauga Skyhawks",
+      "competition": "NCL GT20 Canada 2026/27",
+      "time": "Sun 01 Nov · 4:00 AM",
+      "venue": "Arnos Vale Ground, Kingstown, St Vincent",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "New Zealand vs India",
+      "competition": "India tour of New Zealand 2026/27",
+      "time": "Sun 01 Nov · 12:00 PM",
+      "venue": "Seddon Park, Hamilton",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "Sky Sports Cricket (UK)"
+      ],
+      "captains": "Suryakumar Yadav"
+    },
+    {
+      "teams": "Namibia vs Ireland",
+      "competition": "Ireland tour of Namibia 2026/27",
+      "time": "Sun 01 Nov · 12:30 PM",
+      "venue": "High Performance Oval, Windhoek",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Janakpur Bolts (NPL) vs Pokhara Avengers (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Sun 01 Nov · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Afghanistan vs Zimbabwe",
+      "competition": "Zimbabwe tour of United Arab Emirates 2026/27",
+      "time": "Sun 01 Nov · 7:30 PM",
+      "venue": "Sharjah Cricket Stadium",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "Ten Sports (PK)",
+        "CricLife 2 (MENA)"
+      ],
+      "captains": "Rashid Khan"
+    },
+    {
+      "teams": "Assam vs Karnataka",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Barsapara Cricket Stadium, Guwahati",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Bengal vs Maharashtra",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Eden Gardens, Kolkata",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Chandigarh vs Tamil Nadu",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Sector 16 Stadium, Chandigarh",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Chhattisgarh vs Hyderabad (India)",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Delhi vs Services",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Palam A Stadium, New Delhi",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Goa vs Bihar",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Bhausaheb Bandodkar Ground, Panaji",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Gujarat vs Kerala",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Narendra Modi Stadium, Motera, Ahmedabad",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Himachal Pradesh vs Rajasthan",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Jammu & Kashmir vs Puducherry",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Sher-i-Kashmir Stadium, Srinagar",
+      "image": "/media/match-graphics/tapmad-bg-stadium.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Manipur vs Sikkim",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Gujarat College Ground, Ahmedabad",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Meghalaya vs Nagaland",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "ADSA Railways Cricket Ground, Ahmedabad",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Mizoram vs Arunachal Pradesh",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Lal Bahadur Shastri Stadium, Anand",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Odisha vs Jharkhand",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "KIIT Stadium, Bhubaneswar",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Punjab vs Andhra",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "PCA New Cricket Stadium, Ground B, New Chandigarh",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Railways vs Mumbai",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Brabourne Stadium, Mumbai",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Tripura vs Saurashtra",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Maharaja Bir Bikram College Stadium, Agartala",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Uttar Pradesh vs Baroda",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Green Park, Kanpur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Uttarakhand vs Haryana",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Abhimanyu Cricket Academy, Dehradun",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Vidarbha vs Madhya Pradesh",
+      "competition": "Ranji Trophy",
+      "time": "Mon 02 Nov · 9:00 AM",
+      "venue": "Vidarbha C.A. Ground, Nagpur",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Netherlands vs Oman",
+      "competition": "ICC Men's Cricket World Cup League 2",
+      "time": "Mon 02 Nov · 10:30 AM",
+      "venue": "ICC Academy, Dubai",
+      "image": "/media/match-graphics/tapmad-bg-action.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Karnali Yaks (NPL) vs Kathmandu Gorkhas (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Mon 02 Nov · 11:45 AM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
+      "tv_channels": [
+        "TBD — check official broadcaster"
+      ],
+      "captains": null
+    },
+    {
+      "teams": "Chitwan Rhinos (NPL) vs Sudur Paschim Royals (NPL)",
+      "competition": "Nepal Premier League",
+      "time": "Mon 02 Nov · 3:45 PM",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "image": "/media/match-graphics/tapmad-bg-ball.jpg",
       "tv_channels": [
         "TBD — check official broadcaster"
       ],
@@ -361,7 +789,7 @@
     "/media/match-poster-cpl.webp",
     "/media/og-cover.jpg"
   ],
-  "notes": "Auto-published 2026-10-26: 19 live, 11 upcoming. Verified via ESPN feeds. 61 highlights.",
+  "notes": "Auto-published 2026-10-27: 0 live, 69 upcoming. Verified via ESPN feeds. 69 highlights.",
   "highlights": [
     {
       "videoId": "FrvkIKKOJVc",
@@ -439,7 +867,7 @@
       "title": "Australia v India | Match Highlights | Women's #T20WorldCup 2026",
       "duration": 131,
       "date": "NA",
-      "views": 468000,
+      "views": 470000,
       "channel": "ICC",
       "teams": "",
       "videoId": "Uvqo-q_V7P0",
@@ -484,7 +912,7 @@
       "title": "England v South Africa | Match Highlights Semi Final 2 | Women's T20 World Cup 2026",
       "duration": 127,
       "date": "NA",
-      "views": 259000,
+      "views": 260000,
       "channel": "ICC",
       "teams": "",
       "videoId": "AQsj5tveK7w",
@@ -499,7 +927,7 @@
       "title": "Australia v West Indies | Match Highlights – Semi Final 1 | Women's #T20WorldCup 2026",
       "duration": 130,
       "date": "NA",
-      "views": 190000,
+      "views": 191000,
       "channel": "ICC",
       "teams": "",
       "videoId": "ZZs9CfpGF8g",
@@ -514,7 +942,7 @@
       "title": "England v Australia | Match Highlights Final | Women's #T20WorldCup 2026",
       "duration": 130,
       "date": "NA",
-      "views": 151000,
+      "views": 152000,
       "channel": "ICC",
       "teams": "",
       "videoId": "NeBMvO6xAkc",
@@ -526,10 +954,10 @@
     },
     {
       "id": "Qw4xo69Yl7M",
-      "title": "Romario Shepherd Clutch & Shikar Dhawan Hits 97 | West Indies v India Highlights",
+      "title": "Highlights | West Indies v India | Final Ball Finish | 1st CG United ODI",
       "duration": 1094,
       "date": "NA",
-      "views": 30000,
+      "views": 31000,
       "channel": "windiescricket",
       "teams": "",
       "videoId": "Qw4xo69Yl7M",
@@ -587,7 +1015,7 @@
       "title": "Japan run India close | Match Highlights",
       "duration": 282,
       "date": "NA",
-      "views": 58000,
+      "views": 59000,
       "channel": "ICC",
       "teams": "",
       "videoId": "VqDsM-YWLt8",
@@ -614,7 +1042,7 @@
       "title": "NAIL-BITING finish in the Final 🍿 | Trent Rockets vs Manchester Super Giants Highlights",
       "duration": 724,
       "date": "NA",
-      "views": 881000,
+      "views": 884000,
       "channel": "TheHundred",
       "teams": "Trent Rockets vs Manchester Super Giants",
       "videoId": "6L46OikDfIA",
@@ -629,7 +1057,7 @@
       "title": "ऑस्ट्रेलिया की एक और दमदार जीत | Hindi Highlights | IND V AUS | Women’s T20 World Cup 2026",
       "duration": 420,
       "date": "NA",
-      "views": 722000,
+      "views": 730000,
       "channel": "ICC",
       "teams": "",
       "videoId": "8FXH5I1kmh4",
@@ -644,7 +1072,7 @@
       "title": "ऑस्ट्रेलिया ने जीता विश्व कप | Hindi Highlights | ENG v AUS | Women’s T20 World Cup 2026 Final",
       "duration": 420,
       "date": "NA",
-      "views": 699000,
+      "views": 702000,
       "channel": "ICC",
       "teams": "",
       "videoId": "SdWQobyzbWk",
@@ -659,7 +1087,7 @@
       "title": "Late DRAMA in The Eliminator 🤯 | Manchester Super Giants vs SunRisers Leeds Highlights",
       "duration": 719,
       "date": "NA",
-      "views": 534000,
+      "views": 535000,
       "channel": "TheHundred",
       "teams": "Manchester Super Giants vs SunRisers Leeds",
       "videoId": "bJV4lfagFh8",
@@ -674,7 +1102,7 @@
       "title": "मेज़बान इंग्लैंड की फाइनल में एंट्री | Hindi Highlights | ENG v SA | Women’s T20 World Cup 2026",
       "duration": 419,
       "date": "NA",
-      "views": 345000,
+      "views": 346000,
       "channel": "ICC",
       "teams": "",
       "videoId": "CUCGM_92DMQ",
@@ -704,7 +1132,7 @@
       "title": "फ़ाइनल में पहुँची ऑस्ट्रेलिया | Hindi Highlights | AUS V WI | Women’s T20 World Cup 2026",
       "duration": 387,
       "date": "NA",
-      "views": 264000,
+      "views": 266000,
       "channel": "ICC",
       "teams": "",
       "videoId": "5wrT3BL-E4w",
@@ -734,7 +1162,7 @@
       "title": "Nervy chase for in race for The Hundred Final 😬 | SunRisers Leeds vs Southern Brave Highlights",
       "duration": 894,
       "date": "NA",
-      "views": 106000,
+      "views": 107000,
       "channel": "TheHundred",
       "teams": "SunRisers Leeds vs Southern Brave",
       "videoId": "6vW-jSTfmdQ",
@@ -779,12 +1207,27 @@
       "title": "The battle to book a place in the Final 💥 | Trent Rockets v Southern Brave Highlights",
       "duration": 720,
       "date": "NA",
-      "views": 65000,
+      "views": 66000,
       "channel": "TheHundred",
       "teams": "",
       "videoId": "WHjN4yEei4c",
       "embed": "https://www.youtube-nocookie.com/embed/WHjN4yEei4c",
       "watch": "https://www.youtube.com/watch?v=WHjN4yEei4c",
+      "competition": "TheHundred",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "CdRhz7yJdsU",
+      "title": "Phoebe Litchfield BLASTS 22-ball fifty | SunRisers Leeds vs Welsh Fire Highlights",
+      "duration": 895,
+      "date": "NA",
+      "views": 55000,
+      "channel": "TheHundred",
+      "teams": "SunRisers Leeds vs Welsh Fire",
+      "videoId": "CdRhz7yJdsU",
+      "embed": "https://www.youtube-nocookie.com/embed/CdRhz7yJdsU",
+      "watch": "https://www.youtube.com/watch?v=CdRhz7yJdsU",
       "competition": "TheHundred",
       "venue": "",
       "score": null
@@ -835,6 +1278,21 @@
       "score": null
     },
     {
+      "id": "IBMB-N038kM",
+      "title": "Ellyse Perry FIRES at Edgbaston 🔥| Birmingham Phoenix v MI London Highlights",
+      "duration": 888,
+      "date": "NA",
+      "views": 30000,
+      "channel": "TheHundred",
+      "teams": "",
+      "videoId": "IBMB-N038kM",
+      "embed": "https://www.youtube-nocookie.com/embed/IBMB-N038kM",
+      "watch": "https://www.youtube.com/watch?v=IBMB-N038kM",
+      "competition": "TheHundred",
+      "venue": "",
+      "score": null
+    },
+    {
       "id": "e1NG5ZN1EHo",
       "title": "A STUNNING Final performance 🥳 | Trent Rockets v SunRisers Leeds Highlights",
       "duration": 848,
@@ -845,21 +1303,6 @@
       "videoId": "e1NG5ZN1EHo",
       "embed": "https://www.youtube-nocookie.com/embed/e1NG5ZN1EHo",
       "watch": "https://www.youtube.com/watch?v=e1NG5ZN1EHo",
-      "competition": "TheHundred",
-      "venue": "",
-      "score": null
-    },
-    {
-      "id": "IBMB-N038kM",
-      "title": "Ellyse Perry FIRES at Edgbaston 🔥| Birmingham Phoenix v MI London Highlights",
-      "duration": 888,
-      "date": "NA",
-      "views": 29000,
-      "channel": "TheHundred",
-      "teams": "",
-      "videoId": "IBMB-N038kM",
-      "embed": "https://www.youtube-nocookie.com/embed/IBMB-N038kM",
-      "watch": "https://www.youtube.com/watch?v=IBMB-N038kM",
       "competition": "TheHundred",
       "venue": "",
       "score": null
@@ -966,6 +1409,51 @@
       "embed": "https://www.youtube-nocookie.com/embed/3FaTuW28VEk",
       "watch": "https://www.youtube.com/watch?v=3FaTuW28VEk",
       "competition": "usacricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "BqKvYb_7MIc",
+      "title": "Full Match Highlights | Strikers vs Stars | Final | National Women's T20 Tournament | MZT1K",
+      "duration": 1272,
+      "date": "NA",
+      "views": 2900,
+      "channel": "PakistanCricket",
+      "teams": "Strikers vs Stars",
+      "videoId": "BqKvYb_7MIc",
+      "embed": "https://www.youtube-nocookie.com/embed/BqKvYb_7MIc",
+      "watch": "https://www.youtube.com/watch?v=BqKvYb_7MIc",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "OPYs4mXjhDI",
+      "title": "2nd Innings Highlights | Strikers vs Stars | Final | National Women's T20 Tournament | MZT1K",
+      "duration": 667,
+      "date": "NA",
+      "views": 2200,
+      "channel": "PakistanCricket",
+      "teams": "Strikers vs Stars",
+      "videoId": "OPYs4mXjhDI",
+      "embed": "https://www.youtube-nocookie.com/embed/OPYs4mXjhDI",
+      "watch": "https://www.youtube.com/watch?v=OPYs4mXjhDI",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "y9RrQkqudl8",
+      "title": "1st Innings Highlights | Strikers vs Stars | Final | National Women's T20 Tournament | MZT1K",
+      "duration": 636,
+      "date": "NA",
+      "views": 1500,
+      "channel": "PakistanCricket",
+      "teams": "Strikers vs Stars",
+      "videoId": "y9RrQkqudl8",
+      "embed": "https://www.youtube-nocookie.com/embed/y9RrQkqudl8",
+      "watch": "https://www.youtube.com/watch?v=y9RrQkqudl8",
+      "competition": "PakistanCricket",
       "venue": "",
       "score": null
     },
@@ -1225,6 +1713,21 @@
       "score": null
     },
     {
+      "id": "QwJnIYem3HI",
+      "title": "Full Highlights | Sialkot Region vs Bahawalpur Region | Men’s U19 Championship | Final | MZM1K",
+      "duration": 2169,
+      "date": "NA",
+      "views": 4600,
+      "channel": "PakistanCricket",
+      "teams": "Sialkot Region vs Bahawalpur Region",
+      "videoId": "QwJnIYem3HI",
+      "embed": "https://www.youtube-nocookie.com/embed/QwJnIYem3HI",
+      "watch": "https://www.youtube.com/watch?v=QwJnIYem3HI",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
       "id": "EMA5z4xWljM",
       "title": "Full Highlights | SF Day 2 | Income Tax vs. Kingsmen Sports | President's Trophy Grade-II | MZN1H",
       "duration": 973,
@@ -1255,6 +1758,36 @@
       "score": null
     },
     {
+      "id": "Nv7Lo_voKfo",
+      "title": "2nd Innings Highlights | Sialkot Region vs Bahawalpur Region | Men’s U19 Championship | Final |MZM1K",
+      "duration": 1088,
+      "date": "NA",
+      "views": 2000,
+      "channel": "PakistanCricket",
+      "teams": "Sialkot Region vs Bahawalpur Region",
+      "videoId": "Nv7Lo_voKfo",
+      "embed": "https://www.youtube-nocookie.com/embed/Nv7Lo_voKfo",
+      "watch": "https://www.youtube.com/watch?v=Nv7Lo_voKfo",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "7SGCk1hTSMI",
+      "title": "Full Match Highlights | Bahawalpur Region v Karachi Region Blues | National U19 Cup ONE DAY | MZM1J",
+      "duration": 1356,
+      "date": "NA",
+      "views": 2000,
+      "channel": "PakistanCricket",
+      "teams": "",
+      "videoId": "7SGCk1hTSMI",
+      "embed": "https://www.youtube-nocookie.com/embed/7SGCk1hTSMI",
+      "watch": "https://www.youtube.com/watch?v=7SGCk1hTSMI",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
       "id": "j0M8vp-Vrb0",
       "title": "Full Highlights | SF Day 2 | Vital Tea vs. Eshaal Associates | President's Trophy Grade-II | MZN1H",
       "duration": 809,
@@ -1265,6 +1798,21 @@
       "videoId": "j0M8vp-Vrb0",
       "embed": "https://www.youtube-nocookie.com/embed/j0M8vp-Vrb0",
       "watch": "https://www.youtube.com/watch?v=j0M8vp-Vrb0",
+      "competition": "PakistanCricket",
+      "venue": "",
+      "score": null
+    },
+    {
+      "id": "99SzIMbPXuM",
+      "title": "2nd Innings Highlights | Bahawalpur Region v Karachi Region Blues | National U19 Cup ONE DAY | MZM1J",
+      "duration": 629,
+      "date": "NA",
+      "views": 760,
+      "channel": "PakistanCricket",
+      "teams": "",
+      "videoId": "99SzIMbPXuM",
+      "embed": "https://www.youtube-nocookie.com/embed/99SzIMbPXuM",
+      "watch": "https://www.youtube.com/watch?v=99SzIMbPXuM",
       "competition": "PakistanCricket",
       "venue": "",
       "score": null

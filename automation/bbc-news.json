@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-26T22:09:14.500770+00:00",
+  "updatedAt": "2026-10-27T01:05:05.594262+00:00",
   "items": [
+    {
+      "title": "Lancashire consider Anderson farewell amid fan unrest",
+      "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 22:58:14 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Batty leaves Surrey to join Chennai Super Kings",
       "description": "Surrey head coach Gareth Batty steps down to join Indian Premier League side Chennai Super Kings as assistant head coach.",
@@ -17,14 +25,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 16:34:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson stops short of retiring after Lancs exit",
-      "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 12:03:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#0",
       "source": "BBC Sport"
     },
     {
@@ -68,11 +68,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Counties interested in Anderson after Lancs exit",
-      "description": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 21:47:51 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro#1",
+      "title": "Anderson stops short of retiring after Lancs exit",
+      "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 12:03:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo#1",
       "source": "BBC Sport"
     },
     {
