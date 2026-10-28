@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-28T00:51:10.237234+00:00",
+  "updatedAt": "2026-10-28T07:47:31.977531+00:00",
   "items": [
     {
       "title": "Australia fight back to keep Cummins out of unwanted club... for now",
@@ -20,6 +20,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Bangladesh v West Indies - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Lancashire treatment of Anderson disrespectful - Broad",
       "description": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
@@ -33,14 +41,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 11:26:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bangladesh v West Indies - first Test scorecard (from 04:00 GMT)",
-      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
       "source": "BBC Sport"
     },
     {
