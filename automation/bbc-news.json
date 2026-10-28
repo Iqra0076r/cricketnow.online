@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-27T20:20:24.871175+00:00",
+  "updatedAt": "2026-10-28T00:51:10.237234+00:00",
   "items": [
     {
       "title": "Australia fight back to keep Cummins out of unwanted club... for now",
@@ -36,6 +36,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Bangladesh v West Indies - first Test scorecard (from 04:00 GMT)",
+      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Essex wicketkeeper Bell feared career was over",
       "description": "Essex wicketkeeper George Bell feared his professional career may have come to an abrupt end before the county re-signed him on a permanent basis last week.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego?at_medium=RSS&at_campaign=rss",
@@ -56,7 +64,7 @@
       "description": "Latest scorecard from the first Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567#1",
       "source": "BBC Sport"
     },
     {
@@ -92,19 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 17:39:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
       "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 17:52:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 17:39:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 18:54:42 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sri Lanka make 430 to beat England after Brook's 202",
-      "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:31:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#2",
       "source": "BBC Sport"
     },
     {
