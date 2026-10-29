@@ -1,22 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-29T07:53:31.862076+00:00",
+  "updatedAt": "2026-10-29T14:51:39.341978+00:00",
   "items": [
-    {
-      "title": "Labuschagne's form hits record low but Australia hint at future",
-      "description": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 17:33:41 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#0",
-      "source": "BBC Sport"
-    },
     {
       "title": "Bangladesh v West Indies - first Test scorecard",
       "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Zimbabwe - second T20 scorecard",
+      "description": "Latest scorecard from the second Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sutherland helps Stars beat Hurricanes - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Hobart Hurricanes at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242416?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242416#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Labuschagne's form hits record low but Australia hint at future",
+      "description": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 17:33:41 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#0",
       "source": "BBC Sport"
     },
     {
@@ -32,7 +48,7 @@
       "description": "Ireland captain Paul Stirling will miss the concluding two matches of his side's one-day international series in Namibia after fracturing his finger.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 17:22:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o#1",
       "source": "BBC Sport"
     },
     {
@@ -40,15 +56,7 @@
       "description": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 17:47:58 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England out of tri-series after Sri Lanka beat Pakistan",
-      "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 13:01:11 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#1",
       "source": "BBC Sport"
     },
     {
@@ -60,11 +68,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
-      "description": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 11:26:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#1",
+      "title": "England out of tri-series after Sri Lanka beat Pakistan",
+      "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 13:01:11 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stumped",
+      "description": "Anderson is without a county, so is this the end of his glittering career?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g4?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:18:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +88,15 @@
       "description": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 17:10:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
+      "description": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 11:26:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +104,7 @@
       "description": "Essex wicketkeeper George Bell feared his professional career may have come to an abrupt end before the county re-signed him on a permanent basis last week.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 14:14:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +112,7 @@
       "description": "Ireland fall 2-1 behind in their five-match ODI series against Namibia as they lose by 63 runs in the third meeting between the sides.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 15:58:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po#2",
       "source": "BBC Sport"
     },
     {
@@ -108,19 +132,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Erasmus' 156 not out helps Namibia defeat Ireland",
-      "description": "An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 16:16:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
-      "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:52:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o#2",
+      "title": "County ins and outs",
+      "description": "With the 2025 county season completed, stay up to date with the latest player signings and speculation.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 09:41:08 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo#2",
       "source": "BBC Sport"
     },
     {
@@ -128,23 +144,7 @@
       "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 17:39:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hose signs new three-year Worcestershire contract",
-      "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 18:54:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Futuristic eco cricket ground in Spain eyes Test match",
-      "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 10:12:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#2",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#4",
       "source": "BBC Sport"
     },
     {
@@ -169,14 +169,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pg913z?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Oct 2026 12:08:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pg913z#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Dr Raf Nicolson reveals the untold story of the history of Women’s Cricket in England..",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pf1t97?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:54:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pf1t97#4",
       "source": "BBC Sport"
     },
     {
