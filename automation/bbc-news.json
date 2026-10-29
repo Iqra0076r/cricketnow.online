@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-29T01:27:37.852768+00:00",
+  "updatedAt": "2026-10-29T07:53:31.862076+00:00",
   "items": [
     {
       "title": "Labuschagne's form hits record low but Australia hint at future",
@@ -9,6 +9,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 17:33:41 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bangladesh v West Indies - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Knight sees Thunder past Renegades in WBBL opener - scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades v Sydney Thunder at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242415?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242415#0",
       "source": "BBC Sport"
     },
     {
@@ -28,14 +44,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bangladesh v West Indies - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "England out of tri-series after Sri Lanka beat Pakistan",
       "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
@@ -48,15 +56,7 @@
       "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 11:55:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia fight back to keep Cummins out of unwanted club... for now",
-      "description": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 17:10:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo#1",
       "source": "BBC Sport"
     },
     {
@@ -65,6 +65,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 11:26:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia fight back to keep Cummins out of unwanted club... for now",
+      "description": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 17:10:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#1",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +96,7 @@
       "description": "Surrey head coach Gareth Batty steps down to join Indian Premier League side Chennai Super Kings as assistant head coach.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 26 Oct 2026 13:56:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan beat Zimbabwe in first T20 - scorecard",
-      "description": "Latest scorecard from the first Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244567#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 10:12:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ahmed signs Gloucestershire contract extension",
-      "description": "Gloucestershire's Daaryoush 'Daz' Ahmed extends his contract with the club until the end of 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:51:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6m2d14evj3zo#2",
       "source": "BBC Sport"
     },
     {
