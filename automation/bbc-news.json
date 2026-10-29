@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-29T14:51:39.341978+00:00",
+  "updatedAt": "2026-10-29T20:45:55.099923+00:00",
   "items": [
+    {
+      "title": "Duckett and Dawson deliver in England's consolation win",
+      "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 16:37:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Careless dismissals give Australia route to series win",
+      "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 16:53:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Bangladesh v West Indies - first Test scorecard",
       "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
@@ -12,7 +28,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - second T20 scorecard",
+      "title": "Azmatullah century gives Afghanistan series win over Zimbabwe - scorecard",
       "description": "Latest scorecard from the second Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 00:00:00 GMT",
@@ -20,11 +36,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Sutherland helps Stars beat Hurricanes - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Hobart Hurricanes at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242416?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242416#0",
+      "title": "Test Match Special Podcast",
+      "description": "Hear from centurion Ben Duckett as England finish their tri-series with a win.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 17:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#0",
       "source": "BBC Sport"
     },
     {
@@ -33,14 +49,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 17:33:41 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Knight sees Thunder past Renegades in WBBL opener - scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades v Sydney Thunder at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242415?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242415#0",
       "source": "BBC Sport"
     },
     {
