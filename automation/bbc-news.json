@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-30T01:29:00.656123+00:00",
+  "updatedAt": "2026-10-30T07:56:16.886706+00:00",
   "items": [
     {
       "title": "Duckett and Dawson deliver in England's consolation win",
@@ -20,19 +20,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Namibia v Ireland - fourth ODI scorecard",
+      "description": "Latest scorecard from the fourth one-day international between Namibia and Ireland in Windhoek.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244987?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244987#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - fourth T20 scorecard",
+      "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Bangladesh v West Indies - first Test scorecard",
       "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Azmatullah century gives Afghanistan series win over Zimbabwe - scorecard",
-      "description": "Latest scorecard from the second Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568#0",
       "source": "BBC Sport"
     },
     {
@@ -44,19 +52,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Labuschagne's form hits record low but Australia hint at future",
-      "description": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 17:33:41 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Ireland captain Stirling out of Namibia series",
       "description": "Ireland captain Paul Stirling will miss the concluding two matches of his side's one-day international series in Namibia after fracturing his finger.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 17:22:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Azmatullah century gives Afghanistan series win over Zimbabwe - scorecard",
+      "description": "Latest scorecard from the second Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Labuschagne's form hits record low but Australia hint at future",
+      "description": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 17:33:41 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#1",
       "source": "BBC Sport"
     },
     {
@@ -76,27 +92,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England out of tri-series after Sri Lanka beat Pakistan",
-      "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 13:01:11 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Stumped",
       "description": "Anderson is without a county, so is this the end of his glittering career?",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g4?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 14:18:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#2",
       "source": "BBC Sport"
     },
     {
-      "title": "Australia fight back to keep Cummins out of unwanted club... for now",
-      "description": "Australia fight back in afternoon and evening against South Africa to spare the blushes of captain Pat Cummins in third Test.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 17:10:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c51kdggvmy7mo#2",
+      "title": "England out of tri-series after Sri Lanka beat Pakistan",
+      "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 13:01:11 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#2",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 26 Oct 2026 13:56:44 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England lose to Pakistan after improbable last-wicket stand",
-      "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 16:34:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno#2",
       "source": "BBC Sport"
     },
     {
