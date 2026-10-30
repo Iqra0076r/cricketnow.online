@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-30T14:46:41.315837+00:00",
+  "updatedAt": "2026-10-30T20:17:51.277296+00:00",
   "items": [
+    {
+      "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+      "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 17:03:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
       "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:44:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Moondra's record 6-26 helps Ireland force decider",
+      "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 16:35:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o#0",
       "source": "BBC Sport"
     },
     {
@@ -28,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Phillips ton helps NZ beat India in fourth T20 - scorecard",
+      "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Sixers beat Heat off last ball - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Sydney Sixers at Brisbane's Allan Border Field.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417?at_medium=RSS&at_campaign=rss",
@@ -36,19 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Namibia v Ireland - fourth ODI scorecard",
-      "description": "Latest scorecard from the fourth one-day international between Namibia and Ireland in Windhoek.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244987?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244987#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Phillips ton helps NZ beat India in fourth T20 - scorecard",
-      "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111#0",
+      "title": "Jersey defeat Denmark by 72 runs in Challenge League",
+      "description": "Jonty Jenner and Josh Lawrenson showed their class as Jersey defeated Denmark in Nairobi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 15:34:26 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo#1",
       "source": "BBC Sport"
     },
     {
@@ -73,14 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 16:53:40 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ireland captain Stirling out of Namibia series",
-      "description": "Ireland captain Paul Stirling will miss the concluding two matches of his side's one-day international series in Namibia after fracturing his finger.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 17:22:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o#1",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "A look back at the legendary actor's life and career",
-      "description": "Sir Patrick Stewart died at his home in Los Angeles on Wednesday, aged 86",
-      "link": "https://www.bbc.co.uk/iplayer/episode/l00591hm?at_mid=SLDXWOWF8W&at_campaign=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=l00591hm&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_bbc_team=BBC&at_creation=News",
-      "published": "Thu, 29 Oct 2026 22:05:48 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/l00591hm?at_mid=SLDXWOWF8W&at_campaign=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=l00591hm&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_bbc_team=BBC&at_creation=News#7",
       "source": "BBC Sport"
     }
   ]
