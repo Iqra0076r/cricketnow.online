@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-30T07:56:16.886706+00:00",
+  "updatedAt": "2026-10-30T14:46:41.315837+00:00",
   "items": [
+    {
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 10:44:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
+      "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 10:33:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Duckett and Dawson deliver in England's consolation win",
       "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
@@ -12,11 +28,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Careless dismissals give Australia route to series win",
-      "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 16:53:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o#0",
+      "title": "Sixers beat Heat off last ball - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Sydney Sixers at Brisbane's Allan Border Field.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417#0",
       "source": "BBC Sport"
     },
     {
@@ -28,7 +44,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "New Zealand v India - fourth T20 scorecard",
+      "title": "Phillips ton helps NZ beat India in fourth T20 - scorecard",
       "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 00:00:00 GMT",
@@ -36,19 +52,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bangladesh v West Indies - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "Hear from centurion Ben Duckett as England finish their tri-series with a win.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 17:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bangladesh v West Indies - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Careless dismissals give Australia route to series win",
+      "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 16:53:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +96,15 @@
       "description": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 17:33:41 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stumped podcast: Lancashire release legend Anderson",
+      "description": "Anderson is without a county, so is this the end of his glittering career?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g4?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:18:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +112,7 @@
       "description": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 17:47:58 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +120,7 @@
       "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 11:55:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped",
-      "description": "Anderson is without a county, so is this the end of his glittering career?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g4?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 14:18:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#2",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo#2",
       "source": "BBC Sport"
     },
     {
@@ -113,30 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 11:26:17 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Essex wicketkeeper Bell feared career was over",
-      "description": "Essex wicketkeeper George Bell feared his professional career may have come to an abrupt end before the county re-signed him on a permanent basis last week.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 14:14:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx30e99207ego#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ireland fall behind in series after Namibia defeat",
-      "description": "Ireland fall 2-1 behind in their five-match ODI series against Namibia as they lose by 63 runs in the third meeting between the sides.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 15:58:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Batty leaves Surrey to join Chennai Super Kings",
-      "description": "Surrey head coach Gareth Batty steps down to join Indian Premier League side Chennai Super Kings as assistant head coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 13:56:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo#2",
       "source": "BBC Sport"
     },
     {
@@ -233,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "A look back at the legendary actor's life and career",
+      "description": "Sir Patrick Stewart died at his home in Los Angeles on Wednesday, aged 86",
+      "link": "https://www.bbc.co.uk/iplayer/episode/l00591hm?at_mid=SLDXWOWF8W&at_campaign=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=l00591hm&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_bbc_team=BBC&at_creation=News",
+      "published": "Thu, 29 Oct 2026 22:05:48 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/l00591hm?at_mid=SLDXWOWF8W&at_campaign=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=l00591hm&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Legendary_Star_Trek_Actor_Sir_Patrick_Stewart_Dies&at_bbc_team=BBC&at_creation=News#7",
       "source": "BBC Sport"
     }
   ]
