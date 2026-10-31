@@ -1,14 +1,22 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-31T07:50:28.542544+00:00",
+  "updatedAt": "2026-10-31T14:08:52.931169+00:00",
   "items": [
     {
-      "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
-      "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 17:03:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o#0",
+      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
+      "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 13:23:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pears paceman Allison signs new three-year deal",
+      "description": "Worcestershire's former Essex fast bowler Ben Allison signs a new three-year contract.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 12:36:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o#0",
       "source": "BBC Sport"
     },
     {
@@ -20,22 +28,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Moondra's record 6-26 helps Ireland force decider",
-      "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 16:35:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
-      "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:33:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Bangladesh v West Indies - first Test scorecard",
       "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
@@ -44,11 +36,35 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Adelaide Strikers v Melbourne Stars - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Melbourne Stars at Adelaide's Karen Rolton Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242418?at_medium=RSS&at_campaign=rss",
+      "title": "Scorchers see off Renegades by nine wickets- WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Melbourne Renegades at the Waca in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242419?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242418#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242419#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Zaib joins Hampshire and eyes Division One return",
+      "description": "Hampshire sign all-rounder Saif Zaib following his exit from Northamptonshire on Thursday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 15:10:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Moondra's record 6-26 helps Ireland force decider",
+      "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 16:35:44 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
+      "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 10:33:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,7 @@
       "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 16:37:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#1",
       "source": "BBC Sport"
     },
     {
@@ -72,15 +88,7 @@
       "description": "Jonty Jenner and Josh Lawrenson showed their class as Jersey defeated Denmark in Nairobi.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 15:34:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sixers beat Heat off last ball - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Sydney Sixers at Brisbane's Allan Border Field.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +96,7 @@
       "description": "Hear from centurion Ben Duckett as England finish their tri-series with a win.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 17:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Careless dismissals give Australia route to series win",
-      "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 16:53:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#2",
       "source": "BBC Sport"
     },
     {
@@ -129,22 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 11:55:15 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England out of tri-series after Sri Lanka beat Pakistan",
-      "description": "Sri Lanka thrash Pakistan by eight wickets to end England's hopes of reaching Saturday's tri-series final.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 13:01:11 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
-      "description": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 11:26:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo#2",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +225,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "A stand-alone, critically-acclaimed film by Jimmy McGovern",
+      "description": "The Mitchell family deal with the devastating aftermath of an act of sexual abuse.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC",
+      "published": "Fri, 24 Jul 2026 04:45:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
