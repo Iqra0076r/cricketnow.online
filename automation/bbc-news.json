@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-10-30T20:17:51.277296+00:00",
+  "updatedAt": "2026-10-31T01:18:54.811846+00:00",
   "items": [
     {
       "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
@@ -36,6 +36,22 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Bangladesh v West Indies - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Adelaide Strikers v Melbourne Stars - WBBL scorecard (from 04:40 GMT)",
+      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Melbourne Stars at Adelaide's Karen Rolton Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242418?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242418#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Duckett and Dawson deliver in England's consolation win",
       "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
@@ -48,15 +64,7 @@
       "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sixers beat Heat off last ball - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Sydney Sixers at Brisbane's Allan Border Field.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111#1",
       "source": "BBC Sport"
     },
     {
@@ -68,6 +76,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Sixers beat Heat off last ball - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Sydney Sixers at Brisbane's Allan Border Field.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242417#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Test Match Special Podcast",
       "description": "Hear from centurion Ben Duckett as England finish their tri-series with a win.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
@@ -76,27 +92,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bangladesh v West Indies - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Careless dismissals give Australia route to series win",
       "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 16:53:40 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Azmatullah century gives Afghanistan series win over Zimbabwe - scorecard",
-      "description": "Latest scorecard from the second Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244568#1",
       "source": "BBC Sport"
     },
     {
