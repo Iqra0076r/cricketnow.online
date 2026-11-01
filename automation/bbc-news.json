@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-01T17:28:31.707831+00:00",
+  "updatedAt": "2026-11-01T21:33:18.887525+00:00",
   "items": [
+    {
+      "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
+      "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:06:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
       "description": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
@@ -36,14 +44,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
-      "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 13:23:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Afghanistan thrash Zimbabwe to sweep T20 series - scorecard",
       "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
@@ -57,6 +57,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
+      "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 13:23:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#1",
       "source": "BBC Sport"
     },
     {
@@ -76,14 +84,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:44:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "West Indies earn impressive win over Bangladesh - first Test scorecard",
       "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
@@ -97,6 +97,14 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:33:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 10:44:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 16:37:15 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Jersey defeat Denmark by 72 runs in Challenge League",
-      "description": "Jonty Jenner and Josh Lawrenson showed their class as Jersey defeated Denmark in Nairobi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 15:34:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmn8wzddqnzvo#2",
       "source": "BBC Sport"
     },
     {
