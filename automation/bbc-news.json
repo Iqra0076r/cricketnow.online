@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-01T03:39:55.779685+00:00",
+  "updatedAt": "2026-11-01T10:56:24.403107+00:00",
   "items": [
+    {
+      "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+      "description": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 06:29:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - fifth T20 scorecard",
+      "description": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
       "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
@@ -12,11 +28,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan win thrilling tri-series final - scorecard",
-      "description": "Latest scorecard from the final of the one-day international tri-series between Pakistan and Sri Lanka in Lahore.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244087?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244087#0",
+      "title": "Namibia v Ireland - fifth ODI scorecard",
+      "description": "Latest scorecard from the fifth and final one-day international between Namibia and Ireland in Windhoek.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244988?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244988#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Knight shines as Sydney Thunder beat Brisbane Heat - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Brisbane Heat at Sydney's Drummoyne Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420#0",
       "source": "BBC Sport"
     },
     {
@@ -28,11 +52,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Pakistan win thrilling tri-series final - scorecard",
+      "description": "Latest scorecard from the final of the one-day international tri-series between Pakistan and Sri Lanka in Lahore.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244087?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244087#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
       "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:44:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#1",
       "source": "BBC Sport"
     },
     {
@@ -40,23 +72,7 @@
       "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Scorchers see off Renegades by nine wickets- WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Melbourne Renegades at the Waca in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242419?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242419#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Zaib joins Hampshire and eyes Division One return",
-      "description": "Hampshire sign all-rounder Saif Zaib following his exit from Northamptonshire on Thursday.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 15:10:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#1",
       "source": "BBC Sport"
     },
     {
@@ -76,19 +92,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Zaib joins Hampshire and eyes Division One return",
+      "description": "Hampshire sign all-rounder Saif Zaib following his exit from Northamptonshire on Thursday.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 15:10:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Duckett and Dawson deliver in England's consolation win",
       "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 16:37:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Phillips ton helps NZ beat India in fourth T20 - scorecard",
-      "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#2",
       "source": "BBC Sport"
     },
     {
@@ -121,22 +137,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g4?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 14:18:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Lancashire treatment of Anderson disrespectful - Broad",
-      "description": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 17:47:58 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leading Blast scorer Weatherley signs deal to 2028",
-      "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 11:55:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo#2",
       "source": "BBC Sport"
     },
     {
