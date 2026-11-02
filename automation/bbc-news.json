@@ -1,22 +1,22 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-02T08:42:02.384082+00:00",
+  "updatedAt": "2026-11-02T19:55:01.953957+00:00",
   "items": [
     {
-      "title": "Australia omit star pace trio for England series",
-      "description": "Australia omit the star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc from their squads for the upcoming white-ball series against England.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 08:07:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#0",
+      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
+      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
-      "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 21:06:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#0",
+      "title": "Australia omit star pace trio for England series",
+      "description": "Australia's star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc will not feature in the upcoming white-ball series against England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 10:59:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#0",
       "source": "BBC Sport"
     },
     {
@@ -25,6 +25,30 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 06:29:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stokell in 'voluntary' ban after medication error",
+      "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:44:30 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Devine & King lead Scorchers to victory over Stars - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Perth Scorchers at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
+      "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:06:07 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#0",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +64,7 @@
       "description": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +72,7 @@
       "description": "Ireland captain Lorcan Tucker says his side will have \"learned a lot\" as Namibia clinch a 3-2 win in the one-day international series in Windhoek.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 16:43:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o#1",
       "source": "BBC Sport"
     },
     {
@@ -76,11 +100,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 10:44:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Knight shines as Sydney Thunder beat Brisbane Heat - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Brisbane Heat at Sydney's Drummoyne Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420#2",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +120,7 @@
       "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:33:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:44:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#2",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#2",
       "source": "BBC Sport"
     },
     {
@@ -124,22 +148,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Hear from centurion Ben Duckett as England finish their tri-series with a win.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 17:25:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped podcast: Lancashire release legend Anderson",
-      "description": "Anderson is without a county, so is this the end of his glittering career?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g4?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 14:18:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g4#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "County ins and outs",
       "description": "With the 2025 county season completed, stay up to date with the latest player signings and speculation.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo?at_medium=RSS&at_campaign=rss",
@@ -149,10 +157,10 @@
     },
     {
       "title": "Test Match Special Podcast",
-      "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 17:39:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pjkv82#4",
+      "description": "Hear from centurion Ben Duckett as England finish their tri-series with a win.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 17:25:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#4",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "A stand-alone, critically-acclaimed film by Jimmy McGovern",
-      "description": "The Mitchell family deal with the devastating aftermath of an act of sexual abuse.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC",
-      "published": "Fri, 24 Jul 2026 04:45:00 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
