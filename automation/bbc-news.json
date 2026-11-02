@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-02T01:09:46.754150+00:00",
+  "updatedAt": "2026-11-02T08:42:02.384082+00:00",
   "items": [
+    {
+      "title": "Australia omit star pace trio for England series",
+      "description": "Australia omit the star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc from their squads for the upcoming white-ball series against England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 08:07:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
       "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
@@ -48,7 +56,7 @@
       "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 13:23:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#1",
       "source": "BBC Sport"
     },
     {
@@ -76,27 +84,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan win thrilling tri-series final - scorecard",
-      "description": "Latest scorecard from the final of the one-day international tri-series between Pakistan and Sri Lanka in Lahore.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244087?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244087#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
       "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:33:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "West Indies earn impressive win over Bangladesh - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572#1",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "A stand-alone, critically-acclaimed film by Jimmy McGovern",
+      "description": "The Mitchell family deal with the devastating aftermath of an act of sexual abuse.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC",
+      "published": "Fri, 24 Jul 2026 04:45:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m002g7zb?at_mid=93AqQATdig&at_campaign=Unforgivable&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002g7zb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Unforgivable&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
