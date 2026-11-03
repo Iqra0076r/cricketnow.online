@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-03T08:57:35.213074+00:00",
+  "updatedAt": "2026-11-03T17:27:31.026155+00:00",
   "items": [
     {
       "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
@@ -9,6 +9,30 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 17:59:02 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Cricket Writers' Awards for Robinson, Sharma & Bamber",
+      "description": "Fast bowlers dominate at Cricket Writers' Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 16:24:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Batter Bean joins Northants from Yorkshire",
+      "description": "Northamptonshire sign wicketkeeper-batter Finlay Bean on a three-year deal from Yorkshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 10:57:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sussex appoint Barrett-Wild as first female CEO",
+      "description": "Sussex name Beth Barrett-Wild as their next CEO with ex-England bowler Holly Colvin set to join as a non-executive director.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 17:21:05 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo#0",
       "source": "BBC Sport"
     },
     {
@@ -28,14 +52,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stokell in 'voluntary' ban after medication error",
-      "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:44:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Devine & King lead Scorchers to victory over Stars - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Perth Scorchers at Melbourne's Junction Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422?at_medium=RSS&at_campaign=rss",
@@ -44,11 +60,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Stokell in 'voluntary' ban after medication error",
+      "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:44:30 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
       "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 21:06:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +80,7 @@
       "description": "McCullum discusses taking a team down under for the first time since the Ashes.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkrdkb?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 15:44:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkrdkb#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkrdkb#1",
       "source": "BBC Sport"
     },
     {
@@ -80,15 +104,7 @@
       "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 13:23:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan thrash Zimbabwe to sweep T20 series - scorecard",
-      "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +112,15 @@
       "description": "Worcestershire's former Essex fast bowler Ben Allison signs a new three-year contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 12:36:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan thrash Zimbabwe to sweep T20 series - scorecard",
+      "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#2",
       "source": "BBC Sport"
     },
     {
@@ -121,30 +145,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:33:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Moondra's record 6-26 helps Ireland force decider",
-      "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 16:35:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Zaib joins Hampshire and eyes Division One return",
-      "description": "Hampshire sign all-rounder Saif Zaib following his exit from Northamptonshire on Thursday.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 15:10:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwn73p27g3meo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Duckett and Dawson deliver in England's consolation win",
-      "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 16:37:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo#2",
       "source": "BBC Sport"
     },
     {
