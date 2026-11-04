@@ -1,22 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-04T04:16:15.056611+00:00",
+  "updatedAt": "2026-11-04T13:35:08.605226+00:00",
   "items": [
-    {
-      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
-      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#0",
-      "source": "BBC Sport"
-    },
     {
       "title": "Cricket Media Awards for Robinson, Sharma & Bamber",
       "description": "Fast bowlers dominate at Cricket Media Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 16:24:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Kohli leads India to victory over NZ - first ODI scorecard",
+      "description": "Latest scorecard from the first one-day international between New Zealand and India in Auckland.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242113?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242113#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Renegades beat Hurricanes by four wickets - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Melbourne Renegades in Hobart.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242423?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242423#0",
       "source": "BBC Sport"
     },
     {
@@ -36,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
+      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Australia omit star pace trio for England series",
       "description": "Australia's star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc will not feature in the upcoming white-ball series against England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
@@ -48,15 +64,7 @@
       "description": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 06:29:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Devine & King lead Scorchers to victory over Stars - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Perth Scorchers at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#1",
       "source": "BBC Sport"
     },
     {
@@ -65,6 +73,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 14:44:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Devine & King lead Scorchers to victory over Stars - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Perth Scorchers at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "NZ win final T20 by seven wickets but India take series - scorecard",
-      "description": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Namibia overpower Ireland in series decider",
       "description": "Ireland captain Lorcan Tucker says his side will have \"learned a lot\" as Namibia clinch a 3-2 win in the one-day international series in Windhoek.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 16:43:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "NZ win final T20 by seven wickets but India take series - scorecard",
+      "description": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan thrash Zimbabwe to sweep T20 series - scorecard",
+      "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#2",
       "source": "BBC Sport"
     },
     {
@@ -116,35 +140,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan thrash Zimbabwe to sweep T20 series - scorecard",
-      "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
       "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 10:44:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Knight shines as Sydney Thunder beat Brisbane Heat - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Brisbane Heat at Sydney's Drummoyne Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242420#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
-      "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:33:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkfwdv#2",
       "source": "BBC Sport"
     },
     {
