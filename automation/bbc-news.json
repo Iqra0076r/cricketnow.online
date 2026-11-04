@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-04T13:35:08.605226+00:00",
+  "updatedAt": "2026-11-04T20:37:33.500953+00:00",
   "items": [
+    {
+      "title": "Leicestershire relegation confirmed after losing appeal",
+      "description": "Leicestershire's relegation from Division One of the County Championship is confirmed after failing in their appeal against a points penalty.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 16:22:32 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Cricket Media Awards for Robinson, Sharma & Bamber",
       "description": "Fast bowlers dominate at Cricket Media Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
@@ -56,7 +64,7 @@
       "description": "Australia's star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc will not feature in the upcoming white-ball series against England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 10:59:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "McCullum discusses taking a team down under for the first time since the Ashes.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pkrdkb?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 15:44:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkrdkb#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pkrdkb#2",
       "source": "BBC Sport"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan thrash Zimbabwe to sweep T20 series - scorecard",
-      "description": "Latest scorecard from the third Twenty20 international between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244569#2",
       "source": "BBC Sport"
     },
     {
