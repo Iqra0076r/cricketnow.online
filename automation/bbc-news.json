@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-05T01:55:30.937571+00:00",
+  "updatedAt": "2026-11-05T08:51:21.388111+00:00",
   "items": [
     {
       "title": "Leicestershire relegation confirmed after losing appeal",
@@ -9,6 +9,30 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 16:22:32 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bangladesh v West Indies - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Knott century helps Heat beat Strikers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424#0",
       "source": "BBC Sport"
     },
     {
@@ -28,19 +52,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Renegades beat Hurricanes by four wickets - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Melbourne Renegades in Hobart.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242423?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242423#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Batter Bean joins Northants from Yorkshire",
-      "description": "Northamptonshire sign wicketkeeper-batter Finlay Bean on a three-year deal from Yorkshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 10:57:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo#0",
+      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
+      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#1",
       "source": "BBC Sport"
     },
     {
@@ -48,15 +64,15 @@
       "description": "Sussex name Beth Barrett-Wild as their next CEO with ex-England bowler Holly Colvin set to join as a non-executive director.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 17:21:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
-      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#0",
+      "title": "Batter Bean joins Northants from Yorkshire",
+      "description": "Northamptonshire sign wicketkeeper-batter Finlay Bean on a three-year deal from Yorkshire.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 10:57:40 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo#1",
       "source": "BBC Sport"
     },
     {
@@ -76,27 +92,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stokell in 'voluntary' ban after medication error",
-      "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:44:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Devine & King lead Scorchers to victory over Stars - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Perth Scorchers at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242422#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
       "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 21:06:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stokell in 'voluntary' ban after medication error",
+      "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:44:30 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#2",
       "source": "BBC Sport"
     },
     {
@@ -129,22 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 13:23:15 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pears paceman Allison signs new three-year deal",
-      "description": "Worcestershire's former Essex fast bowler Ben Allison signs a new three-year contract.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 12:36:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
-      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:44:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo#2",
       "source": "BBC Sport"
     },
     {
