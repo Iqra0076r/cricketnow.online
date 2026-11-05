@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-05T08:51:21.388111+00:00",
+  "updatedAt": "2026-11-05T17:47:36.699600+00:00",
   "items": [
+    {
+      "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
+      "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 13:10:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Robinson returns to Sussex as director of cricket",
+      "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 11:04:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Leicestershire relegation confirmed after losing appeal",
       "description": "Leicestershire's relegation from Division One of the County Championship is confirmed after failing in their appeal against a points penalty.",
@@ -12,7 +28,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bangladesh v West Indies - second Test scorecard",
+      "title": "Jangoo ton as West Indies start well in Bangladesh - second Test scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
@@ -20,7 +36,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "title": "Taylor ton as Zimbabwe control day one v Afghanistan - first Test scorecard",
       "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
@@ -28,11 +44,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Stumped",
+      "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 15:40:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Scorchers beat Thunder by 17 runs - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Perth Scorchers at Sydney's Drummoyne Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Knott century helps Heat beat Strikers - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424#1",
       "source": "BBC Sport"
     },
     {
@@ -40,15 +72,15 @@
       "description": "Fast bowlers dominate at Cricket Media Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 16:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Kohli leads India to victory over NZ - first ODI scorecard",
-      "description": "Latest scorecard from the first one-day international between New Zealand and India in Auckland.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242113?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242113#0",
+      "title": "Jersey playing at highest level ever - Tribe",
+      "description": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 12:24:52 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +104,7 @@
       "description": "Northamptonshire sign wicketkeeper-batter Finlay Bean on a three-year deal from Yorkshire.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 10:57:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +112,7 @@
       "description": "Australia's star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc will not feature in the upcoming white-ball series against England.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 10:59:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +120,7 @@
       "description": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 06:29:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
-      "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 21:06:07 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo#2",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#2",
       "source": "BBC Sport"
     },
     {
@@ -121,22 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 16:43:04 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "NZ win final T20 by seven wickets but India take series - scorecard",
-      "description": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
-      "description": "Australia crumble under the pressure of a final-day chase as South Africa charge to a famous Test and series victory.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 13:23:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o#2",
       "source": "BBC Sport"
     },
     {
