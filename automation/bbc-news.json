@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-05T17:47:36.699600+00:00",
+  "updatedAt": "2026-11-05T23:06:29.681217+00:00",
   "items": [
+    {
+      "title": "Northants' Lynn served drugs ban after Blast final",
+      "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 17:47:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
       "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
@@ -56,7 +64,7 @@
       "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Perth Scorchers at Sydney's Drummoyne Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Sussex name Beth Barrett-Wild as their next CEO with ex-England bowler Holly Colvin set to join as a non-executive director.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 17:21:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pkrdkb?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 15:44:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pkrdkb#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Namibia overpower Ireland in series decider",
-      "description": "Ireland captain Lorcan Tucker says his side will have \"learned a lot\" as Namibia clinch a 3-2 win in the one-day international series in Windhoek.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 16:43:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o#2",
       "source": "BBC Sport"
     },
     {
