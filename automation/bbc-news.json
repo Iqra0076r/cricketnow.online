@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-05T23:06:29.681217+00:00",
+  "updatedAt": "2026-11-06T04:32:53.801827+00:00",
   "items": [
+    {
+      "title": "Anderson could be given chance to join Surrey",
+      "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 23:33:52 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Northants' Lynn served drugs ban after Blast final",
       "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
@@ -36,7 +44,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Jangoo ton as West Indies start well in Bangladesh - second Test scorecard",
+      "title": "Bangladesh v West Indies - second Test scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
@@ -44,7 +52,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Taylor ton as Zimbabwe control day one v Afghanistan - first Test scorecard",
+      "title": "Afghanistan v Zimbabwe - first Test scorecard",
       "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
@@ -56,7 +64,7 @@
       "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 15:40:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#1",
       "source": "BBC Sport"
     },
     {
@@ -68,14 +76,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Knott century helps Heat beat Strikers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Cricket Media Awards for Robinson, Sharma & Bamber",
       "description": "Fast bowlers dominate at Cricket Media Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo?at_medium=RSS&at_campaign=rss",
@@ -84,11 +84,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Jersey playing at highest level ever - Tribe",
-      "description": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 12:24:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o#1",
+      "title": "Knott century helps Heat beat Strikers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424#1",
       "source": "BBC Sport"
     },
     {
@@ -97,6 +97,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 17:59:02 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Jersey playing at highest level ever - Tribe",
+      "description": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 12:24:52 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 14:44:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "McCullum reflects on tri-series and return to Australia",
-      "description": "McCullum discusses taking a team down under for the first time since the Ashes.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pkrdkb?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 15:44:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pkrdkb#2",
       "source": "BBC Sport"
     },
     {
