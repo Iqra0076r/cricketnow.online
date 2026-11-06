@@ -1,8 +1,32 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-06T04:32:53.801827+00:00",
+  "updatedAt": "2026-11-06T13:32:38.600910+00:00",
   "items": [
+    {
+      "title": "Two-year ban for 'Clicky Ponting' cricketer",
+      "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 12:00:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia recruit Hussey for Ashes build-up",
+      "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 08:05:05 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sixers beat Stars by one run in thriller - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Sydney Sixers at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242426?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242426#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Anderson could be given chance to join Surrey",
       "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
@@ -12,35 +36,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Northants' Lynn served drugs ban after Blast final",
-      "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:47:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
-      "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:10:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Robinson returns to Sussex as director of cricket",
-      "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:04:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leicestershire relegation confirmed after losing appeal",
-      "description": "Leicestershire's relegation from Division One of the County Championship is confirmed after failing in their appeal against a points penalty.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:22:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo#0",
+      "title": "Head coach Domingo leaves Hampshire after one season",
+      "description": "Hampshire head coach Russell Domingo leaves his position at the club less than a year into his two-year-deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 10:02:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo#0",
       "source": "BBC Sport"
     },
     {
@@ -60,11 +60,35 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stumped",
-      "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 15:40:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#1",
+      "title": "Pretorius agrees to return to Somerset for 2027",
+      "description": "South African all-rounder Migael Pretorius agrees a new deal with Somerset for the 2027 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 12:43:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
+      "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 13:10:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Northants' Lynn served drugs ban after Blast final",
+      "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 17:47:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Robinson returns to Sussex as director of cricket",
+      "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 11:04:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo#1",
       "source": "BBC Sport"
     },
     {
@@ -76,27 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Cricket Media Awards for Robinson, Sharma & Bamber",
-      "description": "Fast bowlers dominate at Cricket Media Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 16:24:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Knott century helps Heat beat Strikers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
-      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#1",
+      "title": "Stumped",
+      "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 15:40:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#2",
       "source": "BBC Sport"
     },
     {
@@ -105,6 +113,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 12:24:52 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Leicestershire relegation confirmed after losing appeal",
+      "description": "Leicestershire's relegation from Division One of the County Championship is confirmed after failing in their appeal against a points penalty.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 16:22:32 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo#2",
       "source": "BBC Sport"
     },
     {
@@ -124,27 +140,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia omit star pace trio for England series",
-      "description": "Australia's star pace trio of Pat Cummins, Josh Hazlewood and Mitchell Starc will not feature in the upcoming white-ball series against England.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 10:59:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr5ynwddqpd6o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
-      "description": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 06:29:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stokell in 'voluntary' ban after medication error",
-      "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:44:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo#2",
+      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
+      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#2",
       "source": "BBC Sport"
     },
     {
