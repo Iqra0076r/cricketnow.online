@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-06T13:32:38.600910+00:00",
+  "updatedAt": "2026-11-06T20:11:56.223454+00:00",
   "items": [
     {
       "title": "Two-year ban for 'Clicky Ponting' cricketer",
@@ -9,6 +9,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 12:00:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Women's rights matter more than any league, say Afghan cricketers",
+      "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 13:40:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Anderson on potentially playing in 2027",
+      "description": "News on Jimmy’s future (sort of)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 18:38:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#0",
       "source": "BBC Sport"
     },
     {
@@ -36,11 +52,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Head coach Domingo leaves Hampshire after one season",
-      "description": "Hampshire head coach Russell Domingo leaves his position at the club less than a year into his two-year-deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 10:02:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo#0",
+      "title": "Ireland name uncapped duo for T20 tournament",
+      "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:12:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#0",
       "source": "BBC Sport"
     },
     {
@@ -48,15 +64,15 @@
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#0",
+      "title": "Head coach Domingo leaves Hampshire after one season",
+      "description": "Hampshire head coach Russell Domingo leaves his position at the club less than a year into his two-year-deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 10:02:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo#1",
       "source": "BBC Sport"
     },
     {
@@ -68,11 +84,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Northamptonshire all-rounder Kimber extends deal",
+      "description": "Northamptonshire all-rounder Louis Kimber signs a contract extension that will keep him with the county until the end of the 2028 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:16:18 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
       "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 13:10:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +112,7 @@
       "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 17:47:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#2",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +120,7 @@
       "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 11:04:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Scorchers beat Thunder by 17 runs - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Perth Scorchers at Sydney's Drummoyne Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242425#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo#2",
       "source": "BBC Sport"
     },
     {
@@ -121,30 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 16:22:32 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sussex appoint Barrett-Wild as first female CEO",
-      "description": "Sussex name Beth Barrett-Wild as their next CEO with ex-England bowler Holly Colvin set to join as a non-executive director.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 17:21:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Batter Bean joins Northants from Yorkshire",
-      "description": "Northamptonshire sign wicketkeeper-batter Finlay Bean on a three-year deal from Yorkshire.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 10:57:40 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c61m41k3057xo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie",
-      "description": "Organisers say 8.4m people have applied for tickets to India v Pakistan at the Men's Cricket World Cup in Johannesburg in 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:59:02 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr2ke7gy8q1go#2",
       "source": "BBC Sport"
     },
     {
