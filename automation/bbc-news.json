@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-06T20:11:56.223454+00:00",
+  "updatedAt": "2026-11-07T01:29:13.340546+00:00",
   "items": [
+    {
+      "title": "Whole Australia team knew of sandpaper use - Khawaja",
+      "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 23:11:56 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Western Australia XI v England - warm-up scorecard",
+      "description": "Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Two-year ban for 'Clicky Ponting' cricketer",
       "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 12:00:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - second ODI scorecard",
+      "description": "Latest scorecard from the second one-day international between New Zealand and India at Wellington's Hnry Stadium.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114#0",
       "source": "BBC Sport"
     },
     {
@@ -20,75 +44,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Anderson on potentially playing in 2027",
-      "description": "News on Jimmy’s future (sort of)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 18:38:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia recruit Hussey for Ashes build-up",
-      "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 08:05:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sixers beat Stars by one run in thriller - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Sydney Sixers at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242426?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242426#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson could be given chance to join Surrey",
-      "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 23:33:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ireland name uncapped duo for T20 tournament",
-      "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:12:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Bangladesh v West Indies - second Test scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Head coach Domingo leaves Hampshire after one season",
-      "description": "Hampshire head coach Russell Domingo leaves his position at the club less than a year into his two-year-deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 10:02:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pretorius agrees to return to Somerset for 2027",
-      "description": "South African all-rounder Migael Pretorius agrees a new deal with Somerset for the 2027 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:43:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northamptonshire all-rounder Kimber extends deal",
-      "description": "Northamptonshire all-rounder Louis Kimber signs a contract extension that will keep him with the county until the end of the 2028 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:16:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#0",
       "source": "BBC Sport"
     },
     {
@@ -97,6 +57,62 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia recruit Hussey for Ashes build-up",
+      "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 08:05:05 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Anderson could be given chance to join Surrey",
+      "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 22:58:58 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Anderson on potentially playing in 2027",
+      "description": "News on Jimmy’s future (sort of)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 18:38:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ireland name uncapped duo for T20 tournament",
+      "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:12:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Northamptonshire all-rounder Kimber extends deal",
+      "description": "Northamptonshire all-rounder Louis Kimber signs a contract extension that will keep him with the county until the end of the 2028 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:16:18 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Head coach Domingo leaves Hampshire after one season",
+      "description": "Hampshire head coach Russell Domingo leaves his position at the club less than a year into his two-year-deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 10:02:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmx28zz5eg3jo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pretorius agrees to return to Somerset for 2027",
+      "description": "South African all-rounder Migael Pretorius agrees a new deal with Somerset for the 2027 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 12:43:59 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o#2",
       "source": "BBC Sport"
     },
     {
@@ -124,35 +140,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Stumped",
-      "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 15:40:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Jersey playing at highest level ever - Tribe",
-      "description": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 12:24:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Leicestershire relegation confirmed after losing appeal",
-      "description": "Leicestershire's relegation from Division One of the County Championship is confirmed after failing in their appeal against a points penalty.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:22:32 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cry4xzkgvkgeo#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "County ins and outs",
       "description": "With the 2025 county season completed, stay up to date with the latest player signings and speculation.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 09:41:08 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Stumped",
+      "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 15:40:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g5#4",
       "source": "BBC Sport"
     },
     {
@@ -169,14 +169,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 13:20:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped",
-      "description": "Test coach Stephen Fleming has suggested England should have an English coach.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99fy?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 12:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99fy#4",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+      "description": "Zac Efron stars. True story of the Von Erichs, wrestling legends who changed the sport",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
+      "published": "Sun, 10 May 2026 23:07:07 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film#7",
       "source": "BBC Sport"
     }
   ]
