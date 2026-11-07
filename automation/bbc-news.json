@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-07T16:00:03.976177+00:00",
+  "updatedAt": "2026-11-07T20:04:52.926886+00:00",
   "items": [
     {
       "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
@@ -44,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Heat beat Hurricanes  by four wickets - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Hobart Hurricanes at Brisbane's Allan Border Field.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Women's rights matter more than any league, say Afghan cricketers",
       "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
@@ -52,15 +60,15 @@
       "source": "BBC Sport"
     },
     {
-      "title": "West Indies trail Bangladesh by 23 runs - second Test scorecard",
+      "title": "West Indies v Bangladesh - second Test scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan trail Zimbabwe by 102 runs - first Test scorecard",
+      "title": "Afghanistan v Zimbabwe - first Test scorecard",
       "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -96,7 +104,7 @@
       "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 14:12:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#2",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
-      "description": "Zac Efron stars. True story of the Von Erichs, wrestling legends who changed the sport",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
-      "published": "Sun, 10 May 2026 23:07:07 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film#7",
       "source": "BBC Sport"
     }
   ]
