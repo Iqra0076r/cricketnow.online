@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-07T01:29:13.340546+00:00",
+  "updatedAt": "2026-11-07T08:05:56.365135+00:00",
   "items": [
     {
       "title": "Whole Australia team knew of sandpaper use - Khawaja",
@@ -47,7 +47,7 @@
       "title": "Bangladesh v West Indies - second Test scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#0",
       "source": "BBC Sport"
     },
@@ -55,7 +55,7 @@
       "title": "Afghanistan v Zimbabwe - first Test scorecard",
       "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#1",
       "source": "BBC Sport"
     },
