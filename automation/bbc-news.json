@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-07T08:05:56.365135+00:00",
+  "updatedAt": "2026-11-07T16:00:03.976177+00:00",
   "items": [
+    {
+      "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
+      "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 14:41:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Whole Australia team knew of sandpaper use - Khawaja",
       "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
@@ -12,11 +20,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Western Australia XI v England - warm-up scorecard",
-      "description": "Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989#0",
+      "title": "How an 'absolute fluke' exposed sandpapergate scandal",
+      "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 14:28:55 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#0",
       "source": "BBC Sport"
     },
     {
@@ -28,7 +36,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "New Zealand v India - second ODI scorecard",
+      "title": "India beat New Zealand by four runs - second ODI scorecard",
       "description": "Latest scorecard from the second one-day international between New Zealand and India at Wellington's Hnry Stadium.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -44,7 +52,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bangladesh v West Indies - second Test scorecard",
+      "title": "West Indies trail Bangladesh by 23 runs - second Test scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -52,7 +60,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "title": "Afghanistan trail Zimbabwe by 102 runs - first Test scorecard",
       "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 17:47:10 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Robinson returns to Sussex as director of cricket",
-      "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:04:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo#2",
       "source": "BBC Sport"
     },
     {
