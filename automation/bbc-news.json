@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-08T00:58:46.996113+00:00",
+  "updatedAt": "2026-11-08T08:25:13.662497+00:00",
   "items": [
     {
       "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
@@ -12,11 +12,35 @@
       "source": "BBC Sport"
     },
     {
+      "title": "West Indies v Bangladesh - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Whole Australia team knew of sandpaper use - Khawaja",
       "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 23:11:56 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sydney Sixers beat Sydney Thunder by 9 runs - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers and Sydney Thunder at North Sydney Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242429?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242429#0",
       "source": "BBC Sport"
     },
     {
@@ -32,7 +56,7 @@
       "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 12:00:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#1",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +64,7 @@
       "description": "Latest scorecard from the second one-day international between New Zealand and India at Wellington's Hnry Stadium.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +72,15 @@
       "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Hobart Hurricanes at Brisbane's Allan Border Field.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Melbourne Renegades beat Adelaide Strikers by 36 runs - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Adelaide Strikers at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242427?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242427#1",
       "source": "BBC Sport"
     },
     {
@@ -56,23 +88,7 @@
       "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 13:40:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "West Indies v Bangladesh - second Test scorecard",
-      "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan v Zimbabwe - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo#1",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +96,7 @@
       "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 08:05:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 22:58:58 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +112,7 @@
       "description": "News on Jimmy’s future (sort of)",
       "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 18:38:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#2",
       "source": "BBC Sport"
     },
     {
@@ -129,30 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 12:43:59 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crz988j34w33o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
-      "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:10:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northants' Lynn served drugs ban after Blast final",
-      "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:47:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "County ins and outs",
-      "description": "With the 2025 county season completed, stay up to date with the latest player signings and speculation.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 09:41:08 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c68040pm73vgo#2",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+      "description": "Zac Efron stars. True story of the Von Erichs, wrestling legends who changed the sport",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
+      "published": "Sun, 10 May 2026 23:07:07 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film#7",
       "source": "BBC Sport"
     }
   ]
