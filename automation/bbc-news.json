@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-08T08:25:13.662497+00:00",
+  "updatedAt": "2026-11-08T16:28:04.752760+00:00",
   "items": [
+    {
+      "title": "I haven't thrown anyone under the bus - Khawaja",
+      "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 10:04:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
       "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
@@ -36,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Perth Scorchers beat Melbourne Stars by six wickets - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Melbourne Stars at North Sydney Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242430?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242430#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Sydney Sixers beat Sydney Thunder by 9 runs - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers and Sydney Thunder at North Sydney Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242429?at_medium=RSS&at_campaign=rss",
@@ -48,7 +64,7 @@
       "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 14:28:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#1",
       "source": "BBC Sport"
     },
     {
@@ -73,14 +89,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242428#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Melbourne Renegades beat Adelaide Strikers by 36 runs - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Adelaide Strikers at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242427?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242427#1",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
-      "description": "Zac Efron stars. True story of the Von Erichs, wrestling legends who changed the sport",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
-      "published": "Sun, 10 May 2026 23:07:07 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film#7",
       "source": "BBC Sport"
     }
   ]
