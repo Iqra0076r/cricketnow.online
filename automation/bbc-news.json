@@ -1,13 +1,21 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-09T08:55:42.765772+00:00",
+  "updatedAt": "2026-11-09T20:19:32.866219+00:00",
   "items": [
     {
+      "title": "England clear way for Carse return and drop Bashir",
+      "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 12:00:30 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Khawaja 100% accurate on ball-tampering - Warner",
-      "description": "Former Australia opener David Warner says that Usman Khawaja is \"100% accurate\" in his recounting of the national side's ball tampering in the 2018 series with South Africa.",
+      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 08:23:36 GMT",
+      "published": "Mon, 09 Nov 2026 09:21:09 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko#0",
       "source": "BBC Sport"
     },
@@ -20,7 +28,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "West Indies v Bangladesh - second Test scorecard",
+      "title": "Bangladesh draw second Test as Windies take series 1-0 - scorecard",
       "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 00:00:00 GMT",
@@ -28,7 +36,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - first Test scorecard",
+      "title": "Afghanistan & Zimbabwe draw as only 25 wickets fall in five days - first Test scorecard",
       "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 00:00:00 GMT",
@@ -49,14 +57,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 14:41:04 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Perth Scorchers beat Melbourne Stars by six wickets - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Melbourne Stars at North Sydney Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242430?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242430#0",
       "source": "BBC Sport"
     },
     {
