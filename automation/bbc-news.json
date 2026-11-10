@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-10T11:58:59.214347+00:00",
+  "updatedAt": "2026-11-10T19:28:11.812066+00:00",
   "items": [
+    {
+      "title": "Australia doomed to live with stench of sandpapergate",
+      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Australia fans 'can't trust what's real' - Clarke",
       "description": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 08:34:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Khawaja alleges racial abuse by MCC member",
+      "description": "Australia batter Usman Khawaja alleges he was racially abused by an MCC member during the Ashes Test at Lord's in 2023.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 13:00:31 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#0",
       "source": "BBC Sport"
     },
     {
@@ -28,19 +44,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan build big score in first Test against Sri Lanka - scorecard",
+      "title": "Sri Lanka lose early wickets after Pakistan build big score - first Test scorecard",
       "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Third New Zealand v India ODI rained off - scorecard",
-      "description": "Latest scorecard from the third one-day internatonal between New Zealand and India in Hamilton.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242115?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242115#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "Reaction to the ‘sandpapergate’ fallout from Khawaja’s book.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pm6468?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 22:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pm6468#0",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pm6468#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 14:28:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 14:12:50 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Northamptonshire all-rounder Kimber extends deal",
-      "description": "Northamptonshire all-rounder Louis Kimber signs a contract extension that will keep him with the county until the end of the 2028 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:16:18 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm0ldd76n0ejo#2",
       "source": "BBC Sport"
     },
     {
