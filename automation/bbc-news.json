@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-09T20:19:32.866219+00:00",
+  "updatedAt": "2026-11-10T03:54:55.996824+00:00",
   "items": [
     {
       "title": "England clear way for Carse return and drop Bashir",
@@ -17,6 +17,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 09:21:09 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction to the ‘sandpapergate’ fallout from Khawaja’s book.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm6468?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 22:17:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pm6468#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - third ODI scorecard",
+      "description": "Latest scorecard from the third one-day internatonal between New Zealand and India in Hamilton.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242115?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242115#0",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 10:04:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,7 @@
       "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 14:41:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "India beat New Zealand by four runs - second ODI scorecard",
-      "description": "Latest scorecard from the second one-day international between New Zealand and India at Wellington's Hnry Stadium.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242114#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Women's rights matter more than any league, say Afghan cricketers",
       "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 13:40:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo#2",
       "source": "BBC Sport"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 22:58:58 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson on potentially playing in 2027",
-      "description": "News on Jimmy’s future (sort of)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 18:38:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#2",
       "source": "BBC Sport"
     },
     {
@@ -156,6 +156,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Anderson on potentially playing in 2027",
+      "description": "News on Jimmy’s future (sort of)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 18:38:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#4",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Stumped",
       "description": "Afghanistan leg-spinner Rashid Khan is first to 200 T20I wickets",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g5?at_medium=RSS&at_campaign=rss",
@@ -177,14 +185,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 13:20:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Rob Key joins TMS to discuss all things England as central contracts are announced.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pg913z?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 12:08:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pg913z#4",
       "source": "BBC Sport"
     },
     {
