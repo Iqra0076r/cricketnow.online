@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-11T17:36:45.514275+00:00",
+  "updatedAt": "2026-11-11T23:54:41.068719+00:00",
   "items": [
     {
       "title": "England cancel Windies Test in favour of home Ashes warm-ups",
@@ -33,14 +33,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 10:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Knight hits 71 but Thunder lose to Scorchers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Sydney Thunder at the Waca in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432#0",
       "source": "BBC Sport"
     },
     {
@@ -76,6 +68,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Knight hits 71 but Thunder lose to Scorchers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Sydney Thunder at the Waca in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Australia fans 'can't trust what's real' - Clarke",
       "description": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
@@ -96,7 +96,7 @@
       "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 12:00:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 08:05:05 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson could be given chance to join Surrey",
-      "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 22:58:58 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o#2",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Never-before-seen footage from interviews with eyewitnesses of WWI",
+      "description": "Never-before-seen footage from interviews with eyewitnesses of the First World War.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/b03y76xl?at_mid=bpLiyFOXNT&at_campaign=I_Was_There_The_Great_War_Interviews&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b03y76xl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=I_Was_There_The_Great_War_Interviews&at_bbc_team=BBC",
+      "published": "Thu, 12 Jan 2023 06:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/b03y76xl?at_mid=bpLiyFOXNT&at_campaign=I_Was_There_The_Great_War_Interviews&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b03y76xl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=I_Was_There_The_Great_War_Interviews&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
