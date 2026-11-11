@@ -1,14 +1,46 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-11T08:41:42.514396+00:00",
+  "updatedAt": "2026-11-11T17:36:45.514275+00:00",
   "items": [
     {
-      "title": "Australia doomed to live with stench of sandpapergate",
-      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#0",
+      "title": "England cancel Windies Test in favour of home Ashes warm-ups",
+      "description": "England cancel their scheduled Test in the West Indies in April and will instead prepare for the Women's Ashes with red-ball matches in the UK.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 14:46:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bethell out of Australia trip and doubt for SA",
+      "description": "Jacob Bethell is ruled out of England’s white-ball tour of Australia and is a huge doubt for the Test tour of South Africa following the recurrence of a knee injury.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 10:00:23 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Khawaja refuses to name Aussie ball tamperers",
+      "description": "The publisher of Usman Khawaja's autobiography denies his promotional tour has been cancelled but says there have been \"adjustments\" to the schedule.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 09:41:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Knight hits 71 but Thunder lose to Scorchers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Sydney Thunder at the Waca in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432#0",
       "source": "BBC Sport"
     },
     {
@@ -20,11 +52,35 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Australia doomed to live with stench of sandpapergate",
+      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bowler Meredith agrees to Somerset return in 2027",
+      "description": "Australia fast bowler Riley Meredith will return to Somerset in 2027 to play in their T20 Blast campaign.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 12:14:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Scots propose Titwood venue for 2030 T20 World Cup",
+      "description": "Glasgow's Titwood has been chosen as the proposed Scottish venue for the ICC Men's T20 World Cup in 2030.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 16:31:01 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Australia fans 'can't trust what's real' - Clarke",
       "description": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 08:34:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#1",
       "source": "BBC Sport"
     },
     {
@@ -32,7 +88,7 @@
       "description": "Australia batter Usman Khawaja alleges he was racially abused by an MCC member during the Ashes Test at Lord's in 2023.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 13:00:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#1",
       "source": "BBC Sport"
     },
     {
@@ -40,39 +96,7 @@
       "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 12:00:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Khawaja 100% accurate on ball-tampering - Warner",
-      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 09:21:09 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to the ‘sandpapergate’ fallout from Khawaja’s book.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pm6468?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 22:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pm6468#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bangladesh draw second Test as Windies take series 1-0 - scorecard",
-      "description": "Latest scorecard from the second Test between Bangladesh and West Indies in Sylhet.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244573#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan & Zimbabwe draw as only 25 wickets fall in five days - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244570#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#1",
       "source": "BBC Sport"
     },
     {
@@ -80,15 +104,7 @@
       "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 08 Nov 2026 10:04:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-      "description": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 14:41:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#2",
       "source": "BBC Sport"
     },
     {
@@ -108,11 +124,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Whole Australia team knew of sandpaper use - Khawaja",
-      "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 23:11:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo#2",
+      "title": "Khawaja 100% accurate on ball-tampering - Warner",
+      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 09:21:09 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko#2",
       "source": "BBC Sport"
     },
     {
@@ -140,11 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Ireland name uncapped duo for T20 tournament",
-      "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:12:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o#2",
+      "title": "Test Match Special Podcast",
+      "description": "Reaction to the ‘sandpapergate’ fallout from Khawaja’s book.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm6468?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 22:17:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pm6468#4",
       "source": "BBC Sport"
     },
     {
@@ -169,14 +185,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pkbnz0?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 17:25:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pkbnz0#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to the news that Lancashire won't be offering Jimmy Anderson a new contract.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj0wgg?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 13:20:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pj0wgg#4",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Two mums take on a drugs company to fight for their children",
-      "description": "Two mums tell their story of a scandal that led to 20,000 babies being born disabled.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m00344mn?at_mid=GsR2NlMHqC&at_campaign=Mums_v_Big_Pharma&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00344mn&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mums_v_Big_Pharma&at_bbc_team=BBC",
-      "published": "Mon, 09 Nov 2026 06:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m00344mn?at_mid=GsR2NlMHqC&at_campaign=Mums_v_Big_Pharma&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00344mn&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mums_v_Big_Pharma&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
