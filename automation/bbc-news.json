@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-11T00:21:27.249313+00:00",
+  "updatedAt": "2026-11-11T08:41:42.514396+00:00",
   "items": [
     {
       "title": "Australia doomed to live with stench of sandpapergate",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 14:03:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan v Sri Lanka - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#0",
       "source": "BBC Sport"
     },
     {
@@ -25,22 +33,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 13:00:31 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pakistan v Sri Lanka - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ecclestone hits last-ball four to earn Strikers win - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League matcn between Hobart Hurricanes and Adelaide Strikers in Hobart.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242431?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242431#0",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Two mums take on a drugs company to fight for their children",
+      "description": "Two mums tell their story of a scandal that led to 20,000 babies being born disabled.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00344mn?at_mid=GsR2NlMHqC&at_campaign=Mums_v_Big_Pharma&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00344mn&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mums_v_Big_Pharma&at_bbc_team=BBC",
+      "published": "Mon, 09 Nov 2026 06:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m00344mn?at_mid=GsR2NlMHqC&at_campaign=Mums_v_Big_Pharma&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00344mn&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Mums_v_Big_Pharma&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
