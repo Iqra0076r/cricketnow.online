@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-12T14:24:52.491099+00:00",
+  "updatedAt": "2026-11-12T21:59:18.898386+00:00",
   "items": [
     {
       "title": "England legend Anderson, 44, joins Surrey",
@@ -36,6 +36,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Pakistan v Sri Lanka - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Bethell out of Australia trip and doubt for SA",
       "description": "Jacob Bethell is ruled out of England’s white-ball tour of Australia and is a huge doubt for the Test tour of South Africa following the recurrence of a knee injury.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss",
@@ -52,11 +60,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Stumped",
+      "description": "Usman Khawaja claims entire team knew about the use of sandpaper in Cape Town in 2018",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g6?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 14:17:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Khawaja refuses to name Aussie ball tamperers",
       "description": "The publisher of Usman Khawaja's autobiography denies his promotional tour has been cancelled but says there have been \"adjustments\" to the schedule.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 09:41:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Australia fans 'can't trust what's real' - Clarke",
       "description": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 08:34:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#2",
       "source": "BBC Sport"
     },
     {
@@ -113,14 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 12:00:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pakistan v Sri Lanka - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#2",
       "source": "BBC Sport"
     },
     {
@@ -157,10 +157,10 @@
     },
     {
       "title": "Test Match Special Podcast",
-      "description": "Reaction to the ‘sandpapergate’ fallout from Khawaja’s book.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pm6468?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 22:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pm6468#4",
+      "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#4",
       "source": "BBC Sport"
     },
     {
