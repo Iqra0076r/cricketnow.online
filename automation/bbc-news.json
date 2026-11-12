@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-12T05:12:39.862346+00:00",
+  "updatedAt": "2026-11-12T14:24:52.491099+00:00",
   "items": [
     {
-      "title": "England cancel Windies Test in favour of home Ashes warm-ups",
-      "description": "England cancel their scheduled Test in the West Indies in April and will instead prepare for the Women's Ashes with red-ball matches in the UK.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 14:46:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#0",
+      "title": "England legend Anderson, 44, joins Surrey",
+      "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 09:32:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Marsh dodges Khawaja claims as Cummins vows to 'respond properly'",
+      "description": "Mitchell Marsh persistently refuses to speak about Australia's ball-tampering saga at a press conference but captain Pat Cummins vows to \"respond properly\".",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623jlxgn9rno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 08:00:17 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623jlxgn9rno#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Fraser shines as Scotland beat PNG by seven wickets",
+      "description": "Katherine Fraser leads the way with bat and ball as Scotland open their Women's Emerging Nations Trophy campaign with a comfortable seven-wicket win over Papua New Guinea.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 08:50:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sixers beat Renegades by 11 runs - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Sydney Sixers at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242434?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242434#0",
       "source": "BBC Sport"
     },
     {
@@ -20,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "England cancel Windies Test in favour of home Ashes warm-ups",
+      "description": "England cancel their scheduled Test in the West Indies in April and will instead prepare for the Women's Ashes with red-ball matches in the UK.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 14:46:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Khawaja refuses to name Aussie ball tamperers",
       "description": "The publisher of Usman Khawaja's autobiography denies his promotional tour has been cancelled but says there have been \"adjustments\" to the schedule.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko?at_medium=RSS&at_campaign=rss",
@@ -28,35 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pakistan v Sri Lanka - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Melbourne Stars v Brisbane Heat - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Brisbane Heat at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242433?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242433#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Australia doomed to live with stench of sandpapergate",
       "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 14:03:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#1",
       "source": "BBC Sport"
     },
     {
@@ -76,11 +84,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Knight hits 71 but Thunder lose to Scorchers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Sydney Thunder at the Waca in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242432#1",
+      "title": "Test Match Special Podcast",
+      "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Australia batter Usman Khawaja alleges he was racially abused by an MCC member during the Ashes Test at Lord's in 2023.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 13:00:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#2",
       "source": "BBC Sport"
     },
     {
@@ -105,6 +113,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 12:00:30 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan v Sri Lanka - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#2",
       "source": "BBC Sport"
     },
     {
@@ -137,22 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 09:21:09 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Women's rights matter more than any league, say Afghan cricketers",
-      "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 13:40:59 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia recruit Hussey for Ashes build-up",
-      "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 08:05:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#2",
       "source": "BBC Sport"
     },
     {
