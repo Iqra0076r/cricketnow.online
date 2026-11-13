@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-13T11:46:10.948582+00:00",
+  "updatedAt": "2026-11-13T19:01:11.621803+00:00",
   "items": [
     {
       "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
@@ -28,6 +28,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Test Match Special Podcast",
+      "description": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:17:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pmshnr#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
       "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
       "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
@@ -36,7 +44,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan v Sri Lanka - first Test scorecard",
+      "title": "Pakistan defy Sri Lanka to earn draw - first Test scorecard",
       "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 00:00:00 GMT",
@@ -60,6 +68,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Hutton among trio to sign new Notts deals",
+      "description": "Nottinghamshire seam bowler Brett Hutton is among a trio of players to sign new deals with the County Championship side.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 17:37:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Yorkshire re-sign paceman Ali on T20 deal",
       "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
@@ -76,11 +92,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Worcestershire bowler O'Connor signs new contract",
-      "description": "Worcestershire seam bowler George O'Connor signs a new two-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:37:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o#1",
+      "title": "Northamptonshire wicketkeeper McManus extends deal",
+      "description": "Northamptonshire wicketkeeper Lewis McManus has signs a contract extension with the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 16:31:53 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo#1",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,15 @@
       "description": "Katherine Fraser leads the way with bat and ball as Scotland open their Women's Emerging Nations Trophy campaign with a comfortable seven-wicket win over Papua New Guinea.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 08:50:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Worcestershire bowler O'Connor signs new contract",
+      "description": "Worcestershire seam bowler George O'Connor signs a new two-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:37:34 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o#2",
       "source": "BBC Sport"
     },
     {
@@ -129,22 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 12:14:22 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia doomed to live with stench of sandpapergate",
-      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Scots propose Titwood venue for 2030 T20 World Cup",
-      "description": "Glasgow's Titwood has been chosen as the proposed Scottish venue for the ICC Men's T20 World Cup in 2030.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 16:31:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo#2",
       "source": "BBC Sport"
     },
     {
