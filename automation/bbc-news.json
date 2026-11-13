@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-12T21:59:18.898386+00:00",
+  "updatedAt": "2026-11-13T02:28:48.133967+00:00",
   "items": [
+    {
+      "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+      "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:58:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England legend Anderson, 44, joins Surrey",
       "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
@@ -12,11 +20,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Marsh dodges Khawaja claims as Cummins vows to 'respond properly'",
-      "description": "Mitchell Marsh persistently refuses to speak about Australia's ball-tampering saga at a press conference but captain Pat Cummins vows to \"respond properly\".",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c623jlxgn9rno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 08:00:17 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c623jlxgn9rno#0",
+      "title": "New Zealand v India - fourth ODI scorecard",
+      "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116#0",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +64,7 @@
       "description": "England cancel their scheduled Test in the West Indies in April and will instead prepare for the Women's Ashes with red-ball matches in the UK.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 14:46:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Glasgow's Titwood has been chosen as the proposed Scottish venue for the ICC Men's T20 World Cup in 2030.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 16:31:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 14:28:55 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Two-year ban for 'Clicky Ponting' cricketer",
-      "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:00:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#2",
       "source": "BBC Sport"
     },
     {
