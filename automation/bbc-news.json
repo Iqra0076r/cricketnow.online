@@ -1,46 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-13T02:28:48.133967+00:00",
+  "updatedAt": "2026-11-13T11:46:10.948582+00:00",
   "items": [
+    {
+      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
+      "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:39:43 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England thrashed by Australia in first ODI",
+      "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:31:34 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
       "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:58:00 GMT",
+      "published": "Fri, 13 Nov 2026 04:26:57 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "England legend Anderson, 44, joins Surrey",
-      "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 09:32:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "New Zealand v India - fourth ODI scorecard",
-      "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Fraser shines as Scotland beat PNG by seven wickets",
-      "description": "Katherine Fraser leads the way with bat and ball as Scotland open their Women's Emerging Nations Trophy campaign with a comfortable seven-wicket win over Papua New Guinea.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 08:50:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sixers beat Renegades by 11 runs - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Sydney Sixers at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242434?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242434#0",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 08:20:28 GMT",
+      "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#0",
       "source": "BBC Sport"
     },
     {
@@ -52,11 +44,67 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Afghanistan v Zimbabwe - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "NZ thrash India by 244 runs in fourth ODI - scorecard",
+      "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Yorkshire re-sign paceman Ali on T20 deal",
+      "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:08:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Scots beaten by Sri Lanka in second group fixture",
+      "description": "Scotland women succumb to a four-wicket defeat by Sri Lanka in their second Emerging Nations Trophy Group A fixture.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 08:16:13 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Worcestershire bowler O'Connor signs new contract",
+      "description": "Worcestershire seam bowler George O'Connor signs a new two-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:37:34 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Fraser shines as Scotland beat PNG by seven wickets",
+      "description": "Katherine Fraser leads the way with bat and ball as Scotland open their Women's Emerging Nations Trophy campaign with a comfortable seven-wicket win over Papua New Guinea.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 08:50:54 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England legend Anderson, 44, joins Surrey",
+      "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 09:32:22 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Bethell out of Australia trip and doubt for SA",
       "description": "Jacob Bethell is ruled out of England’s white-ball tour of Australia and is a huge doubt for the Test tour of South Africa following the recurrence of a knee injury.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 10:00:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo#2",
       "source": "BBC Sport"
     },
     {
@@ -64,7 +112,7 @@
       "description": "England cancel their scheduled Test in the West Indies in April and will instead prepare for the Women's Ashes with red-ball matches in the UK.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 14:46:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#2",
       "source": "BBC Sport"
     },
     {
@@ -72,23 +120,7 @@
       "description": "Usman Khawaja claims entire team knew about the use of sandpaper in Cape Town in 2018",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g6?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 14:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Khawaja refuses to name Aussie ball tamperers",
-      "description": "The publisher of Usman Khawaja's autobiography denies his promotional tour has been cancelled but says there have been \"adjustments\" to the schedule.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 09:41:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia doomed to live with stench of sandpapergate",
-      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +128,15 @@
       "description": "Australia fast bowler Riley Meredith will return to Somerset in 2027 to play in their T20 Blast campaign.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 12:14:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia doomed to live with stench of sandpapergate",
+      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo#2",
       "source": "BBC Sport"
     },
     {
@@ -105,54 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 16:31:01 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cj62p3nx92kyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australia fans 'can't trust what's real' - Clarke",
-      "description": "Former Australia captain Michael Clarke says fans of the national side \"can't trust what's real\" and has called for the investigation into the 2018 Australia ball-tampering scandal to be reopened.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 08:34:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Khawaja alleges racial abuse by MCC member",
-      "description": "Australia batter Usman Khawaja alleges he was racially abused by an MCC member during the Ashes Test at Lord's in 2023.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 13:00:31 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England clear way for Carse return and drop Bashir",
-      "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 12:00:30 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "I haven't thrown anyone under the bus - Khawaja",
-      "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 10:04:01 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "How an 'absolute fluke' exposed sandpapergate scandal",
-      "description": "How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 14:28:55 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Khawaja 100% accurate on ball-tampering - Warner",
-      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 09:21:09 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko#2",
       "source": "BBC Sport"
     },
     {
