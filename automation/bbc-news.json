@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-14T08:24:43.081131+00:00",
+  "updatedAt": "2026-11-14T16:16:52.124542+00:00",
   "items": [
     {
       "title": "Warner accuses Cricket Australia of 'cover-up'",
@@ -9,6 +9,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 07:20:24 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "The Sandpapergate Scandal",
+      "description": "Why has Australian cricket's sandpaper scandal returned to the headlines?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sooryavanshi becomes youngest captain in men's T20s",
+      "description": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 09:53:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo#0",
       "source": "BBC Sport"
     },
     {
@@ -28,6 +44,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Wolvaardt stars as Strikers beat Scorchers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Adelaide Strikers at the Waca in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
@@ -40,7 +64,7 @@
       "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 11:39:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +72,7 @@
       "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 09:31:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#1",
       "source": "BBC Sport"
     },
     {
@@ -80,15 +104,7 @@
       "description": "Scotland women succumb to a four-wicket defeat by Sri Lanka in their second Emerging Nations Trophy Group A fixture.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 08:16:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pakistan defy Sri Lanka to earn draw - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o#2",
       "source": "BBC Sport"
     },
     {
@@ -97,6 +113,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 17:37:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan defy Sri Lanka to earn draw - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#2",
       "source": "BBC Sport"
     },
     {
@@ -121,22 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 16:31:53 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Fraser shines as Scotland beat PNG by seven wickets",
-      "description": "Katherine Fraser leads the way with bat and ball as Scotland open their Women's Emerging Nations Trophy campaign with a comfortable seven-wicket win over Papua New Guinea.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 08:50:54 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlq3n5l7y0o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Worcestershire bowler O'Connor signs new contract",
-      "description": "Worcestershire seam bowler George O'Connor signs a new two-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:37:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr20v65wpze6o#2",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 13:16:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "What are the ICC pitch ratings and how does the system work?",
-      "description": "BBC Sport's Ask Me Anything team explains pitch ratings after the Lord's pitch was rated 'unsatisfactory' by ICC.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 12:57:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
       "source": "BBC Sport"
     }
   ]
