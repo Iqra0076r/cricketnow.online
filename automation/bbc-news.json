@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-13T19:01:11.621803+00:00",
+  "updatedAt": "2026-11-14T00:35:22.617898+00:00",
   "items": [
+    {
+      "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+      "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 21:53:37 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
       "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
@@ -56,7 +64,7 @@
       "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Northamptonshire wicketkeeper Lewis McManus has signs a contract extension with the club.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 16:31:53 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvp86e1g9yzzo#2",
       "source": "BBC Sport"
     },
     {
@@ -148,14 +156,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bowler Meredith agrees to Somerset return in 2027",
-      "description": "Australia fast bowler Riley Meredith will return to Somerset in 2027 to play in their T20 Blast campaign.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 12:14:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck1l05jrddljo#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
@@ -165,7 +165,7 @@
     },
     {
       "title": "Anderson on potentially playing in 2027",
-      "description": "News on Jimmy’s future (sort of)",
+      "description": "News of Jimmy’s future (sort of).",
       "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 18:38:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#4",
