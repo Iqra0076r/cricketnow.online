@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-14T00:35:22.617898+00:00",
+  "updatedAt": "2026-11-14T08:24:43.081131+00:00",
   "items": [
+    {
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 07:20:24 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
       "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 21:53:37 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Zimbabwe - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435#0",
       "source": "BBC Sport"
     },
     {
@@ -32,15 +56,7 @@
       "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 04:26:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 10:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pmshnr#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#1",
       "source": "BBC Sport"
     },
     {
@@ -48,47 +64,15 @@
       "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
       "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 08:20:28 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#0",
+      "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan defy Sri Lanka to earn draw - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan v Zimbabwe - second Test scorecard",
-      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "NZ thrash India by 244 runs in fourth ODI - scorecard",
-      "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hutton among trio to sign new Notts deals",
-      "description": "Nottinghamshire seam bowler Brett Hutton is among a trio of players to sign new deals with the County Championship side.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 17:37:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Yorkshire re-sign paceman Ali on T20 deal",
-      "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 09:08:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do#1",
+      "title": "Test Match Special Podcast",
+      "description": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:17:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pmshnr#1",
       "source": "BBC Sport"
     },
     {
@@ -97,6 +81,38 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 08:16:13 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan defy Sri Lanka to earn draw - first Test scorecard",
+      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Hutton among trio to sign new Notts deals",
+      "description": "Nottinghamshire seam bowler Brett Hutton is among a trio of players to sign new deals with the County Championship side.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 17:37:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "NZ thrash India by 244 runs in fourth ODI - scorecard",
+      "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Yorkshire re-sign paceman Ali on T20 deal",
+      "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:08:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do#2",
       "source": "BBC Sport"
     },
     {
@@ -132,27 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bethell out of Australia trip and doubt for SA",
-      "description": "Jacob Bethell is ruled out of England’s white-ball tour of Australia and is a huge doubt for the Test tour of South Africa following the recurrence of a knee injury.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 10:00:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England cancel Windies Test in favour of home Ashes warm-ups",
-      "description": "England cancel their scheduled Test in the West Indies in April and will instead prepare for the Women's Ashes with red-ball matches in the UK.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 14:46:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5zjrympwrlmo#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Stumped",
       "description": "Usman Khawaja claims entire team knew about the use of sandpaper in Cape Town in 2018",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g6?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 14:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#2",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#4",
       "source": "BBC Sport"
     },
     {
