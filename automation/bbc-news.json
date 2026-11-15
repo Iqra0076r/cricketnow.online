@@ -1,18 +1,34 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-15T08:41:27.610597+00:00",
+  "updatedAt": "2026-11-15T16:43:42.896537+00:00",
   "items": [
+    {
+      "title": "Banton pushes case and bowlers sparkle for inconsistent England",
+      "description": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 11:56:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
       "description": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 07:32:46 GMT",
+      "published": "Sun, 15 Nov 2026 09:33:33 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o#0",
       "source": "BBC Sport"
     },
     {
-      "title": "South Africa v Bangladesh - first Test scorecard",
+      "title": "Skipper Bryce sets new Scotland run record in win over UAE",
+      "description": "Kathyrn and Sarah Bryce shine as Scotland earn a seven-wicket win over host nation United Arab Emirates at the ICC Women's Emerging Nations Trophy.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 12:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Rabada takes five but Bangladesh have strong opening day - first Test scorecard",
       "description": "Latest scorecard from the first Test between South Africa and Bangladesh at the Wanderers, Johannesburg.",
       "link": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 00:00:00 GMT",
@@ -20,23 +36,23 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Warner accuses Cricket Australia of 'cover-up'",
-      "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 07:20:24 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#0",
+      "title": "Curran's best weapon? The 'moon ball' strikes again",
+      "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 13:34:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "The Sandpapergate Scandal",
-      "description": "Why has Australian cricket's sandpaper scandal returned to the headlines?",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#0",
+      "title": "Test Match Special Podcast",
+      "description": "Reaction from Michael Vaughan and Tom Banton as England draw level in the ODI series.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pn4jxf?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 12:33:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pn4jxf#0",
       "source": "BBC Sport"
     },
     {
-      "title": "New Zealand v India - fifth ODI scorecard",
+      "title": "India beat NZ to win ODI series 3-1 - scorecard",
       "description": "Latest scorecard from the fifth one-day international between New Zealand and India at Mount Maunganui.",
       "link": "https://bbc.co.uk/sport/cricket/scorecard/e-242117?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 00:00:00 GMT",
@@ -44,11 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Renegades win final-ball thriller against Sixers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers v Melbourne Renegades at North Sydney Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437#0",
+      "title": "The Sandpapergate Scandal",
+      "description": "Why has Australian cricket's sandpaper scandal returned to the headlines?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 07:20:24 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#1",
       "source": "BBC Sport"
     },
     {
@@ -68,19 +92,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Renegades win final-ball thriller against Sixers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers v Melbourne Renegades at North Sydney Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
       "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 11:39:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England thrashed by Australia in first ODI",
-      "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 09:31:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +112,15 @@
       "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 04:26:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England thrashed by Australia in first ODI",
+      "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:31:34 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#2",
       "source": "BBC Sport"
     },
     {
@@ -97,14 +129,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 08:20:28 GMT",
       "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 10:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pmshnr#2",
       "source": "BBC Sport"
     },
     {
@@ -124,14 +148,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Yorkshire re-sign paceman Ali on T20 deal",
       "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
@@ -140,11 +156,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England legend Anderson, 44, joins Surrey",
-      "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 09:32:22 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo#2",
+      "title": "Test Match Special Podcast",
+      "description": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:17:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pmshnr#4",
       "source": "BBC Sport"
     },
     {
@@ -161,14 +177,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 10:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Anderson on potentially playing in 2027",
-      "description": "News of Jimmy’s future (sort of).",
-      "link": "https://www.bbc.co.uk/sounds/play/p0plq403?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 18:38:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0plq403#4",
       "source": "BBC Sport"
     },
     {
@@ -233,14 +241,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 13:16:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "What are the ICC pitch ratings and how does the system work?",
-      "description": "BBC Sport's Ask Me Anything team explains pitch ratings after the Lord's pitch was rated 'unsatisfactory' by ICC.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 12:57:25 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
       "source": "BBC Sport"
     }
   ]
