@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-14T21:52:14.499786+00:00",
+  "updatedAt": "2026-11-15T01:27:38.205375+00:00",
   "items": [
     {
       "title": "Warner accuses Cricket Australia of 'cover-up'",
@@ -28,6 +28,22 @@
       "source": "BBC Sport"
     },
     {
+      "title": "New Zealand v India - fifth ODI scorecard",
+      "description": "Latest scorecard from the fifth one-day international between New Zealand and India at Mount Maunganui.",
+      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-242117?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-242117#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sydney Sixers v Melbourne Renegades - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers v Melbourne Renegades at North Sydney Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
       "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
@@ -41,22 +57,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Wolvaardt stars as Strikers beat Scorchers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Adelaide Strikers at the Waca in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435#0",
       "source": "BBC Sport"
     },
     {
@@ -116,19 +116,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan defy Sri Lanka to earn draw - first Test scorecard",
-      "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079#2",
+      "title": "Heat hammer hapless Hurricanes inside six overs - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Brisbane Heat in Hobart.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242435#2",
       "source": "BBC Sport"
     },
     {
-      "title": "NZ thrash India by 244 runs in fourth ODI - scorecard",
-      "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116#2",
+      "title": "Wolvaardt stars as Strikers beat Scorchers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Perth Scorchers and Adelaide Strikers at the Waca in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242436#2",
       "source": "BBC Sport"
     },
     {
