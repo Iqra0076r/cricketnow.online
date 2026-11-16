@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-16T04:08:50.956453+00:00",
+  "updatedAt": "2026-11-16T14:27:08.707003+00:00",
   "items": [
+    {
+      "title": "Curran's best weapon? The 'moon ball' strikes again",
+      "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 13:34:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa v Bangladesh - first Test scorecard",
+      "description": "Latest scorecard from the first Test between South Africa and Bangladesh at the Wanderers, Johannesburg.",
+      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-237000#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Banton pushes case and bowlers sparkle for inconsistent England",
       "description": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 11:56:19 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Afghanistan v Zimbabwe - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
       "source": "BBC Sport"
     },
     {
@@ -28,35 +52,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Rabada takes five but Bangladesh have strong opening day - first Test scorecard",
-      "description": "Latest scorecard from the first Test between South Africa and Bangladesh at the Wanderers, Johannesburg.",
-      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-237000#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Curran's best weapon? The 'moon ball' strikes again",
-      "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:34:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction from Michael Vaughan and Tom Banton as England draw level in the ODI series.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pn4jxf?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 12:33:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pn4jxf#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "India beat NZ to win ODI series 3-1 - scorecard",
-      "description": "Latest scorecard from the fifth one-day international between New Zealand and India at Mount Maunganui.",
-      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-242117?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-242117#0",
+      "title": "England's Gibson takes two wickets as Stars edge Thunder - scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Melbourne Stars at Sydney's Drummoyne Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438#0",
       "source": "BBC Sport"
     },
     {
@@ -65,6 +65,22 @@
       "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 18:00:00 GMT",
       "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction from Michael Vaughan and Tom Banton as England draw level in the ODI series.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pn4jxf?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 12:33:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pn4jxf#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "India beat NZ to win ODI series 3-1 - scorecard",
+      "description": "Latest scorecard from the fifth one-day international between New Zealand and India at Mount Maunganui.",
+      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-242117?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-242117#1",
       "source": "BBC Sport"
     },
     {
@@ -84,11 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Afghanistan v Zimbabwe - second Test scorecard",
-      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#1",
+      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
+      "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:39:43 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#2",
       "source": "BBC Sport"
     },
     {
@@ -96,15 +112,7 @@
       "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers v Melbourne Renegades at North Sydney Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
-      "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:39:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#2",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 17:37:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Yorkshire re-sign paceman Ali on T20 deal",
-      "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 09:08:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do#2",
       "source": "BBC Sport"
     },
     {
