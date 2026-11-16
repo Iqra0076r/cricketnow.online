@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-16T14:27:08.707003+00:00",
+  "updatedAt": "2026-11-16T23:55:47.113514+00:00",
   "items": [
+    {
+      "title": "Ex-Kent skipper Fulton named director of cricket",
+      "description": "Former Kent captain David Fulton replaces Simon Cook as director of cricket overseeing both men's and women's talent pathways.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:02:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Curran's best weapon? The 'moon ball' strikes again",
       "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
@@ -17,6 +25,22 @@
       "link": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 00:00:00 GMT",
       "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-237000#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Opener Lategan signs Worcestershire deal extension",
+      "description": "Worcestershire opening bat Daniel Lategan signs a three-year contract extension to run to the end of the 2029 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 16:29:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Gloucestershire CEO Priscott to step down",
+      "description": "Gloucestershire cricket club CEO Neil Priscott is to step down after seven and a half years with the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 14:46:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo#0",
       "source": "BBC Sport"
     },
     {
@@ -40,15 +64,7 @@
       "description": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 09:33:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Skipper Bryce sets new Scotland run record in win over UAE",
-      "description": "Kathyrn and Sarah Bryce shine as Scotland earn a seven-wicket win over host nation United Arab Emirates at the ICC Women's Emerging Nations Trophy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 12:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,23 @@
       "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Melbourne Stars at Sydney's Drummoyne Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ireland beat Papua New Guinea in Emerging Nations",
+      "description": "Cara Murray takes three wickets and captain Gaby Lewis hits 60 as Ireland beat Papua New Guinea by 45 runs in the Emerging Nations Trophy.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm0evwpg5ezvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 15:03:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm0evwpg5ezvo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Skipper Bryce sets new Scotland run record in win over UAE",
+      "description": "Kathyrn and Sarah Bryce shine as Scotland earn a seven-wicket win over host nation United Arab Emirates at the ICC Women's Emerging Nations Trophy.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 12:53:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po#1",
       "source": "BBC Sport"
     },
     {
@@ -68,11 +100,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction from Michael Vaughan and Tom Banton as England draw level in the ODI series.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pn4jxf?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 12:33:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pn4jxf#1",
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 07:20:24 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#2",
       "source": "BBC Sport"
     },
     {
@@ -80,15 +112,15 @@
       "description": "Latest scorecard from the fifth one-day international between New Zealand and India at Mount Maunganui.",
       "link": "https://bbc.co.uk/sport/cricket/scorecard/e-242117?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-242117#1",
+      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-242117#2",
       "source": "BBC Sport"
     },
     {
-      "title": "Warner accuses Cricket Australia of 'cover-up'",
-      "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 07:20:24 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#1",
+      "title": "Test Match Special Podcast",
+      "description": "Reaction from Michael Vaughan and Tom Banton as England draw level in the ODI series.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pn4jxf?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 12:33:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pn4jxf#2",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +128,7 @@
       "description": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 09:53:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo#2",
       "source": "BBC Sport"
     },
     {
@@ -108,14 +140,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Renegades win final-ball thriller against Sixers - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers v Melbourne Renegades at North Sydney Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242437#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
       "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
@@ -124,35 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England thrashed by Australia in first ODI",
-      "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 09:31:34 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
       "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
       "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 08:20:28 GMT",
       "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Scots beaten by Sri Lanka in second group fixture",
-      "description": "Scotland women succumb to a four-wicket defeat by Sri Lanka in their second Emerging Nations Trophy Group A fixture.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 08:16:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr894ld7p4l9o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hutton among trio to sign new Notts deals",
-      "description": "Nottinghamshire seam bowler Brett Hutton is among a trio of players to sign new deals with the County Championship side.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 17:37:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwe891lz7905o#2",
       "source": "BBC Sport"
     },
     {
