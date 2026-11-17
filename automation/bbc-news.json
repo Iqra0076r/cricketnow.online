@@ -1,18 +1,34 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-17T06:08:20.947797+00:00",
+  "updatedAt": "2026-11-17T17:16:02.570192+00:00",
   "items": [
     {
-      "title": "Ex-Kent skipper Fulton named director of cricket",
-      "description": "Former Kent captain David Fulton replaces Simon Cook as director of cricket overseeing both men's and women's talent pathways.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 12:02:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o#0",
+      "title": "Bethell to have more surgery and out of SA tour",
+      "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 13:18:58 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan v Sri Lanka - second Test scorecard",
+      "title": "Imran seeks urgent medical care fearing he 'may not return alive'",
+      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 01:26:01 GMT",
+      "guid": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Kent chief Fulton ready for David & Goliath challenge",
+      "description": "New director of cricket David Fulton wants Kent to be \"passionate and competitive\" on their return to Division One in 2027.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jre21899wro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 12:40:56 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jre21899wro#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Sri Lanka all out for 98 on day one v Pakistan - second Test scorecard",
       "description": "Latest scorecard from the second Test between Pakistan and Sri Lanka, which was moved from Lahore to Rawalpindi because of smog.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT",
@@ -20,11 +36,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Curran's best weapon? The 'moon ball' strikes again",
-      "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:34:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo#0",
+      "title": "England's Dunkley leads Sixers to win over Strikers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Sydney Sixers at Adelaide's Karen Rolton Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242439?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242439#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Zimbabwe beat Afghanistan by 57 runs - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
       "source": "BBC Sport"
     },
     {
@@ -36,11 +60,27 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Leicestershire re-sign South Africa's De Swardt",
+      "description": "South Africa all-rounder Ruan de Swardt agrees to return to Leicestershire next season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvde1k833k18o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 12:46:37 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvde1k833k18o#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Curran's best weapon? The 'moon ball' strikes again",
+      "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 13:34:57 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Opener Lategan signs Worcestershire deal extension",
       "description": "Worcestershire opening bat Daniel Lategan signs a three-year contract extension to run to the end of the 2029 season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 16:29:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do#1",
       "source": "BBC Sport"
     },
     {
@@ -48,15 +88,7 @@
       "description": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 11:56:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Afghanistan v Zimbabwe - second Test scorecard",
-      "description": "Latest scorecard from the second Test between Afghanistan and Zimbabwe in Sharjah.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244571#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o#1",
       "source": "BBC Sport"
     },
     {
@@ -68,19 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Gloucestershire CEO Priscott to step down",
-      "description": "Gloucestershire cricket club CEO Neil Priscott is to step down after seven and a half years with the club.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 14:46:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo#1",
+      "title": "The Sandpapergate Scandal",
+      "description": "Why has Australian cricket's sandpaper scandal returned to the headlines?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#2",
       "source": "BBC Sport"
     },
     {
-      "title": "England's Gibson takes two wickets as Stars edge Thunder - scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Melbourne Stars at Sydney's Drummoyne Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242438#1",
+      "title": "Ex-Kent skipper Fulton named director of cricket",
+      "description": "Former Kent captain David Fulton replaces Simon Cook as director of cricket overseeing both men's and women's talent pathways.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:02:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,15 +120,15 @@
       "description": "Kathyrn and Sarah Bryce shine as Scotland earn a seven-wicket win over host nation United Arab Emirates at the ICC Women's Emerging Nations Trophy.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 12:53:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c699erlyv74po#2",
       "source": "BBC Sport"
     },
     {
-      "title": "The Sandpapergate Scandal",
-      "description": "Why has Australian cricket's sandpaper scandal returned to the headlines?",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#1",
+      "title": "Gloucestershire CEO Priscott to step down",
+      "description": "Gloucestershire cricket club CEO Neil Priscott is to step down after seven and a half years with the club.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 14:46:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo#2",
       "source": "BBC Sport"
     },
     {
@@ -116,51 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "India beat NZ to win ODI series 3-1 - scorecard",
-      "description": "Latest scorecard from the fifth one-day international between New Zealand and India at Mount Maunganui.",
-      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-242117?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-242117#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Test Match Special Podcast",
       "description": "Reaction from Michael Vaughan and Tom Banton as England draw level in the ODI series.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pn4jxf?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 12:33:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pn4jxf#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sooryavanshi becomes youngest captain in men's T20s",
-      "description": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 09:53:45 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
-      "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:39:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
-      "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 04:26:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-      "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 08:20:28 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/c6702z750zvyo#2",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Jan 2026 15:44:21 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "How often does a team forfeit an innings?",
+      "description": "BBC Sport's Ask Me Anything team looks into how often teams have forfeited an innings in the history of the County Championship",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 13:16:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o#6",
       "source": "BBC Sport"
     }
   ]
