@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-17T17:16:02.570192+00:00",
+  "updatedAt": "2026-11-18T00:19:22.764870+00:00",
   "items": [
     {
       "title": "Bethell to have more surgery and out of SA tour",
@@ -108,6 +108,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Durham spinner Parkinson signs one-year extension",
+      "description": "Durham spinner Callum Parkinson signs a one-year contract extension to keep him at the club until the end of the 2028 campaign.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmkgkywwqgnro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 18:06:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmkgkywwqgnro#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Ex-Kent skipper Fulton named director of cricket",
       "description": "Former Kent captain David Fulton replaces Simon Cook as director of cricket overseeing both men's and women's talent pathways.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o?at_medium=RSS&at_campaign=rss",
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 07:20:24 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ireland beat Papua New Guinea in Emerging Nations",
-      "description": "Cara Murray takes three wickets and captain Gaby Lewis hits 60 as Ireland beat Papua New Guinea by 45 runs in the Emerging Nations Trophy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm0evwpg5ezvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 15:03:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm0evwpg5ezvo#2",
       "source": "BBC Sport"
     },
     {
