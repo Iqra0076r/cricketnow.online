@@ -1,8 +1,24 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-19T09:43:07.492452+00:00",
+  "updatedAt": "2026-11-19T18:45:18.151173+00:00",
   "items": [
+    {
+      "title": "Cummins' Australia captaincy at a crossroads - Agnew",
+      "description": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 14:57:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "McCullum plans to use Brook and Banton as bowlers",
+      "description": "England white-ball coach Brendon McCullum believes that batters Harry Brook and Tom Banton can be genuine bowling options as they prepare for next year's World Cup.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 12:37:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "The sandpaper plot - who was there, who said what?",
       "description": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
@@ -12,35 +28,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 11:12:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#0",
+      "title": "Warwickshire legend Bell named Phoenix head coach",
+      "description": "Birmingham Phoenix appoint former Warwickshire and England star Ian Bell as their new head coach.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 12:57:10 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan v Sri Lanka - second Test scorecard",
+      "title": "Sri Lanka rally but Pakistan close on win - second Test scorecard",
       "description": "Latest scorecard from the second Test between Pakistan and Sri Lanka, which was moved from Lahore to Rawalpindi because of smog.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "South Africa v Bangladesh - first Test scorecard",
-      "description": "Latest scorecard from the first Test between South Africa and Bangladesh at the Wanderers, Johannesburg.",
-      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-237000#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Ainsworth stars as Scorchers beat Hurricanes - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Perth Scorchers at Brisbane's Allan Border Field.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242440?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242440#0",
       "source": "BBC Sport"
     },
     {
@@ -49,6 +49,30 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 11:12:46 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa beat Bangladesh to win first Test - scorecard",
+      "description": "Latest scorecard from the first Test between South Africa and Bangladesh at the Wanderers, Johannesburg.",
+      "link": "https://bbc.co.uk/sport/cricket/scorecard/e-237000?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "guid": "https://bbc.co.uk/sport/cricket/scorecard/e-237000#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Durham sign Essex all-rounder Benkenstein",
+      "description": "Durham sign Essex all-rounder Luc Benkenstein on a \"multi-year\" contract.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 13:41:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +96,7 @@
       "description": "Scotland's bowlers make short work of Ireland in a comfortable eight-wicket victory as both teams progress to the Super Six stage at the Women's Emerging Nations Trophy in Dubai.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq8e0d48elz8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 08:50:52 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq8e0d48elz8o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq8e0d48elz8o#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +104,7 @@
       "description": "The 2018 scandal has resurfaced this month after Usman Khawaja claimed the entire team knew about the cheating plot.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 04:48:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +112,7 @@
       "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 13:18:58 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo#2",
       "source": "BBC Sport"
     },
     {
@@ -108,14 +132,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Leicestershire re-sign South Africa's De Swardt",
-      "description": "South Africa all-rounder Ruan de Swardt agrees to return to Leicestershire next season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvde1k833k18o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 12:46:37 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvde1k833k18o#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Why are cricket scoreboards backwards in Australia?",
       "description": "Our Ask Me Anything team explains why cricket scoreboards are backwards in Australia",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c2k4j5vjzgxo?at_medium=RSS&at_campaign=rss",
@@ -129,22 +145,6 @@
       "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 18:00:00 GMT",
       "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Opener Lategan signs Worcestershire deal extension",
-      "description": "Worcestershire opening bat Daniel Lategan signs a three-year contract extension to run to the end of the 2029 season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 16:29:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmwy985x3q2do#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Curran's best weapon? The 'moon ball' strikes again",
-      "description": "Statistics show Sam Curran's 'moon ball' is one of his most effective weapons. How does he do it and what makes it so effective?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:34:57 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c0q44le0z5wo#2",
       "source": "BBC Sport"
     },
     {
@@ -188,19 +188,27 @@
       "source": "BBC Sport"
     },
     {
-      "title": "What are ECB central contracts and how do they work?",
-      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#6",
-      "source": "BBC Sport"
-    },
-    {
       "title": "When is England's tour of Bangladesh this winter?",
       "description": "BBC Sport's Ask Me Anything team looks into England's upcoming two-Test series in Bangladesh",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 11:57:45 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq0k03edrmm6o#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "When is the next Ashes series?",
+      "description": "Our Ask Me Anything team explore when the next Ashes series will be and what venues have been selected.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Jan 2026 15:44:21 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "What are ECB central contracts and how do they work?",
+      "description": "BBC Sport explains how ECB central contracts work and what it means for a player's salary",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:01:26 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmvg9e5p3j7lo#6",
       "source": "BBC Sport"
     },
     {
@@ -217,14 +225,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cy5zk6r5p6po?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 10:30:07 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cy5zk6r5p6po#6",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "When is the next Ashes series?",
-      "description": "Our Ask Me Anything team explore when the next Ashes series will be and what venues have been selected.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Jan 2026 15:44:21 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cql4dv4yxg9o#6",
       "source": "BBC Sport"
     },
     {
