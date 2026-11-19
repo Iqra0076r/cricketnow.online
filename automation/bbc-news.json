@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-19T01:35:37.460368+00:00",
+  "updatedAt": "2026-11-19T09:43:07.492452+00:00",
   "items": [
     {
       "title": "The sandpaper plot - who was there, who said what?",
@@ -17,30 +17,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 11:12:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to Cameron Bancroft's statement on 'sandpapergate'.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pnqg9q?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 20:29:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pnqg9q#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Duckett ton & impressive bowlers give England series win",
-      "description": "England confidently sweep aside Australia in the third one-day international in Hobart to seal a statement series win.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 11:24:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "New Zealand v India - first Test scorecard",
-      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
       "source": "BBC Sport"
     },
     {
@@ -60,6 +36,38 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Ainsworth stars as Scorchers beat Hurricanes - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Perth Scorchers at Brisbane's Allan Border Field.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242440?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242440#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand rebuild from 70-5 against India - first Test scorecard",
+      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Duckett ton & impressive bowlers give England series win",
+      "description": "England confidently sweep aside Australia in the third one-day international in Hobart to seal a statement series win.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 11:24:26 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Test Match Special Podcast",
+      "description": "Reaction to Cameron Bancroft's statement on 'sandpapergate'.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pnqg9q?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 20:29:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pnqg9q#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Scotland sink Ireland as both reach Super Six phase",
       "description": "Scotland's bowlers make short work of Ireland in a comfortable eight-wicket victory as both teams progress to the Super Six stage at the Women's Emerging Nations Trophy in Dubai.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq8e0d48elz8o?at_medium=RSS&at_campaign=rss",
@@ -76,14 +84,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Test Match Special Podcast",
-      "description": "Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pnlrq2?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 12:24:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pnlrq2#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Bethell to have more surgery and out of SA tour",
       "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
@@ -96,7 +96,7 @@
       "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
       "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 01:26:01 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#1",
+      "guid": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#2",
       "source": "BBC Sport"
     },
     {
@@ -148,11 +148,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Banton pushes case and bowlers sparkle for inconsistent England",
-      "description": "Tom Banton scores a century and Sonny Baker and Gus Atkinson impress with the ball as England's wildly inconsistent one-day team hammer Australia.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 11:56:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8n50wgr6vd4o#2",
+      "title": "Test Match Special Podcast",
+      "description": "Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pnlrq2?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 12:24:00 GMT",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pnlrq2#4",
       "source": "BBC Sport"
     },
     {
@@ -177,14 +177,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct99g6?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 14:17:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Hear from Joe Root as England announce Jacob Bethell is out of the Australia series.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pmdjqx?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 10:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pmdjqx#4",
       "source": "BBC Sport"
     },
     {
@@ -241,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 13:16:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5ye2jzyqw9o#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "What are the ICC pitch ratings and how does the system work?",
+      "description": "BBC Sport's Ask Me Anything team explains pitch ratings after the Lord's pitch was rated 'unsatisfactory' by ICC.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 12:57:25 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
       "source": "BBC Sport"
     }
   ]
