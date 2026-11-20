@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-19T18:45:18.151173+00:00",
+  "updatedAt": "2026-11-20T01:34:45.698344+00:00",
   "items": [
     {
       "title": "Cummins' Australia captaincy at a crossroads - Agnew",
@@ -20,6 +20,22 @@
       "source": "BBC Sport"
     },
     {
+      "title": "New Zealand v India - first Test scorecard",
+      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan aim to seal win over Sri Lanka from 04:30 GMT - second Test scorecard",
+      "description": "Latest scorecard from the second Test between Pakistan and Sri Lanka, which was moved from Lahore to Rawalpindi because of smog.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "The sandpaper plot - who was there, who said what?",
       "description": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
@@ -33,22 +49,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 12:57:10 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sri Lanka rally but Pakistan close on win - second Test scorecard",
-      "description": "Latest scorecard from the second Test between Pakistan and Sri Lanka, which was moved from Lahore to Rawalpindi because of smog.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "New Zealand rebuild from 70-5 against India - first Test scorecard",
-      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
       "source": "BBC Sport"
     },
     {
