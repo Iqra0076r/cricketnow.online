@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-20T01:34:45.698344+00:00",
+  "updatedAt": "2026-11-20T09:29:50.726422+00:00",
   "items": [
     {
       "title": "Cummins' Australia captaincy at a crossroads - Agnew",
@@ -9,6 +9,22 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 14:57:42 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Donald aims for England T20 chance in Australia",
+      "description": "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia, and hoping to play his part at the MCG.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 05:04:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Yorkshire re-sign Pakistan batter Imam",
+      "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 09:21:03 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o#0",
       "source": "BBC Sport"
     },
     {
@@ -28,10 +44,10 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan aim to seal win over Sri Lanka from 04:30 GMT - second Test scorecard",
+      "title": "Pakistan beat Sri Lanka by eight wickets - second Test scorecard",
       "description": "Latest scorecard from the second Test between Pakistan and Sri Lanka, which was moved from Lahore to Rawalpindi because of smog.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080#0",
       "source": "BBC Sport"
     },
@@ -40,7 +56,7 @@
       "description": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 16:13:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Birmingham Phoenix appoint former Warwickshire and England star Ian Bell as their new head coach.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 12:57:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o#1",
       "source": "BBC Sport"
     },
     {
@@ -72,7 +88,7 @@
       "description": "Durham sign Essex all-rounder Luc Benkenstein on a \"multi-year\" contract.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 13:41:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo#2",
       "source": "BBC Sport"
     },
     {
@@ -80,7 +96,7 @@
       "description": "England confidently sweep aside Australia in the third one-day international in Hobart to seal a statement series win.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 11:24:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "Reaction to Cameron Bancroft's statement on 'sandpapergate'.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pnqg9q?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 20:29:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pnqg9q#1",
+      "guid": "https://www.bbc.co.uk/sounds/play/p0pnqg9q#2",
       "source": "BBC Sport"
     },
     {
@@ -113,30 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 13:18:58 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Imran seeks urgent medical care fearing he 'may not return alive'",
-      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 01:26:01 GMT",
-      "guid": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Kent chief Fulton ready for David & Goliath challenge",
-      "description": "New director of cricket David Fulton wants Kent to be \"passionate and competitive\" on their return to Division One in 2027.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6jre21899wro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 12:40:56 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6jre21899wro#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Why are cricket scoreboards backwards in Australia?",
-      "description": "Our Ask Me Anything team explains why cricket scoreboards are backwards in Australia",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c2k4j5vjzgxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 10:44:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c2k4j5vjzgxo#2",
       "source": "BBC Sport"
     },
     {
