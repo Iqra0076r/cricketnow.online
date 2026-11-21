@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-21T09:01:25.460316+00:00",
+  "updatedAt": "2026-11-21T17:01:43.312240+00:00",
   "items": [
     {
-      "title": "Cummins' integrity not compromised - Cricket Australia",
-      "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 07:55:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#0",
+      "title": "Lehmann again denies knowing about sandpaper plot",
+      "description": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 11:36:24 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia's Chaudhary downs England in tetchy first T20",
+      "description": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 12:24:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England call up McKinney for South Africa Tests",
+      "description": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 13:00:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o#0",
       "source": "BBC Sport"
     },
     {
@@ -17,6 +33,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Cummins' integrity not compromised - Cricket Australia",
+      "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 09:32:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#0",
       "source": "BBC Sport"
     },
     {
@@ -36,19 +60,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Donald aims for England T20 chance in Australia",
-      "description": "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia, and hoping to play his part at the MCG.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 05:04:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Durham appoint Gibson as head coach",
       "description": "Durham appoint Ottis Gibson as their new head coach on a three-year deal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 13:51:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o#1",
       "source": "BBC Sport"
     },
     {
@@ -60,11 +76,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Yorkshire re-sign Pakistan batter Imam",
-      "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 09:21:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o#1",
+      "title": "Donald aims for England T20 chance in Australia",
+      "description": "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia, and hoping to play his part at the MCG.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 05:04:29 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo#1",
       "source": "BBC Sport"
     },
     {
@@ -84,19 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Pakistan beat Sri Lanka by eight wickets - second Test scorecard",
-      "description": "Latest scorecard from the second Test between Pakistan and Sri Lanka, which was moved from Lahore to Rawalpindi because of smog.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "McCullum plans to use Brook and Banton as bowlers",
       "description": "England white-ball coach Brendon McCullum believes that batters Harry Brook and Tom Banton can be genuine bowling options as they prepare for next year's World Cup.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 12:37:15 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Yorkshire re-sign Pakistan batter Imam",
+      "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 09:21:03 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 13:41:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "description": "Reaction to Cameron Bancroft's statement on 'sandpapergate'.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pnqg9q?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 20:29:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/p0pnqg9q#2",
       "source": "BBC Sport"
     },
     {
