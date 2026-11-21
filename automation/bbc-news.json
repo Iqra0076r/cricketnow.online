@@ -1,14 +1,14 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-21T01:00:01.310383+00:00",
+  "updatedAt": "2026-11-21T09:01:25.460316+00:00",
   "items": [
     {
-      "title": "Cummins retains Cricket Australia support as captain",
-      "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 10:13:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o#0",
+      "title": "Cummins' integrity not compromised - Cricket Australia",
+      "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 07:55:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#0",
       "source": "BBC Sport"
     },
     {
@@ -20,27 +20,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Durham appoint Gibson as head coach",
-      "description": "Durham appoint Ottis Gibson as their new head coach on a three-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 13:51:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o#0",
+      "title": "Sixers beat Scorchers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers and Perth Scorchers at North Sydney Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242444?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242444#0",
       "source": "BBC Sport"
     },
     {
-      "title": "Cummins' Australia captaincy at a crossroads - Agnew",
-      "description": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 14:57:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Scots lose Super Six opening thriller to Dutch",
-      "description": "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 09:32:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o#0",
+      "title": "Hurricanes thrash Thunder - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Sydney Thunder in Hobart.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443#0",
       "source": "BBC Sport"
     },
     {
@@ -52,6 +44,22 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Durham appoint Gibson as head coach",
+      "description": "Durham appoint Ottis Gibson as their new head coach on a three-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 13:51:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Scots lose Super Six opening thriller to Dutch",
+      "description": "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 09:32:19 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Yorkshire re-sign Pakistan batter Imam",
       "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o?at_medium=RSS&at_campaign=rss",
@@ -60,19 +68,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Strikers beat Renegades by five wickets - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Melbourne Renegades at Adelaide Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242442?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242442#1",
+      "title": "Cummins retains Cricket Australia support as captain",
+      "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 10:13:23 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o#1",
       "source": "BBC Sport"
     },
     {
-      "title": "McCullum plans to use Brook and Banton as bowlers",
-      "description": "England white-ball coach Brendon McCullum believes that batters Harry Brook and Tom Banton can be genuine bowling options as they prepare for next year's World Cup.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 12:37:15 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro#1",
+      "title": "Cummins' Australia captaincy at a crossroads - Agnew",
+      "description": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 14:57:42 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#1",
       "source": "BBC Sport"
     },
     {
@@ -81,6 +89,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 00:00:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244080#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "McCullum plans to use Brook and Banton as bowlers",
+      "description": "England white-ball coach Brendon McCullum believes that batters Harry Brook and Tom Banton can be genuine bowling options as they prepare for next year's World Cup.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 12:37:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro#2",
       "source": "BBC Sport"
     },
     {
@@ -105,22 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 13:41:00 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Warwickshire legend Bell named Phoenix head coach",
-      "description": "Birmingham Phoenix appoint former Warwickshire and England star Ian Bell as their new head coach.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 12:57:10 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6regwd887d8o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "The Blaze to become Notts Outlaws Women in 2027",
-      "description": "Treble-winning Blaze are being rebranded in 2027 to use the full Nottinghamshire county name.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ge317plp32o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 10:00:14 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ge317plp32o#2",
       "source": "BBC Sport"
     },
     {
