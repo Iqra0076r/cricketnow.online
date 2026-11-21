@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-20T18:12:04.307639+00:00",
+  "updatedAt": "2026-11-21T01:00:01.310383+00:00",
   "items": [
     {
       "title": "Cummins retains Cricket Australia support as captain",
@@ -9,6 +9,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 10:13:23 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - first Test scorecard",
+      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
       "source": "BBC Sport"
     },
     {
@@ -48,19 +56,11 @@
       "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 09:21:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o#1",
       "source": "BBC Sport"
     },
     {
-      "title": "New Zealand v India - first Test scorecard",
-      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Adelaide Strikers beat Melbourne Renegades by 5 wickets - WBBL scorecard",
+      "title": "Strikers beat Renegades by five wickets - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Melbourne Renegades at Adelaide Oval.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242442?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 00:00:00 GMT",
@@ -88,7 +88,7 @@
       "description": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 16:13:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#2",
       "source": "BBC Sport"
     },
     {
@@ -121,14 +121,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6ge317plp32o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 10:00:14 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6ge317plp32o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Duckett ton & impressive bowlers give England series win",
-      "description": "England confidently sweep aside Australia in the third one-day international in Hobart to seal a statement series win.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 11:24:26 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6vg28end00xo#2",
       "source": "BBC Sport"
     },
     {
