@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-21T22:39:20.537359+00:00",
+  "updatedAt": "2026-11-22T04:27:23.961102+00:00",
   "items": [
     {
       "title": "Lehmann again denies knowing about sandpaper plot",
@@ -36,6 +36,14 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Brisbane Heat v Adelaide Strikers from 04:40 GMT - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Adelaide Strikers at Brisbane's Allan Border Field.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242445?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242445#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Cummins' integrity not compromised - Cricket Australia",
       "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
@@ -56,7 +64,7 @@
       "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Sydney Thunder in Hobart.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 14:57:42 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#2",
       "source": "BBC Sport"
     },
     {
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 11:12:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Durham sign Essex all-rounder Benkenstein",
-      "description": "Durham sign Essex all-rounder Luc Benkenstein on a \"multi-year\" contract.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 13:41:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5rmgj2rp0vjo#2",
       "source": "BBC Sport"
     },
     {
