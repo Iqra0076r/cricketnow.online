@@ -1,14 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-22T04:27:23.961102+00:00",
+  "updatedAt": "2026-11-22T13:52:11.344731+00:00",
   "items": [
+    {
+      "title": "Injured Jacks out of T20 Australia tour",
+      "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 10:00:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Lehmann again denies knowing about sandpaper plot",
       "description": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 11:36:24 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Lightning prevents Stars-Renegades result - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Melbourne Renegades at Melbourne's Junction Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242446?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242446#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan ease aside Scotland in Emerging Nations Trophy",
+      "description": "Scotland's hopes of reaching the Emerging Nations Trophy final are all but ended after Pakistan cruise to a nine-wicket victory in Ajman.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 09:56:12 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o#0",
       "source": "BBC Sport"
     },
     {
@@ -20,14 +44,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "England call up McKinney for South Africa Tests",
-      "description": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 13:00:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "New Zealand v India - first Test scorecard",
       "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
@@ -36,7 +52,7 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Brisbane Heat v Adelaide Strikers from 04:40 GMT - WBBL scorecard",
+      "title": "McGrath stars as Strikers beat Heat - WBBL scorecard",
       "description": "Latest scorecard from the Women's Big Bash League match between Brisbane Heat and Adelaide Strikers at Brisbane's Allan Border Field.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242445?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Nov 2026 00:00:00 GMT",
@@ -44,27 +60,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "England call up McKinney for South Africa Tests",
+      "description": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 13:00:06 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o#1",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Cummins' integrity not compromised - Cricket Australia",
       "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 09:32:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Sixers beat Scorchers to secure knockouts spot - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers and Perth Scorchers at North Sydney Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242444?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242444#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hurricanes thrash Thunder - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Hobart Hurricanes and Sydney Thunder in Hobart.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242443#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 10:13:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 11:12:46 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "The Sandpapergate Scandal",
-      "description": "Why has Australian cricket's sandpaper scandal returned to the headlines?",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m003575x?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/iplayer/episode/m003575x#2",
       "source": "BBC Sport"
     },
     {
