@@ -1,22 +1,38 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-24T11:53:20.404769+00:00",
+  "updatedAt": "2026-11-24T21:47:42.688114+00:00",
   "items": [
     {
-      "title": "Welshmen Donald & Salt demolish Australia as England level series",
+      "title": "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
       "description": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 11:32:45 GMT",
+      "published": "Tue, 24 Nov 2026 12:58:20 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no#0",
       "source": "BBC Sport"
     },
     {
-      "title": "England's tearaway quick bowler reinvented as a top-order batter",
-      "description": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 14:26:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o#0",
+      "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
+      "description": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 14:52:50 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Gloucestershire renamed Bristol Lions for T20 Blast",
+      "description": "Gloucestershire will rebrand to Bristol Lions for the T20 Blast from the 2027 season.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq9vwgz2em97o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 14:03:48 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq9vwgz2em97o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "England seamer Robinson joins Notts from Sussex",
+      "description": "England seamer Ollie Robinson leaves Sussex after 11 years to join Nottinghamshire for an undisclosed \"compensation package\" on a three-year deal.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx2er23p25jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 13:04:05 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqx2er23p25jo#0",
       "source": "BBC Sport"
     },
     {
@@ -28,11 +44,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "England's tearaway quick bowler reinvented as a top-order batter",
+      "description": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 14:26:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o#0",
+      "source": "BBC Sport"
+    },
+    {
       "title": "Saliva should be used to shine ball again - Gill",
       "description": "The India captain calls for the ban on using saliva to shine the ball to be reversed after drawing the first Test against New Zealand in Wellington.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y80neve594o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 08:55:49 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y80neve594o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y80neve594o#1",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +64,7 @@
       "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 08:08:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +72,7 @@
       "description": "Ireland are through to the final of the Emerging Nations Trophy in Ajman thanks to a 44-run victory over the Netherlands.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 15:28:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno#1",
       "source": "BBC Sport"
     },
     {
@@ -72,15 +96,7 @@
       "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Nov 2026 10:00:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Pakistan ease aside Scotland in Emerging Nations Trophy",
-      "description": "Scotland's hopes of reaching the Emerging Nations Trophy final are all but ended after Pakistan cruise to a nine-wicket victory in Ajman.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 09:56:12 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o#2",
       "source": "BBC Sport"
     },
     {
@@ -88,7 +104,7 @@
       "description": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 13:00:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o#2",
       "source": "BBC Sport"
     },
     {
@@ -97,6 +113,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 09:32:48 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Pakistan ease aside Scotland in Emerging Nations Trophy",
+      "description": "Scotland's hopes of reaching the Emerging Nations Trophy final are all but ended after Pakistan cruise to a nine-wicket victory in Ajman.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 09:56:12 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o#2",
       "source": "BBC Sport"
     },
     {
@@ -116,35 +140,11 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Scots lose Super Six opening thriller to Dutch",
-      "description": "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 09:32:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Durham appoint Gibson as head coach",
-      "description": "Durham appoint Ottis Gibson as their new head coach on a three-year deal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 13:51:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o#2",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Cummins' Australia captaincy at a crossroads - Agnew",
       "description": "Jonathan Agnew says he struggles to see how Pat Cummins can lead Australia into next summer's Ashes series in England following latest developments in the sandpapergate scandal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 14:57:42 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "The sandpaper plot - who was there, who said what?",
-      "description": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 16:13:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#2",
       "source": "BBC Sport"
     },
     {
@@ -233,6 +233,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 12:57:25 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvg1gnd9zmyo#6",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "A festive comedy featuring Jason Bateman, Olivia Munn and Jennifer Aniston",
+      "description": "Office rivals, festive mayhem and one very important client",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0033ttb/office-christmas-party?at_mid=LSEsPKIrTw&at_campaign=Office_Christmas_Party&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033ttb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Office_Christmas_Party&at_bbc_team=BBC",
+      "published": "Thu, 05 Nov 2026 01:42:27 GMT",
+      "guid": "https://www.bbc.co.uk/iplayer/episode/m0033ttb/office-christmas-party?at_mid=LSEsPKIrTw&at_campaign=Office_Christmas_Party&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033ttb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Office_Christmas_Party&at_bbc_team=BBC#7",
       "source": "BBC Sport"
     }
   ]
