@@ -1,14 +1,14 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-23T13:55:03.107308+00:00",
+  "updatedAt": "2026-11-24T01:26:03.818617+00:00",
   "items": [
     {
-      "title": "De Villiers claims ball-tampering from first 2018 Test",
-      "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 08:08:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o#0",
+      "title": "England's tearaway quick bowler reinvented as a top-order batter",
+      "description": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 14:26:27 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o#0",
       "source": "BBC Sport"
     },
     {
@@ -20,11 +20,35 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Injured Jacks out of T20 Australia tour",
-      "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 10:00:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o#0",
+      "title": "De Villiers claims ball-tampering from first 2018 Test",
+      "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 08:08:13 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "SA dominate day one against Bangladesh - second Test scorecard",
+      "description": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Maritz and Murray star as Ireland seal final berth",
+      "description": "Ireland are through to the final of the Emerging Nations Trophy in Ajman thanks to a 44-run victory over the Netherlands.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 15:28:05 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Scotland finish with emphatic win over Zimbabwe",
+      "description": "Scotland Women cruise to a 74-run win over Zimbabwe to secure third place in the second edition of the Emerging Nations Trophy.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 13:54:39 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o#0",
       "source": "BBC Sport"
     },
     {
@@ -36,19 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "South Africa v Bangladesh - second Test scorecard",
-      "description": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001#0",
+      "title": "Hampshire bowler Currie signs new deal to 2029",
+      "description": "Hampshire pace bowler Scott Currie signs a new deal at the club that will extend his stay until 2029.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr86810jwx80o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 13:53:43 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr86810jwx80o#1",
       "source": "BBC Sport"
     },
     {
-      "title": "Lightning prevents Stars-Renegades result - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Stars and Melbourne Renegades at Melbourne's Junction Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242446?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242446#0",
+      "title": "Injured Jacks out of T20 Australia tour",
+      "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 10:00:04 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +80,7 @@
       "description": "Scotland's hopes of reaching the Emerging Nations Trophy final are all but ended after Pakistan cruise to a nine-wicket victory in Ajman.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Nov 2026 09:56:12 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c933gzye80n7o#1",
       "source": "BBC Sport"
     },
     {
@@ -76,19 +100,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Lehmann again denies knowing about sandpaper plot",
-      "description": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 11:36:24 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Cummins' integrity not compromised - Cricket Australia",
       "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 09:32:48 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Lehmann again denies knowing about sandpaper plot",
+      "description": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 11:36:24 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm62pxqwzw9go#2",
       "source": "BBC Sport"
     },
     {
@@ -96,15 +120,7 @@
       "description": "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 09:32:19 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Cummins retains Cricket Australia support as captain",
-      "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 10:13:23 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o#2",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o#2",
       "source": "BBC Sport"
     },
     {
@@ -113,14 +129,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 13:51:27 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Donald aims for England T20 chance in Australia",
-      "description": "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia, and hoping to play his part at the MCG.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 05:04:29 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo#2",
       "source": "BBC Sport"
     },
     {
@@ -137,14 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 16:13:04 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 11:12:46 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#2",
       "source": "BBC Sport"
     },
     {
