@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-24T01:26:03.818617+00:00",
+  "updatedAt": "2026-11-24T11:53:20.404769+00:00",
   "items": [
+    {
+      "title": "Welshmen Donald & Salt demolish Australia as England level series",
+      "description": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 11:32:45 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "England's tearaway quick bowler reinvented as a top-order batter",
       "description": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 14:26:27 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "South Africa v Bangladesh - second Test scorecard",
+      "description": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001#0",
       "source": "BBC Sport"
     },
     {
@@ -28,14 +44,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "SA dominate day one against Bangladesh - second Test scorecard",
-      "description": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Maritz and Murray star as Ireland seal final berth",
       "description": "Ireland are through to the final of the Emerging Nations Trophy in Ajman thanks to a 44-run victory over the Netherlands.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno?at_medium=RSS&at_campaign=rss",
@@ -48,15 +56,7 @@
       "description": "Scotland Women cruise to a 74-run win over Zimbabwe to secure third place in the second edition of the Emerging Nations Trophy.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 13:54:39 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "NZ and India draw high-scoring first Test in Wellington - scorecard",
-      "description": "Latest scorecard from the first Test between New Zealand and India at Wellington's Basin Reserve.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242118#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o#1",
       "source": "BBC Sport"
     },
     {
@@ -92,19 +92,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia's Chaudhary downs England in tetchy first T20",
-      "description": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 12:24:33 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Cummins' integrity not compromised - Cricket Australia",
       "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 09:32:48 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Australia's Chaudhary downs England in tetchy first T20",
+      "description": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 12:24:33 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo#2",
       "source": "BBC Sport"
     },
     {
@@ -169,14 +169,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 10:17:00 GMT",
       "guid": "https://www.bbc.co.uk/sounds/play/p0pmshnr#4",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Stumped",
-      "description": "Usman Khawaja claims entire team knew about the use of sandpaper in Cape Town in 2018",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct99g6?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:17:00 GMT",
-      "guid": "https://www.bbc.co.uk/sounds/play/w3ct99g6#4",
       "source": "BBC Sport"
     },
     {
