@@ -1,8 +1,16 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-26T01:24:10.339387+00:00",
+  "updatedAt": "2026-11-26T10:17:00.056031+00:00",
   "items": [
+    {
+      "title": "Hundred adds semi-finals from 2027",
+      "description": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cv0l34jzx0w4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 06:15:15 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cv0l34jzx0w4o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Motorcycle rider who took stunning cricket catch found",
       "description": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
@@ -20,11 +28,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
-      "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:23:03 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo#0",
+      "title": "Glenn makes 'free ball' history in WBBL after Dottin timed out",
+      "description": "Watch the moment England's Sarah Glenn makes history in the women's Big Bash League as she bowls at an empty set of stumps with a 'free ball', to dismiss Deandra Dottin after the batter was ruled to have taken too long to face the delivery.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 10:03:36 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Litchfield hits century as Thunder beat Strikers - WBBL scorecard",
+      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Adelaide Strikers at North Sydney Oval.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242448?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242448#0",
       "source": "BBC Sport"
     },
     {
@@ -40,7 +56,7 @@
       "description": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 08:37:44 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero#1",
       "source": "BBC Sport"
     },
     {
@@ -48,7 +64,7 @@
       "description": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
       "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001#1",
       "source": "BBC Sport"
     },
     {
@@ -56,7 +72,7 @@
       "description": "Northamptonshire Steelbacks will begin their T20 Blast defence at Hampshire, in a repeat of last season's final.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 10:00:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o#0",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o#1",
       "source": "BBC Sport"
     },
     {
@@ -68,14 +84,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
-      "description": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 12:58:20 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no#1",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
       "description": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
@@ -84,19 +92,19 @@
       "source": "BBC Sport"
     },
     {
+      "title": "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
+      "description": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 12:58:20 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no#2",
+      "source": "BBC Sport"
+    },
+    {
       "title": "England seamer Robinson joins Notts from Sussex",
       "description": "England seamer Ollie Robinson leaves Sussex after 11 years to join Nottinghamshire for an undisclosed \"compensation package\" on a three-year deal.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cqx2er23p25jo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 13:04:05 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqx2er23p25jo#1",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "De Villiers claims ball-tampering from first 2018 Test",
-      "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 08:08:13 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqx2er23p25jo#2",
       "source": "BBC Sport"
     },
     {
@@ -105,6 +113,14 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 13:54:39 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwj059yenyr0o#2",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "De Villiers claims ball-tampering from first 2018 Test",
+      "description": "Former South Africa batter AB de Villiers says \"there is absolutely no doubt in my mind\" that Australia were altering the ball from the opening Test in 2018.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 08:08:13 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c607418zlpz4o#2",
       "source": "BBC Sport"
     },
     {
@@ -129,30 +145,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 15:28:05 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c3j4r2w48znno#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Injured Jacks out of T20 Australia tour",
-      "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 10:00:04 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Hampshire bowler Currie signs new deal to 2029",
-      "description": "Hampshire pace bowler Scott Currie signs a new deal at the club that will extend his stay until 2029.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cr86810jwx80o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 13:53:43 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cr86810jwx80o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England call up McKinney for South Africa Tests",
-      "description": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 13:00:06 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o#2",
       "source": "BBC Sport"
     },
     {
