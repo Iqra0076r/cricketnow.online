@@ -1,14 +1,30 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-26T20:46:38.797758+00:00",
+  "updatedAt": "2026-11-27T03:53:19.049415+00:00",
   "items": [
+    {
+      "title": "Australia's sandpapergate probe to also include 2017-18 Ashes",
+      "description": "Cricket Australia's fresh independent probe into the sandpapergate scandal has been widened to include the 2017-18 Ashes series against England.",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 00:43:03 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o#0",
+      "source": "BBC Sport"
+    },
     {
       "title": "Pant joins New Zealand club match under false name",
       "description": "India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 16:21:44 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India - second Test scorecard",
+      "description": "Latest scorecard from the second Test between New Zealand and India in Christchurch.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119#0",
       "source": "BBC Sport"
     },
     {
@@ -44,27 +60,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Glenn makes 'free ball' history in WBBL after Dottin timed out",
-      "description": "Watch the moment England's Sarah Glenn makes history in the women's Big Bash League as she bowls at an empty set of stumps with a 'free ball', to dismiss Deandra Dottin after the batter was ruled to have taken too long to face the delivery.",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 10:03:36 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Perry leads Sixers past Stars - WBBL scorecard",
-      "description": "Latest scorecard from the Women's Big Bash League match between Sydney Sixers and Melbourne Stars at North Sydney Oval.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242449?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242449#0",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Dottin out to 'free ball' after historic WBBL decision",
       "description": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 12:34:42 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro#1",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Glenn makes 'free ball' history in WBBL after Dottin timed out",
+      "description": "Watch the moment England's Sarah Glenn makes history in the women's Big Bash League as she bowls at an empty set of stumps with a 'free ball', to dismiss Deandra Dottin after the batter was ruled to have taken too long to face the delivery.",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 10:03:36 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko#1",
       "source": "BBC Sport"
     },
     {
@@ -96,7 +104,7 @@
       "description": "Northamptonshire Steelbacks will begin their T20 Blast defence at Hampshire, in a repeat of last season's final.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 10:00:50 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o#1",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o#2",
       "source": "BBC Sport"
     },
     {
@@ -145,14 +153,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y80neve594o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 08:55:49 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c6y80neve594o#2",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "England's tearaway quick bowler reinvented as a top-order batter",
-      "description": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 14:26:27 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o#2",
       "source": "BBC Sport"
     },
     {
