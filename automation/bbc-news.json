@@ -1,7 +1,7 @@
 {
   "source": "BBC Sport Cricket RSS",
   "feedUrl": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
-  "updatedAt": "2026-11-27T22:26:05.396036+00:00",
+  "updatedAt": "2026-11-28T05:46:36.856283+00:00",
   "items": [
     {
       "title": "England outclass Aussies again to take series lead",
@@ -20,11 +20,19 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Australia set to drop Lyon for first New Zealand Test",
-      "description": "Australia are set to drop off-spinner Nathan Lyon for the first Test against New Zealand, starting on 9 December.",
+      "title": "Australia drop Lyon for New Zealand Tests",
+      "description": "Australia have dropped off-spinner Nathan Lyon for the Test series against New Zealand, starting on 9 December.",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckjre1p5g4l7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 12:24:09 GMT",
+      "published": "Fri, 27 Nov 2026 22:58:01 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ckjre1p5g4l7o#0",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "New Zealand v India day two - second Test scorecard",
+      "description": "Latest scorecard from the second Test between New Zealand and India in Christchurch.",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119#0",
       "source": "BBC Sport"
     },
     {
@@ -41,14 +49,6 @@
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cke893m0qnq5o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 17:50:56 GMT",
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cke893m0qnq5o#0",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "New Zealand v India even after day one - second Test scorecard",
-      "description": "Latest scorecard from the second Test between New Zealand and India in Christchurch.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
-      "guid": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119#0",
       "source": "BBC Sport"
     },
     {
